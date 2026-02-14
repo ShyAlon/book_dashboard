@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <title>desktop</title>
+    <style>
+        #boot-screen {
+            position: fixed;
+            inset: 0;
+            background: #05070b;
+            color: #e2e8f0;
+            font-family: "Nunito", "Avenir Next", "Segoe UI", sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 99999;
+        }
+        #boot-screen.hidden {
+            display: none;
+        }
+        #boot-card {
+            width: min(900px, 92vw);
+            border: 1px solid #334155;
+            border-radius: 14px;
+            background: rgba(2, 6, 23, 0.96);
+            box-shadow: 0 16px 44px rgba(0, 0, 0, 0.4);
+            padding: 18px;
+        }
+        #boot-title {
+            margin: 0;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: #94a3b8;
+        }
+        #boot-action {
+            margin: 8px 0 0;
+            font-size: 1.25rem;
+            font-weight: 700;
+        }
+        #boot-subphase {
+            margin: 8px 0 0;
+            color: #cbd5e1;
+            font-size: 0.98rem;
+        }
+        #boot-time {
+            margin: 8px 0 14px;
+            color: #93c5fd;
+            font-weight: 600;
+        }
+        #boot-log {
+            max-height: 44vh;
+            overflow: auto;
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            display: grid;
+            gap: 8px;
+        }
+        #boot-log li {
+            border: 1px solid #2b2b31;
+            background: #0f0f13;
+            border-radius: 8px;
+            padding: 8px;
+            font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+            font-size: 0.84rem;
+            line-height: 1.3;
+        }
+    </style>
+</head>
+<body>
+<section id="boot-screen">
+    <div id="boot-card">
+        <p id="boot-title">Initialization</p>
+        <p id="boot-action">initializing</p>
+        <p id="boot-subphase">starting up</p>
+        <p id="boot-time">0s</p>
+        <ul id="boot-log">
+            <li>[BOOT] initializing</li>
+        </ul>
+    </div>
+</section>
+<div id="root"></div>
+<script src="./src/main.tsx" type="module"></script>
+</body>
+</html>

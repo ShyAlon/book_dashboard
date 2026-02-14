@@ -1,0 +1,238 @@
+This is a **Production-Ready Technical Requirements Document (TRD)**. You can hand this directly to a developer, and it provides everything from the folder structure to the specific algorithms needed.
+
+---
+
+# Technical Requirements Document (TRD)
+
+**Project Name:** Manuscript Health Dashboard (MHD)
+**Version:** 2.1 (Release Candidate)
+**Architecture:** Local-First, Air-Gapped, Single Binary.
+**Target User:** Literary Agents & Publishers (Business-First).
+
+---
+
+## 1. System Overview & Technology Stack
+
+### 1.1 Core Objective
+
+To build a desktop application that ingests long-form manuscripts (DOCX/PDF) and performs **offline structural, logical, and stylistic audits** using a local LLM. It must be secure (no data egress), fast (Go backend), and visually "professional" (Dark-themed UI).
+
+### 1.2 The "Air-Gapped" Stack
+
+| Component | Technology | Version | Reasoning |
+| --- | --- | --- | --- |
+| **Backend** | **Golang** | `1.22+` | High concurrency for text processing; compiles to static binary. |
+| **Frontend** | **React + Vite** | `18.x` | Industry standard; component-based UI. |
+| **Bridge** | **Wails** | `v2.8+` | Lightweight Electron alternative. Uses native WebKit. |
+| **Database** | **SQLite** | `modernc.org/sqlite` | CGO-free, embedded SQL database. One `.db` file per book. |
+| **Vector Store** | **Chromem-go** | `latest` | Pure Go, in-memory vector database for semantic search (no external server needed). |
+| **AI Engine** | **Ollama** | `latest` | Manages local inference. Backend connects via HTTP `localhost:11434`. |
+| **Styling** | **Tailwind CSS** | `3.x` | Utility-first CSS for the "Darkroom" aesthetic. |
+| **Charts** | **Recharts** & **Vis.js** | `latest` | For the Emotional Heatmap and Timeline. |
+
+---
+
+## 2. Architecture & Data Flow
+
+### 2.1 The "Ingestion Pipeline" (Critical Path)
+
+**Constraint:** You cannot feed a 100k-word novel to an LLM at once.
+**Algorithm:** The **"Sliding Window" Strategy**.
+
+1. **Parse:** Convert DOCX to plain text (preserve Chapter headers).
+2. **Chunk:** Split text into **Segments** (1,500 tokens) with **Overlap** (200 tokens).
+3. **Vectorize:** Store embeddings of every chunk in `chromem-go` for semantic retrieval.
+4. **Analyze:** Parallel processing (Workers) to extract entities/events.
+
+### 2.2 Directory Structure
+
+The application must create a "Workspace" in the user's home directory.
+
+```text
+~/ManuscriptHealth/
+├── configs/
+│   └── settings.json        # User preferences
+├── cache/
+│   └── embeddings/          # Vector store persistence
+└── projects/
+    └── {book_title_hash}/
+        ├── source.docx
+        ├── analysis.db      # SQLite (Entities, Timeline)
+        └── report.json      # Final JSON output for UI
+
+```
+
+---
+
+## 3. Core Feature Specifications
+
+### 3.1 Feature: Consistency Forensics (The Logic Checker)
+
+**Goal:** Detect when a character changes traits or history.
+
+* **Database Schema (`analysis.db`):**
+```sql
+CREATE TABLE entities (
+    id INTEGER PRIMARY KEY,
+    name TEXT,
+    aliases TEXT, -- JSON ["Bob", "Robert"]
+    attributes TEXT -- JSON {"eyes": "blue", "age": "30"}
+);
+
+CREATE TABLE contradictions (
+    id INTEGER PRIMARY KEY,
+    entity_id INTEGER,
+    chapter_a INTEGER,
+    chapter_b INTEGER,
+    description TEXT, -- "Eyes were blue in Ch1 but brown in Ch12"
+    severity TEXT -- "HIGH", "MED", "LOW"
+);
+
+```
+
+
+* **Process:**
+1. **Extraction Pass:** LLM extracts JSON profiles from each chapter.
+2. **Unification:** Go merges profiles. If `Chapter 1.Age != Chapter 5.Age`, flag as `Contradiction`.
+
+
+
+### 3.2 Feature: "AI Slop" Detector (Statistical)
+
+**Goal:** Identify synthetic writing patterns *without* using an LLM (for speed).
+
+* **Algorithm (Go Implementation):**
+1. **Burstiness:** Calculate Standard Deviation (SD) of sentence lengths per paragraph.
+* *If SD < 4.0 (very uniform)* → **Flag as "Monotone".**
+
+
+2. **Vocabulary Density:** Check frequency of "Red Flag" words against `bad_words.json` (`[delve, tapestry, vibrant, testament, symphony]`).
+3. **Perplexity Proxy:** Use a simple N-Gram model. If 90% of trigrams are in the "Top 1000 common English trigrams," flag as **"Low Originality."**
+
+
+
+### 3.3 Feature: Chronos Timeline
+
+**Goal:** Reconstruct the linear timeline from a non-linear narrative.
+
+* **Prompt Strategy:**
+> "Extract all time markers (e.g., 'next day', '1999') and events. Return JSON: `[{ 'time_marker': 'next day', 'event': 'John dies' }]`."
+
+
+* **Visualization:** Use `Vis.js` Timeline component.
+* **X-Axis:** In-Story Time (calculated).
+* **Click Event:** Opens the specific paragraph in the manuscript.
+
+
+
+### 3.4 Feature: Structural DNA ("Save the Cat")
+
+**Goal:** Map the book to the 15-beat structure.
+
+* **Logic:** Hardcode the percentage buckets.
+* *Catalyst:* Look at **10-12%** mark.
+* *Midpoint:* Look at **45-55%** mark.
+* *All is Lost:* Look at **75%** mark.
+
+
+* **Action:** Summarize the chapters in these buckets and ask LLM: *"Does this summary contain a [Beat Name]? Explain why."*
+
+### 3.5 Feature: Genre & Comp Titles
+
+**Goal:** Market placement.
+
+* **Implementation:**
+1. **Genre:** Cosine similarity of the *Whole Book Summary* embedding against pre-computed Genre Anchors (Thriller, Romance, etc.).
+2. **Comp Titles:**
+* *Prompt:* "Based on this synopsis, identify 5 real published novels with similar themes/tone. For each, explicitly state if it is a 'Blockbuster' or 'Mid-list' title."
+
+
+
+
+
+---
+
+## 4. UI/UX Specifications (The "Darkroom" Theme)
+
+### 4.1 Design System
+
+* **Framework:** `shadcn/ui` (React components).
+* **Colors:**
+* Background: `#0A0A0A` (Zinc-950)
+* Panel: `#18181B` (Zinc-900)
+* Accent: `#F43F5E` (Rose-500 for Errors), `#10B981` (Emerald-500 for Health).
+
+
+
+### 4.2 Dashboard Layout
+
+1. **The Header:** Book Title, Word Count, **"MHD Score"** (0-100 Aggregate).
+2. **The "Live Console" (Right Rail):**
+* Must scroll automatically.
+* Logs must be color-coded: `[INFO]` (Grey), `[ANALYSIS]` (Blue), `[RISK]` (Red).
+
+
+3. **The Main Stage:**
+* **Tab 1: Health.** (Contradictions list, Slop Score).
+* **Tab 2: Structure.** (Timeline & Beat Sheet).
+* **Tab 3: Market.** (Genre Radar Chart & Comp Titles).
+
+
+
+---
+
+## 5. Developer Instructions
+
+### 5.1 Pre-Requisites (Copy-Paste for Dev)
+
+```bash
+# Install Go 1.22+
+brew install go
+
+# Install Wails
+go install github.com/wailsapp/wails/v2/cmd/wails@latest
+
+# Install Node
+brew install node
+
+# Install Ollama & Pull Models
+brew install ollama
+ollama pull llama3
+ollama pull nomic-embed-text # For embeddings
+
+```
+
+### 5.2 Unit Test Requirements
+
+The project **must** pass these tests before delivery:
+
+1. **`TestChunkingAlgorithm`:** Feed a 5,000-word file. Assert zero data loss.
+2. **`TestContradictionEngine`:** Feed JSON: `[{name: "John", dead: false}, {name: "John", dead: true}]`. Assert detection of conflict.
+3. **`TestOfflineMode`:** Disconnect WiFi. Run the full suite. It must pass.
+
+### 5.3 Prompt Engineering Templates (Embed these in Go)
+
+**For Structure Analysis:**
+
+```text
+SYSTEM: You are a senior literary editor.
+INPUT: [Chapter Summary]
+TASK: Determine if this section represents the "{BEAT_NAME}" of the story.
+CRITERIA:
+- Catalyst: A life-changing event.
+- Midpoint: A false victory or false defeat.
+- All is Lost: A moment of total hopelessness.
+OUTPUT: JSON { "is_beat": boolean, "reasoning": string }
+
+```
+
+**For Comp Titles:**
+
+```text
+SYSTEM: You are a book market analyst.
+INPUT: [Book Synopsis]
+TASK: List 5 comparable titles published in the last 10 years.
+CONSTRAINT: Do not invent titles. If unsure, state "Unknown".
+OUTPUT: JSON array.
+
+```
