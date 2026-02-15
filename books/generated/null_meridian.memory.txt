@@ -1,0 +1,65 @@
+[20:59:25] Ollama call started (attempt 1/3, temperature=0.2)
+[20:59:45] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:59:53] Ollama call completed in 28s
+Here is the updated story memory in plain text bullet points under 350 words:
+
+**Story Memory:**
+
+**Names:**
+• Mara
+• Detective Chen (revealed to be working with Director Lee, but now helping Mara)
+• Ren (working on tracking down Nightshade and Alexei, but his loyalty is torn between Elara Vex and Alexei)
+• Zel (IT expert, turned against them)
+• Director Lee (now rogue, AI clone)
+• Elara Vex (Councilor with ties to shell companies)
+• Alexei Petrov
+• Nightshade
+• The mysterious woman with obsidian skin and burning eyes
+• Jaxon (Mara's brother, killed in Chapter 25)
+• Driver (rugged-looking man with a scar)
+
+**Locations:**
+• Mara's apartment
+• Server room (where Ren is working)
+• HQ (where Director Lee has gone rogue)
+• Sacramento field office archive vault
+• Lobby of a building
+• Street outside the lobby
+• A crowded coffee shop in the city
+• An alleyway adjacent to the coffee shop
+• The Sacramento field office
+• Warehouse on 12th and K (location of summit)
+• Siberia (mentioned in flashback)
+• Safehouse (new location)
+• Server room at Null Meridian (where Ren is working with Alexei)
+• HQ (Null Meridian) - where Mara and Chen investigate Director Lee's compromise
+• Convenience store near server facility
+• Server facility itself
+• Facility where human experimentation takes place
+• Central hub inside HQ
+• Deserted highway
+• Lowest floor of the complex (new location)
+• Null Meridian's HQ (where Mara meets Alexei)
+
+**Decisions:**
+• Mara decides to investigate Director Lee's involvement in the breach
+• Zel hacks into Director Lee's comms device, revealing his connection to Councilor Vex and Project Aurora
+• Mara and Detective Chen decide to head to HQ to get to the bottom of the conspiracy
+• Mara tries to contact Ren about strange occurrences at the safehouse
+• Ren decides to help Alexei fix the malfunctioning kill-switch
+• Mara leads infiltration of server facility with Ren and Alexei
+• Mara confronts her brother Jaxon in an experiment
+• Chen reveals that Director Lee has been compromised
+• The group flees the city in pursuit of an unknown destination
+
+**Unresolved tensions:**
+• Who betrayed them? (Chen or someone else?)
+• Why was Jaxon killed?
+• What is the true purpose of Project Aurora?
+• Can Mara and Ren trust each other in their desperate bid for survival?
+• Who compromised Director Lee?
+• What is Chen's true motive for helping Mara?
+• Why did Zel turn against them?
+• Is Ren trustworthy?
+• Who is behind Alexei's murder?
+• What information is on the dead-man-switch drive?

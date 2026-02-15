@@ -1,0 +1,99 @@
+Chapter 6: Untitled
+
+[20:07:34] Ollama call started (attempt 1/3, temperature=0.75)
+[20:07:54] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:08:12] Ollama call completed in 38s
+Null Meridian
+
+Chapter 6: Archives of Deceit
+
+The fluorescent lights overhead cast an unforgiving glare over the rows of steel shelves, their labels etched in cryptic abbreviations and arcane codes. Mara's eyes scanned the aisles with a practiced intensity, her mind racing to keep pace with Ren's hushed explanations. "This is the archive vault for the Sacramento field office. The records here date back decades – personnel files, case notes, everything."
+
+Mara nodded curtly, her gaze lingering on the shelf labels as they navigated through the narrow aisles. They had been in the vault for twenty minutes already, and she could feel the weight of their mission bearing down on them. Stealing ledgers from a secure archive was no small task, especially when you were certain that your own agency might be compromised.
+
+Ren halted before a shelf marked "CLASSIFIED – HIGH-LEVEL CLEARANCE ONLY." He produced a slender keycard and swiped it across the reader, and the lock disengaged with a soft click. Mara watched as he carefully removed the top two shelves, revealing a hidden compartment beneath.
+
+"Got it," Ren whispered, holding up a stack of thick ledgers bound in black leather. "This is what we're looking for – financial records from Operation Nightshade."
+
+Mara's eyes widened as she took the ledgers from him. "These are the ones Alexei mentioned, aren't they?"
+
+Ren nodded, his expression grim. "Yeah, I think so. We need to get these back to Zel and see if he can crack the encryption."
+
+As they made their way back through the vault, Mara's thoughts strayed to the cryptic messages she'd been receiving on her comms device. "You're close" still echoed in her mind, but what did it mean? Were they getting closer to uncovering the truth about Alexei's murder and Director Lee's involvement?
+
+The two of them emerged from the vault into a narrow corridor lined with security cameras. Mara felt a shiver run down her spine as she glanced up at the lens nearest to her. Was someone watching their every move?
+
+"Let's get out of here," Ren said quietly, already moving toward the exit.
+
+Mara followed him, her senses on high alert. They reached the elevator and stepped inside just as it was about to close. The doors slid shut with a soft whoosh, enveloping them in an eerie silence.
+
+As they descended into the bowels of the building, Mara's eyes locked onto Ren's. "We can't trust anyone," she whispered urgently. "Not even Director Lee."
+
+Ren's expression turned skeptical. "You think he's involved?"
+
+Mara nodded firmly. "I do. And if we're not careful, someone else will find out what we're doing and shut us down before we can uncover the truth."
+
+The elevator stopped on the ground floor with a soft jolt, and the doors slid open to reveal a sea of bustling activity in the lobby. Mara's gaze swept over the crowd, searching for any sign of their pursuers.
+
+But as they stepped out into the bright California sunlight, Mara felt a strange sense of unease settle over her. They were being watched – she could feel it. And this time, it wasn't just the cameras.
+
+A shadowy figure detached from the crowd and began to follow them, keeping a discreet distance. Mara's instincts screamed warning, but she couldn't quite pinpoint their pursuer's identity.
+
+As they turned onto the street, Ren suddenly grabbed her arm. "Wait," he whispered urgently. "Look at that."
+
+Mara followed his gaze to a nearby payphone, where a figure was dialing with an intensity that bordered on desperation. The receiver seemed to be pressed firmly against their ear as they spoke in hushed tones.
+
+And then, just as suddenly, the conversation ceased. The caller hung up and turned away from the phone, disappearing into the crowd.
+
+Mara's heart sank as she realized who it was – Director Lee himself, his eyes scanning the crowd with an air of unease that didn't quite ring true. "We need to get out of here," Mara whispered to Ren, her voice barely audible over the din of the city.
+
+But as they turned to flee, a figure emerged from the shadows behind them, their eyes locked onto Director Lee with a cold, calculating intensity...
+
+[20:08:12] Ollama call started (attempt 1/3, temperature=0.7)
+[20:08:32] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:08:45] Ollama call completed in 33s
+The figure's gaze lingered on Director Lee for a fraction of a second longer than necessary, and Mara felt a shiver run down her spine. Who was this person, and what did they want?
+
+Director Lee seemed to sense the scrutiny, his eyes darting toward the newcomer with a flash of unease. For an instant, Mara thought he might try to flee, but instead, he took a step forward, his voice firm.
+
+"Can I help you?" he asked gruffly.
+
+The figure didn't respond, their gaze still fixed on Director Lee with an unnerving intensity. The air seemed to vibrate with tension as the two men stood there, locked in a silent standoff.
+
+Mara's hand tightened around Ren's arm, her mind racing with possibilities. Who was this person, and what did they want with Director Lee? Was it a coincidence that they'd shown up now?
+
+Ren's eyes flicked toward Mara, his expression questioning, but she shook her head subtly. They couldn't risk drawing attention to themselves – not yet.
+
+The silence between the two men stretched out, becoming almost unbearable. Finally, Director Lee spoke up again, his voice dripping with a mixture of curiosity and wariness.
+
+"Look, I don't know what you want, but we need to talk about this somewhere else," he said, nodding toward a nearby café. "I'll go get us a table, and –"
+
+"No," the figure interrupted, their voice low and even. "We'll speak here."
+
+Mara's instincts screamed warning as Director Lee hesitated, his eyes darting toward her and Ren before returning to the mysterious stranger.
+
+"Very well," he said finally, his tone resigned. "What do you want?"
+
+The figure took a step closer, their eyes never leaving Director Lee's face. For an instant, Mara thought she saw something flicker in their expression – a glimmer of recognition, perhaps, or even fear.
+
+But it was gone before she could be sure, replaced by an air of detached calculation that made her skin crawl.
+
+"I want to know what you're hiding," the stranger said, their voice dripping with menace. "And I think you know exactly who I am."
+
+Mara's mind reeled as Director Lee's eyes widened in comprehension. He knew this person? Who was it?
+
+The two men stood there, locked in a silent confrontation that seemed to stretch on forever. Mara felt her heart pounding in her chest, her senses on high alert.
+
+And then, just as suddenly, the stranger turned and vanished into the crowd, leaving Director Lee looking shaken and bewildered.
+
+"What...what just happened?" Ren breathed, his eyes wide with confusion.
+
+Mara shook her head, her mind racing to keep pace. "I don't know," she whispered back, her gaze scanning the crowd frantically for any sign of their mysterious pursuer.
+
+But as they turned to leave, Mara caught a glimpse of something that made her blood run cold – a small piece of paper on the ground near where the stranger had stood, blowing gently in the breeze.
+
+She reached down and picked it up, her heart sinking as she realized what it was – a fragment of a text message, hastily scrawled on a scrap of paper:
+
+"We know about Nightshade."
+
+Mara's eyes met Ren's, and they both knew that their mission had just gotten a whole lot more complicated. They were being watched, and someone else was closing in...

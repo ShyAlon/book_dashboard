@@ -28,6 +28,7 @@ type serviceManager struct {
 	ollamaStatus       backend.ServiceStatus
 	languageToolStatus backend.ServiceStatus
 	traces             []backend.ServiceTrace
+	traceSink          func(backend.ServiceTrace)
 }
 
 type managedProcess struct {
@@ -205,6 +206,12 @@ func (s *serviceManager) Snapshot() backend.SystemDiagnostics {
 	}
 }
 
+func (s *serviceManager) SetTraceSink(sink func(backend.ServiceTrace)) {
+	s.mu.Lock()
+	s.traceSink = sink
+	s.mu.Unlock()
+}
+
 func (s *serviceManager) updateOllama(running, ready bool, detail, errMsg string) {
 	s.mu.Lock()
 	defer s.mu.Unlock()
@@ -236,7 +243,11 @@ func (s *serviceManager) trace(ctx context.Context, level, message, detail strin
 	if len(s.traces) > 400 {
 		s.traces = s.traces[len(s.traces)-400:]
 	}
+	sink := s.traceSink
 	s.mu.Unlock()
+	if sink != nil {
+		sink(t)
+	}
 
 	if os.Getenv("MHD_TRACE_PROGRESS") == "1" {
 		fmt.Printf("%s [SERVICE] [%s] %s: %s\n", t.Time, level, message, detail)

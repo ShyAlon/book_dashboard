@@ -1,0 +1,110 @@
+Chapter 17: Untitled
+
+[20:31:27] Ollama call started (attempt 1/3, temperature=0.75)
+[20:31:47] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:32:07] Ollama call still running... elapsed=40s (attempt 1/3)
+[20:32:07] Ollama call completed in 40s
+Chapter 17: The Puppeteer's Strings
+
+Mara stood at the edge of her bed, staring out the window as she listened to the soft hum of the city below. Her eyes lingered on the figure across the street, who was still lingering in the shadows. She felt a shiver run down her spine as their gazes met for a brief moment before they parted ways. The stranger's presence only added fuel to the fire of questions that had been burning within her since she'd discovered Director Lee's AI clone.
+
+She shook off the distraction and turned back to her task at hand: investigating Director Lee's involvement in the breach. Mara's eyes scanned the screens in front of her, her mind racing with the implications of what she was seeing. The trail of digital breadcrumbs led her to a series of encrypted messages exchanged between Director Lee and an unknown party.
+
+The first message read: "Confirmed. Package received."
+
+Mara's gut twisted into knots as she realized that this conversation wasn't about the investigation at all, but something much more sinister. She quickly typed out a request for Zel to hack into Director Lee's comms device, hoping to uncover more information.
+
+Meanwhile, across town, Ren was working tirelessly in the server room, trying to track down any leads on Nightshade and Alexei's disappearance. His fingers flew across the keyboard as he navigated through layers of firewalls, searching for a way in.
+
+The silence in the room was oppressive, punctuated only by the soft beeps of the servers and Ren's muttered curses as he encountered yet another dead end.
+
+"Come on," he whispered to himself, "just one more click..."
+
+Back at Mara's apartment, she finally received a response from Zel. The IT expert had managed to crack Director Lee's encryption, but what they found was far from reassuring.
+
+"Mara, it looks like Director Lee has been working with someone else – a councilor, by the name of Elara Vex," Zel said over the phone. "They've been discussing something called 'Project Aurora.'"
+
+Mara felt her heart sink as she scribbled down the details in her notebook. This was exactly what she had feared: Director Lee's involvement in a larger conspiracy.
+
+"What else can you tell me, Zel?" Mara asked, trying to keep her voice steady.
+
+"Well," Zel hesitated before continuing, "there's something else... it looks like Councilor Vex has ties to several shell companies operating in the city. It's like she's using them as fronts for something bigger."
+
+Mara's eyes widened as the pieces began to fall into place. This was no small-time operation; this was a full-blown conspiracy that spanned across multiple levels of government.
+
+As she hung up with Zel, Mara felt a sense of unease creeping over her. She knew she had to tread carefully now – one misstep could mean disaster for herself and the entire investigation.
+
+She glanced out the window once more, half-expecting the stranger to still be lurking in the shadows. But this time, they were gone.
+
+Or so it seemed.
+
+The phone on Mara's nightstand suddenly jolted her back into reality as it shrilled with an incoming call. She hesitated for a moment before answering, her heart pounding in anticipation of what she might hear next.
+
+But instead of Director Lee's smooth voice or Councilor Vex's icy tone, it was Detective Chen's gruff drawl that greeted her on the other end of the line.
+
+"Mara, I've got some bad news," he said, his words dripping with an uncharacteristic hesitation. "I just received word from HQ – Director Lee has gone rogue."
+
+Mara's eyes snapped back to attention as she scribbled down another note in her book.
+
+"What do you mean?" she asked, her mind racing with the implications.
+
+"I don't know all the details yet," Chen replied, his voice laced with a sense of urgency. "But it looks like Director Lee has been playing us all along – using our own resources against us."
+
+Mara felt a cold shiver run down her spine as she pieced together the fragments of evidence in front of her. This was more than just a conspiracy; this was a full-blown coup.
+
+And Mara knew exactly where to start looking for answers next...
+
+[20:32:07] Ollama call started (attempt 1/3, temperature=0.7)
+[20:32:28] Ollama call still running... elapsed=21s (attempt 1/3)
+[20:32:44] Ollama call completed in 37s
+"I'm on my way to HQ," Detective Chen continued, his voice growing more urgent with every passing second. "I need you to meet me there as soon as possible. We have to get to the bottom of this before it's too late."
+
+Mara nodded, even though she knew he couldn't see her. She quickly grabbed her phone and began typing out a message to Ren, filling him in on the latest developments.
+
+"Ren, it's Mara," she typed. "Director Lee has gone rogue. Chen just called – we need to get to HQ ASAP."
+
+She hit send and turned back to the detective. "I'll be there in twenty minutes," she promised. "What do you know so far?"
+
+"I don't have much," Chen admitted, his voice laced with frustration. "But it looks like Director Lee has somehow managed to bypass our security measures and access sensitive information. I'm not sure what he's after, but I have a feeling it's big."
+
+Mara's mind was racing with possibilities as she quickly got dressed and grabbed her bag. She knew that HQ would be swarming with agents by now, all trying to get their hands on Director Lee's files.
+
+As she made her way out of the apartment, she caught a glimpse of herself in the mirror. Her eyes looked tired, her skin pale from lack of sleep. But she pushed those thoughts aside and focused on the task at hand.
+
+She arrived at HQ just as Detective Chen was stepping out of the elevator. His expression was grim, and Mara could see the tension etched on his face.
+
+"What's going on?" he asked, his eyes scanning the area before focusing back on her.
+
+"I don't know," she replied, "but I think it starts with Director Lee's AI clone."
+
+Chen's eyebrows shot up in surprise. "You've been digging into that?"
+
+Mara nodded. "Yeah, and I think I found something big. But we need to get inside – see if we can find any evidence of what he's planning."
+
+As they made their way through the crowded corridors, Mara couldn't shake off the feeling that they were being watched. She kept glancing over her shoulder, half-expecting to see the stranger from across the street lurking in the shadows.
+
+But there was no one there.
+
+They finally arrived at Director Lee's office, where a team of agents was frantically searching through files and computers. Mara's eyes scanned the room, taking in the chaos.
+
+"Where is everyone?" she asked Chen, her voice barely above a whisper.
+
+"I don't know," he replied, his face grim. "But I think we're running out of time."
+
+Mara nodded, her heart pounding with anticipation as they pushed their way into the office. And that's when she saw it – a small, sleek device sitting on Director Lee's desk, surrounded by scattered papers and files.
+
+It was the Ollama device, its screen glowing softly in the dim light of the room. Mara felt a shiver run down her spine as she realized what this meant – Director Lee had been using the AI to hack into the city's mainframe.
+
+"Chen," she whispered urgently, "I think I found something."
+
+The detective's eyes followed hers, and his expression turned grim. "We need to get out of here – now."
+
+As they spun around to leave, Mara caught a glimpse of something else on the desk – a small note, scribbled in Director Lee's handwriting.
+
+"Project Aurora," it read. "Phase 2 commencing soon."
+
+Mara's eyes met Chen's, and she knew that their lives were about to change forever.
+
+And as they made their way out of the office, Mara couldn't shake off the feeling that they were walking straight into the heart of a storm.
+
+But little did they know, the real storm was just beginning – one that would sweep them up in its fury and change the course of history forever.

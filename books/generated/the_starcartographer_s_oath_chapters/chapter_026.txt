@@ -1,0 +1,72 @@
+Chapter 26: Untitled
+
+[22:44:56] Ollama call started (attempt 1/3, temperature=0.75)
+[22:45:17] Ollama call still running... elapsed=21s (attempt 1/3)
+[22:45:37] Ollama call still running... elapsed=41s (attempt 1/3)
+[22:45:37] Ollama call completed in 41s
+Chapter 26: The Cartographer's Dilemma
+
+Ilya's fingers danced across the parchment as she poured over the intricate maps and celestial charts scattered before her. The air in the Celestial Cartographers' Guild was thick with the scent of old leather and dusty tomes, a smell that brought back memories of countless late nights spent studying under Rowan's guidance. Now, however, those hours seemed like a distant past, as Ilya grappled with the weight of her newfound power.
+
+Lyraea's presence beside her was both comfort and unease. The woman's eyes sparkled with an intensity that bordered on obsession, and Ilya couldn't shake the feeling that Lyraea's fixation on the First Compass relic would prove their undoing. Still, they had to work together if they were to uncover the secrets hidden within those ancient pages.
+
+"Kaelin says the celestial alignments suggest a convergence of unparalleled magnitude," Ilya murmured, her eyes scanning the charts as she searched for connections between the various celestial bodies and events etched upon them.
+
+Lyraea leaned in closer, her breath whispering across Ilya's ear. "The Ollama calls are a harbinger of this convergence, but what does it portend? The very fabric of our world may be on the cusp of transformation."
+
+Ilya's gaze snapped to Lyraea's, their eyes locking in a moment of unspoken understanding. They were dancing around the elephant in the room – Lyraea's betrayal and her true intentions for finding the relic.
+
+As they delved deeper into the charts and maps, Ilya began to notice subtle discrepancies between Lyraea's sketches and the original celestial cartography. It was as if Lyraea had been manipulating the data, subtly altering the course of their investigation. The implications sent a shiver down Ilya's spine – what else might Lyraea be hiding?
+
+Rowan and Tamsin arrived just then, carrying a trio of dusty tomes that looked like they belonged in the Drowned Library rather than on any shelf in Cygnus. "Ah, we brought the texts you requested," Rowan said with a warm smile, handing Ilya one of the volumes.
+
+The book was bound in worn leather and adorned with intricate silver filigree. As Ilya opened it, she was struck by the beauty of the illustrations within – celestial maps etched across pages that shimmered like moonlight on still waters.
+
+"These were created by a cartographer from Kaelara's lost city," Tamsin explained, her voice barely above a whisper. "The text describes the celestial convergence as a 'Great Turning,' an event that will reshape the very essence of our world."
+
+Ilya felt Lyraea's eyes upon her, but she refused to meet them. Instead, she poured over the illustrations, searching for any clue that might explain the mysterious Ollama calls and their connection to this impending catastrophe.
+
+As they pored over the texts, Kaelin burst into the room, his face etched with worry. "Ilya, Lyraea – we need to speak with you urgently. I've found a passage in Erebus' journal that suggests... well, it's better if you see for yourself."
+
+The words hung in the air like a challenge, and Ilya knew they had reached the crossroads of their journey. Would she trust Kaelin's warning, or would Lyraea's obsession prove too great to resist? The fate of their world hung precariously in the balance, as the Ollama calls continued to reverberate through Cygnus like a heartbeat – growing louder with each passing moment.
+
+"What does it say?" Ilya asked, her voice barely above a whisper, but Kaelin's response was drowned out by a sudden burst of thunderous silence. The air seemed to thicken, and for an instant, time itself appeared to freeze. When the silence shattered, Ilya knew their world would never be the same.
+
+In that fleeting moment, Lyraea's eyes locked onto something beyond the room – her gaze drawn to the Celestial Treasury's entrance, hidden behind a tapestry of woven shadows. And in that instant, Ilya saw it too: an abyssal breach spreading its dark tendrils across Cygnus, like a stain seeping into the very fabric of reality.
+
+"Run," Lyraea whispered, her voice barely audible over the growing roar of chaos outside – but Ilya knew they were already too late. The Great Turning was at hand, and their world would soon be remade in ways both wondrous and terrifying...
+
+[22:45:37] Ollama call started (attempt 1/3, temperature=0.7)
+[22:45:57] Ollama call still running... elapsed=20s (attempt 1/3)
+[22:46:07] Ollama call completed in 30s
+The darkness spread like a contagion, tendrils snaking through the city's streets as if searching for hidden vulnerabilities to exploit. Buildings shuddered, windows exploding outward as if blown apart by an unseen force. The air reeked of ozone and smoke, acrid scents that clung to Ilya's skin like a bad omen.
+
+Without hesitation, she grabbed Lyraea's arm, yanking her toward the nearest exit. "We have to get out of here – now!"
+
+Lyraea stumbled alongside Ilya, her eyes fixed on some point beyond their escape route. The sounds of chaos grew louder: screams, crunching metal, and the eerie wail of collapsing structures.
+
+As they burst into the night air, a blast of wind slammed into them, sending Lyraea stumbling back. Ilya caught her by the shoulders, steadying her against the force of the gale.
+
+"What's happening?" Lyraea shouted above the din, her voice laced with a mix of fear and awe.
+
+Ilya's eyes scanned the horizon, searching for some explanation amidst the chaos. That was when she saw it: a swirling vortex of colors, like nothing she'd ever witnessed before. The Ollama calls were not just a signal – they were a harbinger of this very event.
+
+The Great Turning had begun, and Cygnus was being reshaped before their eyes.
+
+Rowan and Tamsin emerged from the Guild's entrance, their faces set with determination. "We need to get back inside!" Rowan yelled above the wind. "Kaelin's working on stabilizing the wards – we can't let this breach spread!"
+
+Ilya hesitated, torn between her loyalty to her friends and Lyraea's cryptic warning that they needed to be elsewhere. But as she gazed into Lyraea's eyes, she saw a glimmer of something akin to trepidation.
+
+"Lyraea," Ilya called out over the howling wind, "what do you know about this? What are we up against?"
+
+For an instant, Lyraea's expression faltered, and Ilya glimpsed a flicker of uncertainty. Then, with a swift recovery, Lyraea's mask slipped back into place.
+
+"I'll tell you everything," she shouted above the din, "but first – let's get to safety! We can't stay here!"
+
+Without waiting for Ilya's response, Lyraea took off at a sprint, weaving through the chaos as if drawn by an unseen force. Ilya hesitated for a heartbeat before chasing after her friend, wondering what secrets lay hidden within Lyraea's eyes – and whether they'd be enough to save Cygnus from the Great Turning.
+
+As they vanished into the swirling darkness, Rowan's voice echoed behind them: "Ilya, wait! We can't lose you in this!"
+
+But Ilya was already gone, swallowed by the maelstrom that threatened to consume their world. The Ollama calls still pulsed through her veins like a drumbeat, urging her forward into the unknown.
+
+Their destination remained shrouded in mystery – but one thing was certain: the fate of Cygnus hung precariously in the balance, and Ilya's choices would soon determine the course of their world's destiny.

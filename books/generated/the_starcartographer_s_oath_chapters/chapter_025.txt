@@ -1,0 +1,88 @@
+Chapter 25: Untitled
+
+[22:42:47] Ollama call started (attempt 1/3, temperature=0.75)
+[22:43:07] Ollama call still running... elapsed=20s (attempt 1/3)
+[22:43:27] Ollama call still running... elapsed=40s (attempt 1/3)
+[22:43:27] Ollama call completed in 40s
+The Starcartographer's Oath
+Chapter 25: Celestial Cartographers' Guild
+
+Ilya stepped through the grand entrance of the Celestial Cartographers' Guild, her eyes scanning the high ceilings and intricate frescoes depicting the movements of stars and planets. The air was thick with the scent of aged parchment and the soft murmur of scholars huddled over maps and charts. Lyraea walked beside her, their footsteps echoing off the marble floor as they made their way to the guildmaster's office.
+
+Kaelin, who had insisted on joining them, hurried ahead, his eyes darting between the rows of bookshelves and alcoves containing ancient texts. "I've heard that Guildmaster Orion is one of the most learned cartographers in all the realm," he whispered to Ilya. "If anyone can help us understand the relic's significance, it's him."
+
+The office door swung open, and a bespectacled woman with a kind face greeted them. "Ah, welcome, Lyraea and Ilya! Guildmaster Orion is waiting for you." She led them to a large, ornate desk where a figure cloaked in shadows sat behind a sprawling map of the celestial sphere.
+
+Guildmaster Orion's eyes, like two stars shining bright in the night sky, gazed up at them as he beckoned them closer. "Ah, Lyraea and Ilya! Your quest has reached a critical juncture, I sense." His voice was low and soothing, but beneath its calm surface lay an undercurrent of urgency.
+
+Ilya hesitated, her doubts about Lyraea's intentions still festering like an open wound. But she pushed them aside, focusing on the task at hand. "Guildmaster Orion, we've come seeking your expertise in deciphering the relic's significance. We believe it may hold the key to preventing a catastrophic event."
+
+Lyraea spoke up, her voice smooth as honeyed wine. "Yes, and I've brought Erebus' lost journal with me. Perhaps its contents will shed some light on our predicament."
+
+Kaelin's eyes widened in alarm. "Erebus' journal? Lyraea, are you certain that's wise?"
+
+Lyraea turned to him with a hint of annoyance. "What do you know about it, Kaelin?"
+
+The scholar hesitated before answering, his voice barely above a whisper. "I've heard rumors... whispers of an entity mentioned in the journal. An entity capable of reshaping reality itself."
+
+Guildmaster Orion's gaze flickered between Lyraea and Ilya, his expression unreadable. "Ah, yes. The entity. A being known as Zha'thik. Rumors abound about its power to reshape the very fabric of our world." His words sent a shiver down Ilya's spine.
+
+As he began to explain the intricacies of Zha'thik and its connection to the relic, a faint tremor ran through the room, like the gentle hum of an Ollama call. But this was different – it vibrated through every molecule in their bodies, a warning that something profound was about to shift.
+
+"Zha'thik," Lyraea repeated, her voice laced with fascination. "Tell me more."
+
+Guildmaster Orion's eyes seemed to cloud over, as if he were peering into a future where the very fabric of reality hung in the balance. "The entity, it seems, is not just a myth or legend. It exists, and its power grows by the day. We must be cautious; if Zha'thik awakens, our world will be remade in ways both wondrous and terrible."
+
+As he spoke, a sudden silence fell over the room. Ilya felt it – an absence of sound, as if the very air was holding its breath in anticipation of what was to come. Lyraea's eyes locked onto hers, her gaze burning with an intensity that sent shivers down Ilya's spine.
+
+And then, without warning, a hidden panel slid open, revealing a narrow passageway behind Guildmaster Orion's desk. "This way," he said, his voice barely above a whisper. "There is something more we must discuss – something that will change the course of our quest forever."
+
+With those enigmatic words, Ilya felt the room shift around her, as if they were stepping into a realm where nothing was certain and everything was possible. And she knew, in that moment, that their journey was about to take a turn from which there would be no return.
+
+[22:43:27] Ollama call started (attempt 1/3, temperature=0.7)
+[22:43:48] Ollama call still running... elapsed=21s (attempt 1/3)
+[22:44:08] Ollama call still running... elapsed=41s (attempt 1/3)
+[22:44:10] Ollama call completed in 43s
+As they stepped into the narrow passageway, the air grew thick with an otherworldly energy. Guildmaster Orion led them deeper into the passage, his movements deliberate and measured. The walls seemed to press in around them, adorned with ancient symbols that pulsed with a soft, ethereal light.
+
+"What is this place?" Ilya asked, her voice barely above a whisper.
+
+"An... experiment," Guildmaster Orion replied, his eyes fixed on some distant point ahead. "A doorway to the celestial sphere's hidden patterns. Few have ever seen it, and fewer still have been able to navigate its secrets."
+
+Kaelin's eyes sparkled with excitement as he reached out to touch the symbols etched into the wall. "This is incredible! I've only read about this in ancient texts – the Cartographers' Guild has been working on deciphering these patterns for centuries!"
+
+Lyraea's gaze narrowed, her expression a mask of calculated interest. "And what do you hope we'll find here, Guildmaster?"
+
+Orion's eyes flickered towards her, a hint of wariness creeping into his voice. "I'm not sure I can explain it myself. But... Zha'thik's power is tied to the celestial sphere in ways that defy our understanding. We've been trying to pinpoint its source, but every attempt has led us deeper into the unknown."
+
+As he spoke, the air around them began to shift and ripple, like the surface of a pond disturbed by a thrown stone. The symbols on the walls seemed to grow brighter, their pulsing light illuminating hidden patterns that danced across the passage.
+
+Ilya felt her mind reeling as she tried to comprehend the implications. "You're saying... Zha'thik's power is tied to the celestial sphere itself?"
+
+Guildmaster Orion nodded gravely. "Yes. And if we can understand how, perhaps we can find a way to harness its energy and prevent the catastrophic event you spoke of."
+
+Kaelin's voice was barely audible over the growing hum in Ilya's ears. "But what about Erebus' journal? Does it hold any clues?"
+
+Lyraea's smile was like a thin slice of moonlight in a midnight sky. "I'm sure it does, Kaelin. And with Guildmaster Orion's expertise and our own... skills, perhaps we can unlock its secrets together."
+
+As they reached the end of the passage, Ilya caught her first glimpse of what lay beyond. A massive crystal sphere dominated the room, its facets reflecting a kaleidoscope of colors that seemed to shift and writhe like living things.
+
+"Ah," Guildmaster Orion breathed, his eyes shining with reverence. "The Celestial Atlas. Few have seen it in person – and even fewer have survived the experience."
+
+Ilya felt her heart thud as she approached the crystal sphere, its power coursing through her veins like liquid fire. She knew that she stood on the threshold of something momentous – a discovery that would change the course of their quest forever.
+
+And then, without warning, Lyraea reached out and touched the crystal sphere's surface. The air around them erupted into chaos as colors swirled and blended in impossible patterns, releasing a maelstrom of energy that threatened to consume everything in its path.
+
+Ilya stumbled back, her vision blurring as she struggled to comprehend what was happening. Guildmaster Orion's face went white with alarm, while Kaelin cried out in dismay.
+
+Lyraea stood frozen, her hand still touching the crystal sphere's surface. Her eyes were closed, her expression a mask of rapt attention – as if she were listening for a voice from beyond the veil of reality itself.
+
+As Ilya watched in horror, Lyraea's body began to glow with an otherworldly light, its power coursing through her like a river of liquid starlight. And then, without warning, everything went white.
+
+When Ilya opened her eyes, she found herself standing in a realm unlike anything she had ever seen. The sky was ablaze with colors that defied the laws of nature – and Lyraea stood before her, her form shifting and flowing like a liquid star.
+
+Ilya's mind reeled as she tried to comprehend what was happening. "Lyraea... what are you?"
+
+The words were barely out of her mouth when Lyraea spoke in a voice that was both familiar and yet utterly alien. "I am becoming something more, Ilya. Something that will change the course of our quest forever."
+
+As Ilya watched in rapt attention, Lyraea's form continued to shift and flow – until it became clear that she was no longer human at all.

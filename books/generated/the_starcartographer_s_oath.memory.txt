@@ -1,0 +1,71 @@
+[22:52:50] Ollama call started (attempt 1/3, temperature=0.2)
+[22:53:10] Ollama call still running... elapsed=20s (attempt 1/3)
+[22:53:21] Ollama call completed in 31s
+Here is the updated story memory in plain text bullet points under 350 words:
+
+**Names:**
+
+* Ilya (protagonist)
+* Lyraea
+* Aethera (Guildmaster, celestial cartographer)
+* Kaelin (scholar)
+* Vexar (Nightwatcher)
+* Ollama
+* The spy (unnamed)
+
+**Locations:**
+
+* Cygnus city
+* Narrow streets in the city
+* A doorway hidden between two ancient buildings
+* A room within the building, with a crystal orb
+* Ancient city, hidden chamber with crystal orb and celestial map
+* Ember caverns, where salamander scribes reside
+* The workshop of Rowan and Tamsin
+* Sanctuary (refuge for those seeking to escape the city's attention)
+* Plaza in Cygnus
+* The Celestial Treasury (a vast underground chamber)
+* Moon monastery
+* Ship on open waters
+* Island of Kaelara, its ancient ruins
+* Drowned library (underground chamber)
+* Labyrinthine root-catacombs
+* The training room and adjacent workshop
+* Abyssal breach
+* Celestial Cartographers' Guild
+
+**Decisions:**
+
+* Ilya decides to follow Lyraea into the unknown
+* She chooses to enter the room and approach Lyraea
+* Ollama call initiated (temperature=0.2), but details of this event are unclear
+* Ilya decides to focus on finding the relic, despite her doubts
+* Tamsin suggests relying on their own knowledge to find the First Compass relic
+* Ilya and Lyraea decide to journey into the heart of Cygnus itself
+* The group agrees to trade their souls for knowledge hidden within ancient tomes
+* Ilya decides they need to find Ollama, believing their world may depend on it
+* Ilya and her companions forge a living oath in the Labyrinthine Root-Catacombs
+
+**New information:**
+
+* Lyraea betrays Ilya and Aethera by taking the First Compass for herself
+* Lyraea reveals she has found Erebus' lost journal
+* Kaelin tries to warn them about Erebus' journal, but is left behind
+
+**Additional continuity:**
+
+* The Ollama calls continue to occur, with the latest attempt completed in 18s.
+* Ilya's newfound power may be connected to a celestial convergence that will change the course of their world.
+
+**Unresolved tensions:**
+
+* Lyraea's motivations for finding the relic and her increasing obsession with it
+* Ilya's growing unease and distrust of Lyraea, as well as her own role in the story
+* The entity mentioned in Erebus' journal is still unknown, and its intentions are unclear.
+* The true meaning of the Ollama calls and their connection to the events unfolding in Cygnus
+
+**Latest developments:**
+
+* Ilya and Lyraea visit the Celestial Cartographers' Guild for help understanding the relic's significance
+* Aethera warns them of a great calamity impending, tied to the relic and their quest
+* Kaelin receives a message from Vexar within the City Watch with information about Erebus' journal and their connection to it

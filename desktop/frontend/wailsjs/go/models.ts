@@ -1,3 +1,267 @@
+export namespace aidetect {
+	
+	export class EvidenceSpan {
+	    start: number;
+	    end: number;
+	
+	    static createFrom(source: any = {}) {
+	        return new EvidenceSpan(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.start = source["start"];
+	        this.end = source["end"];
+	    }
+	}
+	export class Evidence {
+	    type: string;
+	    summary: string;
+	    spans: EvidenceSpan[];
+	
+	    static createFrom(source: any = {}) {
+	        return new Evidence(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.type = source["type"];
+	        this.summary = source["summary"];
+	        this.spans = this.convertValues(source["spans"], EvidenceSpan);
+	    }
+	
+		convertValues(a: any, classs: any, asMap: boolean = false): any {
+		    if (!a) {
+		        return a;
+		    }
+		    if (a.slice && a.map) {
+		        return (a as any[]).map(elem => this.convertValues(elem, classs));
+		    } else if ("object" === typeof a) {
+		        if (asMap) {
+		            for (const key of Object.keys(a)) {
+		                a[key] = new classs(a[key]);
+		            }
+		            return a;
+		        }
+		        return new classs(a);
+		    }
+		    return a;
+		}
+	}
+	export class DuplicationSignal {
+	    score?: number;
+	    evidence: Evidence[];
+	
+	    static createFrom(source: any = {}) {
+	        return new DuplicationSignal(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.score = source["score"];
+	        this.evidence = this.convertValues(source["evidence"], Evidence);
+	    }
+	
+		convertValues(a: any, classs: any, asMap: boolean = false): any {
+		    if (!a) {
+		        return a;
+		    }
+		    if (a.slice && a.map) {
+		        return (a as any[]).map(elem => this.convertValues(elem, classs));
+		    } else if ("object" === typeof a) {
+		        if (asMap) {
+		            for (const key of Object.keys(a)) {
+		                a[key] = new classs(a[key]);
+		            }
+		            return a;
+		        }
+		        return new classs(a);
+		    }
+		    return a;
+		}
+	}
+	export class ErrorEntry {
+	    stage: string;
+	    message: string;
+	    type: string;
+	    retryable: boolean;
+	
+	    static createFrom(source: any = {}) {
+	        return new ErrorEntry(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.stage = source["stage"];
+	        this.message = source["message"];
+	        this.type = source["type"];
+	        this.retryable = source["retryable"];
+	    }
+	}
+	
+	
+	export class SpanTrace {
+	    name: string;
+	    duration_ms: number;
+	    status: string;
+	
+	    static createFrom(source: any = {}) {
+	        return new SpanTrace(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.name = source["name"];
+	        this.duration_ms = source["duration_ms"];
+	        this.status = source["status"];
+	    }
+	}
+	export class ScalarSignal {
+	    score?: number;
+	
+	    static createFrom(source: any = {}) {
+	        return new ScalarSignal(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.score = source["score"];
+	    }
+	}
+	export class WindowSignals {
+	    duplication: DuplicationSignal;
+	    lm_smoothness: ScalarSignal;
+	    style_uniformity: ScalarSignal;
+	    polish_cliche: ScalarSignal;
+	    language_tool: ScalarSignal;
+	
+	    static createFrom(source: any = {}) {
+	        return new WindowSignals(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.duplication = this.convertValues(source["duplication"], DuplicationSignal);
+	        this.lm_smoothness = this.convertValues(source["lm_smoothness"], ScalarSignal);
+	        this.style_uniformity = this.convertValues(source["style_uniformity"], ScalarSignal);
+	        this.polish_cliche = this.convertValues(source["polish_cliche"], ScalarSignal);
+	        this.language_tool = this.convertValues(source["language_tool"], ScalarSignal);
+	    }
+	
+		convertValues(a: any, classs: any, asMap: boolean = false): any {
+		    if (!a) {
+		        return a;
+		    }
+		    if (a.slice && a.map) {
+		        return (a as any[]).map(elem => this.convertValues(elem, classs));
+		    } else if ("object" === typeof a) {
+		        if (asMap) {
+		            for (const key of Object.keys(a)) {
+		                a[key] = new classs(a[key]);
+		            }
+		            return a;
+		        }
+		        return new classs(a);
+		    }
+		    return a;
+		}
+	}
+	export class WindowReport {
+	    window_id: string;
+	    start_word: number;
+	    end_word: number;
+	    p_ai: number;
+	    confidence: number;
+	    signals: WindowSignals;
+	    top_evidence: Evidence[];
+	
+	    static createFrom(source: any = {}) {
+	        return new WindowReport(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.window_id = source["window_id"];
+	        this.start_word = source["start_word"];
+	        this.end_word = source["end_word"];
+	        this.p_ai = source["p_ai"];
+	        this.confidence = source["confidence"];
+	        this.signals = this.convertValues(source["signals"], WindowSignals);
+	        this.top_evidence = this.convertValues(source["top_evidence"], Evidence);
+	    }
+	
+		convertValues(a: any, classs: any, asMap: boolean = false): any {
+		    if (!a) {
+		        return a;
+		    }
+		    if (a.slice && a.map) {
+		        return (a as any[]).map(elem => this.convertValues(elem, classs));
+		    } else if ("object" === typeof a) {
+		        if (asMap) {
+		            for (const key of Object.keys(a)) {
+		                a[key] = new classs(a[key]);
+		            }
+		            return a;
+		        }
+		        return new classs(a);
+		    }
+		    return a;
+		}
+	}
+	export class Report {
+	    document_id: string;
+	    p_ai_doc?: number;
+	    ai_coverage_est?: number;
+	    p_ai_max?: number;
+	    confidence_doc?: number;
+	    flags: string[];
+	    windows: WindowReport[];
+	    errors: ErrorEntry[];
+	    traces: SpanTrace[];
+	    word_count: number;
+	
+	    static createFrom(source: any = {}) {
+	        return new Report(source);
+	    }
+	
+	    constructor(source: any = {}) {
+	        if ('string' === typeof source) source = JSON.parse(source);
+	        this.document_id = source["document_id"];
+	        this.p_ai_doc = source["p_ai_doc"];
+	        this.ai_coverage_est = source["ai_coverage_est"];
+	        this.p_ai_max = source["p_ai_max"];
+	        this.confidence_doc = source["confidence_doc"];
+	        this.flags = source["flags"];
+	        this.windows = this.convertValues(source["windows"], WindowReport);
+	        this.errors = this.convertValues(source["errors"], ErrorEntry);
+	        this.traces = this.convertValues(source["traces"], SpanTrace);
+	        this.word_count = source["word_count"];
+	    }
+	
+		convertValues(a: any, classs: any, asMap: boolean = false): any {
+		    if (!a) {
+		        return a;
+		    }
+		    if (a.slice && a.map) {
+		        return (a as any[]).map(elem => this.convertValues(elem, classs));
+		    } else if ("object" === typeof a) {
+		        if (asMap) {
+		            for (const key of Object.keys(a)) {
+		                a[key] = new classs(a[key]);
+		            }
+		            return a;
+		        }
+		        return new classs(a);
+		    }
+		    return a;
+		}
+	}
+	
+	
+	
+
+}
+
 export namespace backend {
 	
 	export class BeatResult {
@@ -427,6 +691,7 @@ export namespace backend {
 	    logs: LogLine[];
 	    contradictions: forensics.Contradiction[];
 	    healthIssues: HealthIssue[];
+	    aiReport: aidetect.Report;
 	    slopReport: slop.Report;
 	    timeline: timeline.Event[];
 	    beats: BeatResult[];
@@ -456,6 +721,7 @@ export namespace backend {
 	        this.logs = this.convertValues(source["logs"], LogLine);
 	        this.contradictions = this.convertValues(source["contradictions"], forensics.Contradiction);
 	        this.healthIssues = this.convertValues(source["healthIssues"], HealthIssue);
+	        this.aiReport = this.convertValues(source["aiReport"], aidetect.Report);
 	        this.slopReport = this.convertValues(source["slopReport"], slop.Report);
 	        this.timeline = this.convertValues(source["timeline"], timeline.Event);
 	        this.beats = this.convertValues(source["beats"], BeatResult);
@@ -543,6 +809,16 @@ export namespace slop {
 	    SentenceLengthSD: number;
 	    BadWordDensity: number;
 	    LowOriginality: boolean;
+	    RepeatedBlockCount: number;
+	    MaxBlockRepeat: number;
+	    VerbatimDuplicationCoverage: number;
+	    RepeatedPhraseCoverage: number;
+	    DramaticDensity: number;
+	    DramaticDensitySD: number;
+	    ExpansionMarkerCount: number;
+	    OptimizationMarkerCount: number;
+	    AISuspicionScore: number;
+	    LikelyAIGenerated: boolean;
 	    Flags: string[];
 	
 	    static createFrom(source: any = {}) {
@@ -556,6 +832,16 @@ export namespace slop {
 	        this.SentenceLengthSD = source["SentenceLengthSD"];
 	        this.BadWordDensity = source["BadWordDensity"];
 	        this.LowOriginality = source["LowOriginality"];
+	        this.RepeatedBlockCount = source["RepeatedBlockCount"];
+	        this.MaxBlockRepeat = source["MaxBlockRepeat"];
+	        this.VerbatimDuplicationCoverage = source["VerbatimDuplicationCoverage"];
+	        this.RepeatedPhraseCoverage = source["RepeatedPhraseCoverage"];
+	        this.DramaticDensity = source["DramaticDensity"];
+	        this.DramaticDensitySD = source["DramaticDensitySD"];
+	        this.ExpansionMarkerCount = source["ExpansionMarkerCount"];
+	        this.OptimizationMarkerCount = source["OptimizationMarkerCount"];
+	        this.AISuspicionScore = source["AISuspicionScore"];
+	        this.LikelyAIGenerated = source["LikelyAIGenerated"];
 	        this.Flags = source["Flags"];
 	    }
 	}

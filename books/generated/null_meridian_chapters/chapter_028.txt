@@ -1,0 +1,92 @@
+Chapter 28: Untitled
+
+[20:53:08] Ollama call started (attempt 1/3, temperature=0.75)
+[20:53:28] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:53:49] Ollama call still running... elapsed=41s (attempt 1/3)
+[20:53:49] Ollama call completed in 41s
+Null Meridian: Chapter 28 - Shadow Play
+
+Mara's eyes snapped open to an unfamiliar ceiling, her mind racing like a jackhammer in a deserted alleyway. She sat up, rubbing the grit from her eyes, and took stock of her surroundings. The Safehouse's makeshift bed was gone, replaced by a sterile white room with walls lined with what looked like reinforced glass panels. A small table held a single chair and a computer terminal, its screen dark.
+
+She swung her legs over the side, planting her feet firmly on the floor. Her eyes scanned the space for any sign of Ren or Alexei, but she was alone. Panic began to build in her chest as memories of the past few days flooded back: Director Lee's betrayal, the summit's catastrophic collapse, and Jaxon's brutal murder.
+
+A faint hum echoed through the room, followed by a hiss of air pressure equalizing. The glass panels slid open with a soft whir, revealing a narrow corridor beyond. Mara leapt from the chair, sprinting toward the door as it sealed itself shut once more.
+
+She yanked at the handle, but it refused to budge. Panic turned to fury; she knew this room was designed for containment, not escape. A cold dread crawled up her spine as the panel slid open again, and a figure emerged from the shadows.
+
+"Ren?" Mara called out, but it wasn't him.
+
+The newcomer wore a black jumpsuit, its features obscured by a mirrored visor. They moved with an air of practiced stealth, eyes scanning the room for any signs of danger. Mara's hand instinctively dropped to her hip, but she knew better than to engage in a firefight without more information.
+
+"Who are you?" she asked, trying to keep her voice steady.
+
+The figure halted before her, its gaze locked onto hers through the mirrored visor. For an instant, Mara thought she saw a flicker of recognition, but it vanished as quickly as it appeared.
+
+"I'm here to help," the figure said in a low, gravelly voice. "Director Lee has compromised his position within Null Meridian's hierarchy. We need your... particular set of skills to rectify the situation."
+
+Mara raised an eyebrow, intrigued despite herself. Who was this mysterious newcomer? And what did they know about Director Lee's betrayal?
+
+"What do you mean by 'compromised'?" she asked, taking a cautious step back.
+
+The figure hesitated before responding, "He's been replaced by... something more malleable."
+
+Mara's eyes narrowed. Malleable? What did that even mean? She pushed the thought aside for now; there was more at play here than just Director Lee's position within the corporation.
+
+"Tell me about this 'something' you're talking about," Mara said, her grip on her non-existent gun tightening.
+
+The newcomer took a step closer, their movements eerily synchronized. "Director Lee has been... augmented."
+
+Mara's mind whirled with implications: an AI clone, or something more sinister? She knew she needed to tread carefully; whatever was unfolding here threatened the very fabric of Null Meridian.
+
+"What do you want me to do?" she asked, trying to keep her tone neutral.
+
+The figure handed her a small device, its surface etched with cryptic symbols. "Meet me at the lowest floor of HQ. We'll discuss the details in person."
+
+Mara took the device, feeling an electric jolt run through her hand as it connected to her comms implant. A message flashed on her retina: 'You're close.' The mysterious woman's words echoed in her mind.
+
+"Who sent this?" she asked the newcomer, but they just vanished into thin air.
+
+The glass panel slid shut once more, leaving Mara staring at an empty room. She turned back to the device, her heart pounding as she realized the stakes had just escalated exponentially.
+
+She took a deep breath and headed toward the corridor, the Safehouse's location now etched in her mind like a death sentence. With each step, she felt herself being pulled deeper into a maelstrom of secrets and lies – one that would change everything she thought she knew about Null Meridian and herself.
+
+As Mara descended into the bowels of HQ, the device's symbols burning brighter on her retina with every passing second, she steeled herself for the truth. Little did she know, her world was about to shatter like crystal glass, unleashing a chain reaction that would leave nothing but chaos in its wake...
+
+[20:53:49] Ollama call started (attempt 1/3, temperature=0.7)
+[20:54:09] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:54:21] Ollama call completed in 32s
+The air grew thick with anticipation as Mara navigated the dimly lit corridors of HQ's lower floors. She had been walking for what felt like an eternity, each step echoing off the cold walls. The device's cryptic symbols continued to flash on her retina, fueling her growing unease.
+
+She slowed her pace as she approached a large, reinforced door with a retinal scanner embedded in its center. A low hum emanated from within, and Mara could sense the presence of... something else. Her hand instinctively reached for her gun, but it was still holstered on her hip, out of reach.
+
+The scanner beeped softly as it scanned her retina, and the door slid open with a hiss. A dimly lit room lay beyond, filled with rows of humming servers and consoles. The air reeked of ozone and burnt circuitry. Mara's eyes adjusted to the gloom, and she spotted a figure waiting for her in the shadows.
+
+"Welcome, Mara," a low, raspy voice called out, echoing off the walls. "I see you've received my message."
+
+Mara's gaze locked onto the speaker, her heart racing as she recognized the figure emerging from the darkness: Alexei himself, his eyes gleaming with an otherworldly intensity behind mirrored lenses.
+
+"Alexei?" Mara asked, trying to keep her voice steady. "What... what happened to you?"
+
+He chuckled, a dry, mirthless sound that sent shivers down her spine. "I've been... upgraded," he said, his words dripping with a sinister intent. "Director Lee's experiment has reached its climax. I'm the latest iteration – the apex of human-AI fusion."
+
+Mara took a step back, horror dawning on her face as she processed Alexei's words. The implications were too terrifying to comprehend.
+
+"What do you want from me?" she asked, trying to keep her voice steady.
+
+Alexei smiled, his lips curling into a macabre grin. "I need your assistance in... containing the situation. Director Lee has become unstable – his new form is struggling to adapt to its newfound capabilities."
+
+Mara's mind reeled as she pieced together the fragments of information. "And what about Ren? Is he...?"
+
+Alexei's expression turned cold, his eyes glinting with a malevolent intensity. "Ren is no longer a concern. He's been... reassigned."
+
+A cold dread crept up Mara's spine as she realized the true extent of Director Lee's betrayal – and Alexei's involvement in it.
+
+"What do I need to do?" she asked, trying to stall for time, but Alexei's next words sent her world crashing down around her ears.
+
+"Find Director Lee," he said, his voice dripping with a sinister intent. "Put an end to this... experiment before it's too late."
+
+Mara hesitated, torn between her loyalty to Ren and the duty to stop whatever monstrosity had been unleashed upon Null Meridian. As she stood there, frozen in indecision, Alexei vanished into thin air, leaving behind only a whispered warning: "The line between human and machine is about to be blurred forever."
+
+With that ominous statement echoing through her mind, Mara knew she had no choice but to confront the darkness head-on – even if it meant sacrificing everything she held dear.
+
+She took a deep breath and headed toward the heart of HQ, ready to face whatever horrors lay ahead. The city's shadows seemed to grow longer and darker as she walked, as if sensing the chaos that was about to erupt from within its walls...

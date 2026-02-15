@@ -1,0 +1,158 @@
+Chapter 11: Untitled
+
+[20:17:21] Ollama call started (attempt 1/3, temperature=0.75)
+[20:17:41] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:18:01] Ollama call still running... elapsed=40s (attempt 1/3)
+[20:18:05] Ollama call completed in 44s
+Chapter 11: A Calculated Risk
+
+Mara's eyes darted between the screens in front of her, her mind racing as she processed the latest development in the case. Zel sat beside her, his fingers flying across the keyboard as he worked to bypass the security measures protecting the compromised encryption keys. The tension in the air was palpable, and Mara could feel the weight of the unknown bearing down on them.
+
+"Okay, I've got something," Zel said finally, his voice low and urgent. "I managed to extract a few lines of code from the server's log. It looks like our hackers used a custom-made tool to gain access to the system."
+
+Mara leaned forward, her heart quickening with excitement. This was it – the break they'd been searching for. She reached out and pulled up the extracted code on one of the screens, her eyes scanning the lines of 1s and 0s.
+
+"See this?" Zel pointed to a specific sequence of characters. "It's a signature, left behind by the hackers. I think it might be their calling card."
+
+Mara's mind was racing with possibilities as she studied the code. This could be the key to unlocking the entire conspiracy. She knew they had to move fast – whoever was behind this would not hesitate to cover their tracks.
+
+"We need to get this information to Ren," Mara said, her voice firm. "He'll know what it means."
+
+Zel nodded, already working on the next step. "I've got a secure line open to him. Let's see if we can get some answers."
+
+Mara watched as Zel worked his magic, the screens flickering with activity as they waited for Ren to respond. It was a calculated risk, but Mara knew it was necessary. They had to push forward, no matter the cost.
+
+The silence was broken by a faint beep from one of the screens. Mara's eyes snapped towards it, her heart sinking as she saw the message on the screen: "Package delivered."
+
+Mara felt a shiver run down her spine. Who – or what – had received this package? And what did it mean?
+
+"Zel, can you hack into the package tracking system?" Mara asked, her voice low and urgent.
+
+Zel's fingers flew across the keyboard as he worked to bypass the security measures protecting the package's location. The tension in the room was building, and Mara knew they were running out of time.
+
+The screens flickered, and then a map appeared on one of them, displaying the location of the package. Mara's eyes widened as she saw where it was – right next to their suspected mole's comms device.
+
+"It's here," Zel breathed, his voice barely audible. "The package is at Director Lee's location."
+
+Mara's mind was racing with possibilities as she processed this new information. Was this a trap? Or had they finally stumbled upon something concrete?
+
+"Get the team ready to move out," Mara said, her voice firm. "We're going in."
+
+As they prepared for the operation, Mara couldn't shake off the feeling that something was off. They were playing with fire here – one misstep could mean disaster.
+
+And then, just as they were about to leave the room, Mara's phone buzzed with an incoming message: "You're close."
+
+Mara's eyes met Zel's, a spark of understanding passing between them. Who – or what – was sending these messages? And what did they want?
+
+"Let's go," Mara said, her voice firm. But as she turned to leave the room, she caught sight of something that made her blood run cold.
+
+On the screen in front of her, a message had appeared: "Package contents compromised. Encryption keys nullified."
+
+Mara's heart sank. They'd been played – and now their entire operation was at risk of being shut down.
+
+She knew they had to move fast – but as she turned to Zel with a look of panic, she saw that he was already on his phone, a grim expression etched on his face.
+
+"What is it?" Mara asked, her voice barely above a whisper.
+
+Zel's eyes met hers, and for a moment, Mara thought she saw something there – something that looked almost like... fear.
+
+"It's Director Lee," Zel said finally. "He's been compromised. The encryption keys are no longer secure."
+
+Mara felt a chill run down her spine as the truth dawned on her. They'd been played from the very beginning. And now, their entire operation was at risk of being shut down – forever.
+
+The screens in front of them flickered with activity, and Mara knew that time was running out. She had to make a choice – one that would decide not only her own fate but also the future of their investigation.
+
+As she looked around the room, Mara saw her team staring back at her, their eyes filled with trust and expectation. But what they didn't know was that this was just the beginning – and the stakes were about to get a lot higher.
+
+[20:18:05] Ollama call started (attempt 1/3, temperature=0.7)
+[20:18:26] Ollama call still running... elapsed=21s (attempt 1/3)
+[20:18:46] Ollama call still running... elapsed=41s (attempt 1/3)
+[20:19:06] Ollama call still running... elapsed=61s (attempt 1/3)
+[20:19:06] Ollama call completed in 61s
+Mara's eyes locked onto Zel's, searching for any sign of reassurance. But his expression was grim, his jaw clenched in a tight line. She knew she couldn't afford to hesitate – not now, when they were so close to uncovering the truth.
+
+"Ren," Mara said, her voice firm and commanding. "We need you to hack into Director Lee's system immediately. We have reason to believe he's been compromised."
+
+The screen flickered as Ren's face appeared on the video feed. His eyes narrowed, his expression skeptical. "What makes you think that?"
+
+Mara took a deep breath, trying to convey the urgency of the situation. "We've received a message from an unknown sender. It says 'Package contents compromised. Encryption keys nullified.'"
+
+Ren's eyes widened, and for a moment, Mara thought she saw a flicker of fear in his gaze. But then he composed himself, his expression turning cold and detached.
+
+"I'll take care of it," Ren said, his voice firm. "But you need to get the team ready to move out. We can't afford to wait."
+
+Mara nodded, her mind racing with possibilities. They had to act fast – but she knew that rushing into this operation would only increase their chances of getting caught.
+
+As she turned to leave the room, Mara's eyes met Zel's once more. This time, she saw something there – a glimmer of hope, mixed with a hint of desperation.
+
+"What do you think it means?" Zel asked, his voice barely above a whisper.
+
+Mara hesitated, unsure of how to respond. She knew they were playing with fire here – but what choice did they have?
+
+"It means we're getting close," Mara said finally. "But we need to be careful. We don't know who's behind this or what their ultimate goal is."
+
+Zel nodded, his eyes scanning the room as if searching for any sign of danger. But Mara knew that was impossible – not now, when they were so close to uncovering the truth.
+
+As they made their way to the exit, Mara felt a sense of trepidation building inside her. They were about to walk into a lion's den – and she had no idea what lay in store for them.
+
+The team fell into step behind her, their faces set with determination. But Mara knew that this operation was far from over – in fact, it was only just beginning.
+
+As they stepped out of the room, Mara caught sight of a figure waiting for them in the hallway. It was one of Director Lee's security personnel, his eyes fixed intently on Zel.
+
+"Ah-ah," the guard said, his voice firm but cautious. "I'm afraid you're not going anywhere."
+
+Mara's heart sank as she realized what was happening. They'd been set up – and now it seemed they were about to walk right into a trap.
+
+But Mara wasn't one to give up easily. With a fierce determination burning inside her, she stepped forward, ready to face whatever lay ahead.
+
+"You're not going to stop us," Mara said, her voice firm and commanding. "We have a job to do – and we're not going to let anyone stand in our way."
+
+The guard's eyes flicked towards Zel, his expression uncertain. But then he seemed to remember something – or someone.
+
+"I'm afraid you'll have to speak with Director Lee," the guard said finally. "He's waiting for you."
+
+Mara felt a shiver run down her spine as she realized what this meant. They'd been set up – and now it seemed they were about to walk right into a trap.
+
+But Mara wasn't one to give up easily. With a fierce determination burning inside her, she stepped forward, ready to face whatever lay ahead.
+
+As they followed the guard through the corridors of the building, Mara couldn't shake off the feeling that something was off. They'd been played – and now it seemed they were about to walk right into a trap.
+
+But Mara wasn't one to give up easily. With a fierce determination burning inside her, she stepped forward, ready to face whatever lay ahead.
+
+The guard led them deeper into the building, the corridors growing increasingly deserted as they walked. Mara's heart was pounding in her chest – and she knew that they were getting closer to something big.
+
+Finally, they stopped outside a door marked "Authorized Personnel Only." The guard nodded towards it, his expression serious.
+
+"This is where you'll find Director Lee," he said. "But be warned – things are not as they seem."
+
+Mara's eyes met Zel's, and for a moment, she saw something there – a glimmer of fear mixed with determination.
+
+"What do we do?" Mara asked, her voice barely above a whisper.
+
+Zel's expression was grim, his jaw clenched in a tight line. "We go in," he said finally. "And we find out what's really going on."
+
+Mara took a deep breath, steeling herself for what lay ahead. She knew that this operation was far from over – and she was ready to face whatever came next.
+
+As they stepped inside the room, Mara felt a chill run down her spine. They were about to walk into something big – but she had no idea what lay in store for them.
+
+"Welcome," Director Lee said, his voice dripping with sarcasm. "I see you're right on time."
+
+Mara's eyes scanned the room, searching for any sign of danger. But all she saw was Director Lee, sitting behind a desk that seemed to loom over him like a specter.
+
+"What do you want?" Mara asked, her voice firm and commanding.
+
+Director Lee leaned back in his chair, a smirk spreading across his face. "Oh, I think you'll find out," he said finally. "But first – let's get one thing straight."
+
+Mara's heart was pounding in her chest as she waited for Director Lee to continue. But what he said next made her blood run cold.
+
+"You see, Mara," Director Lee said, his voice dripping with malice. "You and your team have been playing with fire all along. And now – it's time to get burned."
+
+Mara's eyes met Zel's, and for a moment, she saw something there – a spark of recognition mixed with fear.
+
+"What do you mean?" Mara asked, her voice barely above a whisper.
+
+Director Lee leaned forward, his eyes glinting with excitement. "You see, we've been watching you," he said finally. "And we know all about your little operation."
+
+Mara's mind was racing with possibilities as she tried to process what Director Lee was saying. But one thing was clear – they'd been played.
+
+And now, it seemed, the stakes were higher than ever before.

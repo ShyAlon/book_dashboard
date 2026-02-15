@@ -1,0 +1,118 @@
+Chapter 25: Untitled
+
+[20:46:48] Ollama call started (attempt 1/3, temperature=0.75)
+[20:47:08] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:47:28] Ollama call still running... elapsed=40s (attempt 1/3)
+[20:47:38] Ollama call completed in 50s
+Chapter 25: Null Point
+
+The darkness outside Mara's apartment was absolute, punctuated only by the faint glow of the city's neon lights reflecting off the wet pavement. She stood at the window, her eyes scanning the streets below for any sign of Detective Chen. It had been hours since they'd parted ways, and she was starting to lose hope that he would actually help her.
+
+Mara turned away from the window and began pacing across the room, her mind racing with possibilities. Who could be behind Director Lee's sudden betrayal? Was it Elara Vex, using her influence to further her own agenda? Or was it something more sinister, a deeper conspiracy that threatened to unravel everything she thought she knew?
+
+She stopped pacing and stared at the phone in her hand, the screen still displaying Chen's message: "Meet me outside. I'll bring the answers." Mara's gut told her to trust him, but her head warned her to be cautious. She'd been burned before by those who claimed to have her best interests at heart.
+
+The sound of footsteps echoed from downstairs, and Mara's heart skipped a beat as she recognized Chen's distinct gait. She took a deep breath and tried to calm herself down, reminding herself that they were on the same side now. At least, she hoped so.
+
+She opened the door just as Chen was about to knock, his eyes darting around the room before settling on hers. "Mara, we need to talk," he said, his voice low and urgent.
+
+"Let's get out of here," Mara replied, grabbing her bag and leading Chen out into the night. They moved quickly through the streets, dodging pedestrians and cars as they made their way towards HQ.
+
+"What did you find out?" Mara asked, falling into step beside Chen.
+
+"We traced Director Lee's communication to a shell company registered in the Cayman Islands," Chen replied, his eyes scanning the surrounding buildings for any sign of surveillance. "It looks like he was compromised by someone on the inside."
+
+"Who?" Mara demanded, her mind racing with possibilities.
+
+Chen hesitated before answering, "One of the IT specialists at Null Meridian. Someone named... Zel?"
+
+Mara's heart sank as she thought back to their previous interactions with Zel. Had they been playing them all along?
+
+As they reached HQ, Chen led Mara to a secure elevator that bypassed the usual security checks. They rode it down to the lowest floor of the complex, where a hidden entrance revealed a narrow corridor lined with server racks.
+
+"This is where I found Director Lee's communication records," Chen said, accessing one of the servers. "I think we can find out who's behind this."
+
+Mara nodded, her eyes scanning the rows of humming machinery as she tried to process what they were looking at. This was it – the moment of truth. They were finally going to uncover the truth about Project Aurora and Director Lee's betrayal.
+
+But as Chen worked his magic on the servers, a faint beep echoed through the corridor, followed by the soft hum of machinery revving up. Mara felt a shiver run down her spine as she realized that they weren't alone in this place.
+
+"Chen?" she whispered, her voice barely audible over the growing noise.
+
+He looked up from the screen, his eyes locked on hers with a mixture of fear and uncertainty. "It's not just us," he mouthed, before pushing Mara towards the server racks.
+
+As they moved to investigate, the lights in the corridor began to flicker, and a low-pitched whine filled the air. Mara felt her heart racing as she realized that they were running out of time – and so was Director Lee.
+
+Suddenly, the lights went out, plunging them into darkness. The hum grew louder, and Mara's skin crawled with anticipation. She knew what this meant – the kill-switch had been triggered.
+
+But by whom?
+
+As she waited for her eyes to adjust to the darkness, a faint light flickered in the distance, illuminating a figure standing behind one of the server racks. It was Ren, his face pale and drawn as he stared at something on the floor.
+
+"What is it?" Mara called out, taking a step forward.
+
+Ren looked up, his eyes meeting hers with a mixture of horror and shock. "It's Jaxon," he whispered, before pointing to the ground.
+
+Mara followed his gaze, her heart stopping in her chest as she realized that her brother was lying on the floor, a single bullet wound to the head.
+
+"No," Mara breathed, her world crashing down around her. "No, this can't be."
+
+Ren's eyes locked onto hers, filled with apology and regret. "I'm sorry, Mara. I didn't mean for this to happen."
+
+As she stared at Ren in shock, a faint message flashed on the screen of Chen's phone, illuminating the dark corridor: "They're watching us. Get out now."
+
+Mara knew they had no choice – it was time to run.
+
+The lights flickered back to life, and Mara saw that the server room was empty except for Ren and Jaxon's body. But as she looked up at Chen, she noticed something that made her blood run cold – his phone was still active, displaying a message from an unknown number: "Goodbye, Detective."
+
+Mara's eyes widened in terror as she realized that they'd just been set up. Again.
+
+"What have you done?" Mara spat, her anger and fear boiling over.
+
+Chen looked at her with a mixture of sadness and desperation, before turning to flee into the darkness. "I had no choice," he called back over his shoulder. "They're coming for us!"
+
+As Mara watched him disappear into the night, she knew that they were in this together – whether they liked it or not.
+
+And as she turned to Ren, her eyes locking onto his with a fierce determination, she whispered a single word: "Run."
+
+[20:47:38] Ollama call started (attempt 1/3, temperature=0.7)
+[20:47:59] Ollama call still running... elapsed=21s (attempt 1/3)
+[20:48:11] Ollama call completed in 33s
+Ren's eyes snapped towards hers, and for a moment, Mara saw a glimmer of hope. But then he nodded, and together they took off in a sprint down the corridor, their footsteps echoing off the metal walls as they desperately sought to escape.
+
+Mara's mind was racing with questions – who had set them up? Why had Chen betrayed them? And what did it have to do with Jaxon's death?
+
+She didn't have time to think about any of it. They were running for their lives, and she knew that if they got caught, there would be no mercy.
+
+As they burst through the doors at the end of the corridor, Mara saw a sea of faces staring back at them. The hallways of HQ were suddenly filled with people, all rushing to get out – or to catch them.
+
+"Split up!" Ren yelled, grabbing Mara's arm and pulling her towards a side door.
+
+Mara didn't hesitate. She followed him through the narrow passageway, her heart pounding in her chest as they weaved through the crowds of panicked employees.
+
+They emerged into a deserted stairwell, the only sound the echo of their own breathing. Ren pushed Mara against the wall, his eyes scanning the stairs above and below them.
+
+"We need to get out of here," he whispered urgently. "Now."
+
+But Mara hesitated, her gaze drifting towards the security cameras mounted on the walls. They were being watched – Chen's phone had told them that much.
+
+She turned back to Ren, a plan forming in her mind. "We can't trust anyone now," she said, her voice barely above a whisper. "Not even each other."
+
+Ren's eyes narrowed as he processed Mara's words. For a moment, they just stared at each other, the tension between them palpable.
+
+And then, without another word, Ren turned and disappeared into the stairwell, leaving Mara alone in the darkness.
+
+Mara took a deep breath, her heart still racing from their hasty escape. She knew that she couldn't trust anyone – not even Chen, who had just betrayed them.
+
+But as she turned to follow Ren, she felt a strange sense of calm wash over her. They were on their own now, and Mara knew exactly what she was going to do.
+
+She started running down the stairs, her footsteps pounding out a rhythm in the deserted hallways of HQ. She didn't know where they would end up or who she could trust – but she knew one thing for sure: they were in this together, no matter what it took to uncover the truth.
+
+As Mara hit the ground floor, she saw Ren waiting for her by the main entrance. He glanced around nervously before grabbing her arm and pulling her towards a nearby alleyway.
+
+"Come on," he whispered, as they emerged into the cool night air. "We have to get out of here – now."
+
+Mara didn't argue. She knew that they were in this for their lives, and she was determined to see it through – no matter what lay ahead.
+
+Together, they vanished into the night, leaving behind the chaos and confusion of HQ. But as they disappeared from view, a single message flashed on Chen's phone, illuminating the darkness: "Package extracted. Next step imminent."
+
+And in that moment, Mara knew that their journey was far from over – it had only just begun.

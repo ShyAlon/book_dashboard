@@ -1,0 +1,85 @@
+Chapter 21: Untitled
+
+[22:34:57] Ollama call started (attempt 1/3, temperature=0.75)
+[22:35:17] Ollama call still running... elapsed=20s (attempt 1/3)
+[22:35:29] Ollama call completed in 32s
+The Starcartographer's Oath
+
+Chapter 21: Shadows in the Plaza
+
+The sun was setting over Cygnus, casting long shadows across the cobblestone streets as Ilya and her companions made their way through the winding alleys towards the city's central plaza. The air was alive with the whispers of the ancients, carried on the breeze like a gentle melody. Lyraea walked beside Ilya, her eyes fixed intently on some point ahead, while Rowan and Tamsin brought up the rear, their conversation hushed but their faces tense.
+
+As they emerged into the plaza, the group was met with an eerie silence. The streets, normally bustling with merchants and traders, were eerily still. It was as if Cygnus itself was holding its breath in anticipation of what was to come.
+
+"We should not be here," Tamsin said, her voice barely above a whisper. "It's not safe."
+
+Lyraea shot her a withering glance before turning back to Ilya. "We need to make a decision about the Crown," she said, her words laced with an undercurrent of urgency.
+
+Ilya hesitated, unsure of what lay ahead. The Hollow Crown had become a symbol of their quest, but its power was both intoxicating and terrifying. She glanced at Rowan, who seemed lost in thought, his eyes fixed on some distant point as if seeing into the very soul of Cygnus itself.
+
+"I don't know," Ilya said finally, her voice barely above a whisper. "Part of me wants to destroy it, but another part...I'm not sure."
+
+Lyraea's smile was like a crack in ice, cold and unforgiving. "You're afraid of what it might do," she said, her words dripping with condescension.
+
+Aethera stepped forward, her eyes blazing with determination. "We've come this far, Ilya. We can't let fear guide us now."
+
+But Lyraea was not to be swayed. "Fear is what will save us in the end," she said, her voice rising above the din of the plaza's silence.
+
+As their argument escalated, a figure emerged from the shadows at the edge of the square. The spy, always lurking just out of sight, watched with an unreadable expression as the group bickered over the fate of the Crown.
+
+Ilya felt a shiver run down her spine as she realized that they were not alone in this moment of decision. There were forces at play here, unseen and insidious, manipulating events from behind the scenes.
+
+"We need to destroy it," Rowan said suddenly, his voice clear and resolute. "We can't risk its power falling into the wrong hands."
+
+Tamsin nodded in agreement, but Lyraea's face twisted in a snarl of disdain. "You don't understand what you're talking about, Rowan. The Crown is our only hope—"
+
+A sudden noise echoed through the plaza, silencing Lyraea mid-sentence. It was the sound of shattering glass, followed by the scent of ozone and smoke.
+
+The group turned towards the source, their hearts racing with anticipation. What had just happened?
+
+As they watched in horror, a figure stumbled out from beneath the archway of a nearby building, its eyes wide with fear. And on its chest, emblazoned in blood-red letters, was a single word:
+
+RUN.
+
+Ilya's heart skipped a beat as she realized that their decision would have to wait. For now, they had more pressing concerns. The question was, what lay ahead?
+
+[22:35:29] Ollama call started (attempt 1/3, temperature=0.7)
+[22:35:50] Ollama call still running... elapsed=21s (attempt 1/3)
+[22:36:00] Ollama call completed in 31s
+The figure stumbled towards them, its eyes darting wildly about the plaza as if searching for an escape route. Ilya's instincts screamed at her to act, but she froze, unsure of what to do next.
+
+Lyraea, however, seemed to spring into action with a speed that belied her earlier languor. She strode forward, her movements fluid and confident, and grasped the figure by the shoulders. "What happened?" she demanded, her voice low and urgent.
+
+The figure's gaze locked onto Lyraea's face, and for an instant, Ilya thought she saw a flicker of recognition. But then, as if realizing where they were, the figure's eyes went wide with terror once more.
+
+"It was...the other one," the figure stammered, its voice trembling. "I saw it. It came from nowhere. I tried to run, but..."
+
+Tamsin stepped forward, her face pale with concern. "What do you mean? What did you see?"
+
+The figure's gaze dropped to the ground, as if unable to meet their eyes. "A thing...a creature. It was in my head. I saw its face. And it spoke to me."
+
+Ilya felt a shiver run down her spine at this. Creatures like that were said to be mere whispers of the ancients, manifestations of their power and will.
+
+Lyraea's grip on the figure's shoulders tightened. "Tell us more," she urged, her voice low and menacing.
+
+But before the figure could respond, Aethera spoke up, her voice sharp with warning. "Wait. We don't know what this is about. Let's not jump to conclusions."
+
+The figure's eyes darted towards Aethera, a flash of desperation in their gaze. "Please," it whispered, its voice barely audible over the sound of its own ragged breathing. "You have to listen. It's not just me. There are others...I've seen them. They're coming for you."
+
+The plaza seemed to grow darker, as if night itself was closing in around them. Ilya felt a presence lurking at the edges of her perception, watching and waiting.
+
+"We need to get out of here," Tamsin said suddenly, her voice firm with decision. "Now."
+
+But Lyraea's grip on the figure's shoulders had tightened further, as if she was determined to extract every last drop of information from them. Ilya felt a surge of unease at this. What secrets were they about to uncover?
+
+As they stood there, frozen in indecision, the plaza seemed to grow quieter still. The shadows deepened, and the air thickened with an unseen presence.
+
+And then, without warning, Lyraea let go of the figure's shoulders, her expression twisted into a cruel smile. "I think we've heard enough," she said, her voice dripping with malice.
+
+The figure stumbled backward, its eyes wide with terror. And as it turned to flee, Ilya saw something that made her blood run cold. A symbol etched into the ground behind the figure, glowing with an otherworldly light.
+
+It was a sigil, one of the ancient markings that only the most powerful among them could wield. But this was no ordinary sigil...it was a warning.
+
+"Run," Ilya whispered, her heart pounding in her chest.
+
+But it was too late. The figure stumbled out into the night, and everything went dark.

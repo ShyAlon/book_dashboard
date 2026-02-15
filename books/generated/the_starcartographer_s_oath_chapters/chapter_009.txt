@@ -1,0 +1,97 @@
+Chapter 9: Untitled
+
+[22:11:12] Ollama call started (attempt 1/3, temperature=0.75)
+[22:11:32] Ollama call still running... elapsed=20s (attempt 1/3)
+[22:11:52] Ollama call still running... elapsed=40s (attempt 1/3)
+[22:11:52] Ollama call completed in 40s
+Chapter 9: The Weighing of Oaths
+
+The workshop's wooden beams creaked and groaned as Tamsin paced back and forth across the room, her footsteps echoing off the walls. The flickering candles cast eerie shadows on the floor, making it seem as though the very darkness itself was watching her with an unblinking gaze. Rowan stood by the workbench, a look of concern etched on his face, while Ilya leaned against the doorframe, her eyes fixed intently on Tamsin.
+
+"You can't be serious," Rowan said, his voice low and urgent. "We've come too far to turn back now."
+
+Tamsin's pace quickened, her hands clenched into fists at her sides. "You don't understand, Rowan. I'm not just talking about the relic or our quest. I'm talking about what we're willing to sacrifice for it."
+
+Ilya pushed off from the doorframe and took a step forward, her eyes never leaving Tamsin's face. "What are you saying?"
+
+Tamsin halted in front of them, her chest heaving with emotion. "The oaths, Ilya. We swore to protect this city, to keep its people safe. And what do we do? We rush headlong into danger, trading their souls for knowledge and power. It's not right."
+
+Rowan's expression turned grim. "We had no choice, Tamsin. The celestial map is clear: the First Compass relic is the only way to prevent the Hollow Crown from remaking our world."
+
+Tamsin shook her head, a fierce glint in her eye. "You're thinking like a cartographer, not a guardian. We can't just abandon our duty to the city and its people. What happens when we finally find the relic? Will we be able to wield it without losing ourselves to its power?"
+
+Ilya's eyes dropped, her thoughts echoing Tamsin's words. She had seen Lyraea's power, the ease with which she manipulated the celestial map. And what of Aethera's mysterious connection to Lyraea? Ilya felt a shiver run down her spine as she realized that their quest was no longer just about finding the relic – it was about confronting the darkness within themselves.
+
+The workshop's lights flickered once more, and Tamsin's eyes snapped towards the door. "What now?" Rowan muttered, but before he could finish speaking, a figure emerged from the shadows at the edge of the room.
+
+Ilya's heart skipped a beat as she recognized the newcomer – it was Aethera, her face pale and drawn, with an expression that seemed to hold a thousand secrets. And yet, as their eyes met, Ilya felt a spark of recognition, a sense that they were connected in ways she couldn't begin to understand.
+
+"Ah," Tamsin breathed, her voice barely above a whisper. "It seems our little group just grew by one."
+
+Aethera's gaze flickered between the three of them, her eyes lingering on Ilya before returning to Tamsin. For an instant, Ilya thought she saw a glimmer of warning in Aethera's expression, but it was gone as quickly as it appeared.
+
+"What brings you here?" Rowan asked, his voice firm but cautious.
+
+Aethera's smile was enigmatic. "I came for the relic," she said, her voice dripping with an otherworldly cadence. "And I think we can all agree that time is running out."
+
+As Aethera spoke, the workshop's lights began to fade once more, plunging the room into darkness. The air seemed to thicken, heavy with anticipation – and Ilya felt a creeping sense of dread as she realized that their journey was about to take a perilous turn.
+
+And then, just as suddenly as it had begun, everything went black.
+
+When Ilya opened her eyes again, she found herself standing in the middle of a narrow street, surrounded by the towering buildings of Cygnus. Rowan and Tamsin stood beside her, their faces illuminated by flickering torches that cast eerie shadows on the walls.
+
+"What...what just happened?" Tamsin stammered, her voice barely audible over the sound of their own ragged breathing.
+
+Ilya's gaze swept the street, searching for any sign of Aethera or Lyraea. But they were nowhere to be seen – and she was left with a single, chilling thought:
+
+They had lost something precious in that darkness, something that could change the course of their world forever...
+
+[22:11:52] Ollama call started (attempt 1/3, temperature=0.7)
+[22:12:12] Ollama call still running... elapsed=20s (attempt 1/3)
+[22:12:33] Ollama call still running... elapsed=41s (attempt 1/3)
+[22:12:33] Ollama call completed in 41s
+As Ilya's eyes adjusted to the dim light, she saw that Rowan and Tamsin were staring at her with a mixture of concern and confusion. "What happened?" Tamsin repeated, her voice rising above the din of the city.
+
+Ilya shook her head, trying to clear the fog from her mind. "I...I don't know," she admitted, feeling a shiver run down her spine. "One moment we were in the workshop, and the next I was here."
+
+Rowan's face twisted into a worried frown. "This is getting out of hand," he muttered, glancing around at the surrounding buildings as if searching for some hidden threat.
+
+Tamsin's eyes narrowed. "We need to find Aethera," she said, her voice firm with determination. "She was here one moment, and then –"
+
+"She vanished into thin air," Ilya finished for her, a shiver running down her spine. "Just like Lyraea."
+
+The three of them stood there in silence for a moment, the only sound being the distant hum of the city's nightlife. Then, without another word, they set off into the crowd, pushing through the throngs of people as they made their way deeper into Cygnus.
+
+As they walked, Ilya couldn't shake the feeling that they were being watched. She kept looking over her shoulder, expecting to see Aethera or Lyraea following them, but there was never anyone there. It was as if they had vanished into a void, leaving behind only the faintest hint of their presence.
+
+Rowan and Tamsin seemed just as uneasy, their eyes scanning the crowds with a mixture of suspicion and unease. They moved quickly, their footsteps echoing off the buildings as they wove through the narrow streets.
+
+Ilya's mind was racing with questions – what had happened in that darkness? Why had Aethera vanished so suddenly? And where were Lyraea and Ollama now?
+
+As she walked, Ilya noticed something strange. The city seemed different tonight, the buildings seeming to loom over them like sentinels. The air was thick with an almost palpable sense of anticipation – as if something was waiting for them just out of sight.
+
+They turned a corner, and Ilya's heart skipped a beat as she saw it: a massive stone statue standing at the center of a small plaza. The statue depicted a figure unlike any she had ever seen before – its body twisted into impossible shapes, its face contorted in a scream of agony.
+
+Tamsin's eyes went wide as she took in the sight, her hand flying to her mouth in horror. "It's...it's Lyraea," she whispered, her voice trembling with fear.
+
+Rowan's face was grim. "We need to be careful," he muttered, his eyes scanning the surrounding buildings for any sign of danger.
+
+But Ilya felt no fear – only a growing sense of unease as she approached the statue. Something about it seemed...off, like a puzzle piece that didn't quite fit.
+
+As they drew closer, Ilya saw something that made her blood run cold: on the pedestal beneath Lyraea's statue was etched a single word, in letters that seemed to burn with an otherworldly energy:
+
+"Ollama"
+
+Ilya felt a shiver run down her spine as she realized what this meant – Ollama, the mysterious caller who had been trying to reach them for weeks. What did he have to do with Lyraea's statue? And why was it here, in the heart of Cygnus?
+
+With that thought still echoing through her mind, Ilya turned to Rowan and Tamsin, a look of determination on her face. "We need to find Ollama," she said, her voice firm with conviction.
+
+Rowan's eyes narrowed. "And what makes you think he'll be willing to help us?"
+
+Ilya hesitated for a moment before answering. "Because I think we're running out of time – and our world may depend on it."
+
+As they spoke, the city around them seemed to grow darker, as if night itself was closing in. The stars above were hidden behind thick clouds, and the air grew heavy with an almost palpable sense of foreboding.
+
+And then, just as suddenly as it had begun, everything went silent – the only sound being the soft hum of a single note, echoing through the streets like a siren's call...
+
+"Ollama," the voice whispered, its words barely audible over the silence. "I have been waiting for you."

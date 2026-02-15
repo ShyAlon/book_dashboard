@@ -1,0 +1,128 @@
+Chapter 21: Untitled
+
+[20:38:56] Ollama call started (attempt 1/3, temperature=0.75)
+[20:39:16] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:39:37] Ollama call still running... elapsed=40s (attempt 1/3)
+[20:39:43] Ollama call completed in 47s
+Chapter 21: Fractured Loyalty
+
+Mara stepped out of her car and onto the cracked asphalt of the parking lot, her eyes scanning the surroundings with a practiced wariness. The building before her was nondescript, a drab, three-story structure that seemed to blend seamlessly into the surrounding landscape. But Mara knew better than to underestimate appearances.
+
+She took a deep breath, steeling herself for what lay ahead. Her eyes locked onto the entrance, and she pushed through the doors with a sense of trepidation.
+
+Inside, the air was stale and heavy with the scent of disinfectant. Mara's footsteps echoed off the walls as she made her way to the front desk. A blandly friendly receptionist looked up from behind the counter, her smile faltering for an instant before she regained her composure.
+
+"Can I help you?" she asked, her voice dripping with insincerity.
+
+Mara flashed a visitor's badge, and the receptionist nodded curtly, handing her a clipboard with a visitor's log to sign. "You're here to see...?"
+
+Her eyes flickered toward the name on Mara's badge, and for an instant, Mara thought she saw a flicker of recognition. But it was quickly suppressed.
+
+"Ah, yes," the receptionist said, her voice light, dismissive. "I'll page your brother."
+
+Mara's gut tightened as she waited, the silence stretching out like a thin wire strung taut between them. She knew what to expect – had anticipated this moment for days – but that didn't make it any easier.
+
+The receptionist picked up the phone and dialed a number, her fingers moving with an eerie precision. Mara watched, transfixed, as she spoke in hushed tones, her words barely audible over the low thrum of fluorescent lights overhead.
+
+Then, just as suddenly, the receptionist hung up and nodded toward a door marked "Authorized Personnel Only." "Your brother is waiting for you," she said, her voice now as bland as the walls that surrounded them.
+
+Mara's heart sank. She knew what lay behind that door – had known it all along. The facility was one of Director Lee's pet projects, a place where he and his team pushed the boundaries of human experimentation. And Mara's brother, Jaxon, was right at the center of it.
+
+She took a deep breath, steeling herself for what she was about to face. The receptionist nodded toward the door, her eyes flickering with something like... sympathy? No, that couldn't be right.
+
+Mara pushed through the door and found herself in a narrow corridor lined with gleaming steel walls and humming machinery. The air was thick with the scent of ozone and burned circuitry. She knew this place – had navigated its twists and turns before.
+
+And now, she was here to confront her brother.
+
+As she walked down the corridor, the doors on either side began to slide open, revealing rows of glass-walled cells filled with people in various states of distress. Some were strapped into restraints, their eyes vacant as they stared into space; others paced back and forth, their movements jerky and unnatural.
+
+Mara's heart ached for them – for all the victims she'd seen here before. But her focus was elsewhere now, fixed on the door at the end of the corridor.
+
+It slid open with a hiss, revealing Jaxon standing in the center of the room, his eyes locked onto Mara's as if drawn by some unseen force. His face was pale and gaunt, his skin slick with sweat.
+
+"Mara," he said, his voice barely above a whisper.
+
+For an instant, she saw her brother – the boy who'd been her confidant, her partner in crime. But then, something in his eyes shifted, and he became... someone else.
+
+Someone controlled.
+
+"Hello, Mara," he said again, his voice dripping with a false familiarity that made her skin crawl.
+
+Mara's gut twisted into knots as she took a step forward, her mind racing with the implications. Her brother was trapped – had been for years, according to Ren's intel. But how much of himself remained?
+
+And what did Director Lee have planned next?
+
+"You're safe now," Mara said, trying to keep her voice steady.
+
+But Jaxon just smiled, his eyes glazing over as he spoke in a monotone, "I'm happy to be here. I've been... reeducated."
+
+Mara's blood ran cold as she realized the true extent of Director Lee's manipulation. Her brother was a pawn – and she had to get him out before it was too late.
+
+But for now, she just smiled back at Jaxon, her eyes locked onto his as she searched for any glimmer of recognition, any spark of hope that he might still be in there...
+
+And then, something moved outside the room. A faint rustle, followed by the soft creak of a door opening.
+
+Mara's gaze snapped toward it, her heart racing with anticipation. She knew who was coming – had expected this moment for days.
+
+But she wasn't ready.
+
+As the door swung open and Detective Chen stepped into view, Mara felt a shiver run down her spine. Her gut told her that something was off – but what?
+
+"Ah," Chen said, her voice dripping with an unctuous sweetness as she locked eyes with Mara. "Perfect timing."
+
+And in that moment, Mara knew she had to get out of there – fast.
+
+But it might already be too late.
+
+[20:39:43] Ollama call started (attempt 1/3, temperature=0.7)
+[20:40:03] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:40:17] Ollama call completed in 34s
+Mara's instincts screamed at her to flee, but her legs seemed rooted to the spot. Chen's smile grew wider, her eyes glinting with an unsettling intensity as she took a step forward. Jaxon's gaze flickered between them, his expression a mask of confusion.
+
+"Detective," Mara said, trying to keep her voice steady. "What are you doing here?"
+
+Chen's smile never wavered. "Just visiting some old friends, I suppose. You know how it is."
+
+Mara's mind racing, she tried to process the detective's words. What game was Chen playing now? Was this some kind of setup, or had Mara simply misread the situation?
+
+Jaxon took a step forward, his eyes locked onto Chen. "I thought you were on vacation," he said, his voice laced with confusion.
+
+Chen chuckled. "Vacation? Ah, no. Just... business, Jax. You know how it is."
+
+Mara's gut twisted into knots as she watched the exchange. Something was off – but what? Chen had always been a straight shooter, but now she seemed to be hiding something.
+
+"Detective," Mara said again, her voice firm this time. "What do you want?"
+
+Chen's smile grew even wider, her eyes glinting with amusement. "Oh, I think it's clear what I'm here for, don't you?" She took another step forward, her movements smooth and deliberate.
+
+Mara felt a shiver run down her spine as Chen's gaze locked onto hers. For an instant, she saw something there – something that looked almost like... fear?
+
+"No," Mara said, shaking her head. "I don't think so."
+
+Chen's smile never wavered, but for a moment, Mara thought she saw a flicker of uncertainty behind it. Then, in an instant, Chen's expression smoothed out, and she was once again the confident, unyielding detective.
+
+"Ah, I see," Chen said, her voice dripping with sarcasm. "You're still playing games, Mara. How... quaint."
+
+Mara's heart sank as Chen took another step forward. She knew she had to get out of there – fast. But for what reason? And why did she have the feeling that Chen was hiding something?
+
+As if sensing her unease, Jaxon spoke up, his voice low and hesitant. "Detective... is everything okay?"
+
+Chen's gaze flickered toward him, a fleeting moment of uncertainty flashing across her face before she regained her composure.
+
+"Everything's fine, Jax," she said, her voice smooth as silk. "Just a little... discussion with your sister."
+
+Mara's mind racing, she took a step back, her eyes locked onto Chen's. For an instant, she thought she saw something there – something that looked almost like...
+
+And then it was gone.
+
+"Detective," Mara said again, her voice firm this time. "What do you want?"
+
+But before Chen could respond, the door behind her slid open, revealing a figure clad in a white lab coat. Director Lee's eyes locked onto Mara, his expression cold and calculating.
+
+"Mara," he said, his voice dripping with condescension. "I see you've arrived."
+
+Mara felt a shiver run down her spine as Lee stepped forward, Chen moving to the side to let him pass.
+
+"I think it's time we had a little chat," Lee said, his eyes locked onto Mara's.
+
+And in that moment, Mara knew she was trapped – and running out of options fast.

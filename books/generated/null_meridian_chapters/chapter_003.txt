@@ -1,0 +1,87 @@
+Chapter 3: Untitled
+
+[20:03:05] Ollama call started (attempt 1/3, temperature=0.75)
+[20:03:25] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:03:39] Ollama call completed in 34s
+Null Meridian
+
+Chapter 3: Shadow in the Code
+
+Mara's eyes scanned the dimly lit alleyway, her gaze darting between the fire escapes and dumpsters as she waited for her contact to arrive. The rain-soaked streets of Sacramento were always a labyrinth at night, but she had been given specific instructions: meet him on the corner of 16th and Q Streets, outside the UC Davis Medical Center's abandoned research wing. A text from an unknown number had summoned her here, hinting at information about the compromised encryption keys.
+
+As she checked her watch for what felt like the hundredth time, a figure emerged from the shadows. He was tall, with dark hair slicked back, and eyes that seemed to bore into Mara's very soul. A hooded jacket wrapped around him, but not tight enough to conceal the bulge under his left arm.
+
+"Agent," he said, his voice low and urgent as he approached her. "I'm afraid we're running out of time."
+
+Mara's instincts flared, warning her that something was off, but she nodded for him to continue.
+
+"My name is Alexei Petrov," he began, his words tumbling out in a hasty rush. "I used to work with the research team at UC Davis. I'm here to give you this." He handed over a small, sleek drive from under his jacket.
+
+Mara's eyes narrowed as she accepted the device. "What is it?"
+
+"It's a dead-man-switch," Petrov explained, his voice strained. "If something happens to me...if they find out we talked...this will release the information to the press and the authorities. It's the proof you need."
+
+A shiver ran down Mara's spine as she felt the weight of the drive in her hand. This was what she had been searching for – a trail that could lead her to the source of the compromised encryption keys.
+
+But before she could ask more questions, Petrov took a step back, his eyes darting nervously around the alleyway.
+
+"I'm sorry, Agent," he whispered, his voice trembling. "I didn't have much time...they're closing in on me."
+
+As Mara watched in horror, Petrov's body crumpled to the ground, a crimson stain spreading from beneath him like a dark flower. She sprinted forward, dropping to her knees beside him.
+
+"Alexei!" she cried, but it was too late.
+
+Petrov's eyes flickered open for an instant, his gaze locking onto Mara's before he went still. The rain began to fall harder, drumming against the pavement like a thousand tiny fists as Mara held the dead man's switch drive in her trembling hand.
+
+A message flashed on Petrov's phone, now lying next to him: "Package delivered."
+
+Mara's eyes narrowed, suspicion simmering beneath her skin. Who was behind this? And what did they stand to gain from Alexei's sacrifice?
+
+As she stood up, the drive still clutched in her hand, Mara felt a presence watching her from across the alleyway. The darkness seemed to coalesce into a figure – tall, imposing, and shadowy.
+
+She turned, trying to get a glimpse of this phantom, but he vanished into thin air. The only sound was the patter of rain on the pavement, echoing through the deserted alleyway like a macabre waltz.
+
+Mara took a deep breath, her mind racing with questions. What lay on the dead-man-switch drive? And who was behind Alexei's murder?
+
+She tucked the drive into her jacket pocket and began to move away from the body, knowing that she had to get this information back to HQ – but also aware that they were no longer alone in this city.
+
+The rain grew heavier, pounding against Mara's face like a relentless drumbeat. She quickened her pace, her eyes scanning the rooftops for any sign of pursuit...
+
+[20:03:39] Ollama call started (attempt 1/3, temperature=0.7)
+[20:03:59] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:04:12] Ollama call completed in 33s
+As she emerged from the alleyway, Mara was struck by the stark contrast between the dimly lit alley and the brightly lit streets beyond. The rain-soaked pavement glistened like polished stone, reflecting the neon lights of the nearby bars and clubs. She navigated through the crowded sidewalks, her eyes scanning the faces around her for any sign of trouble.
+
+The drive containing Alexei's secrets seemed to weigh heavier in her pocket with every step. Who was she supposed to trust now? The message on Petrov's phone still lingered in her mind: "Package delivered." It sounded like a confirmation, but what exactly had been packaged and delivered?
+
+She ducked into the nearest coffee shop, hoping to lose herself in the crowd for a moment. Inside, the air was thick with the aroma of freshly brewed coffee and the murmur of hushed conversations. Mara ordered a large black coffee and took a seat by the window, trying to gather her thoughts.
+
+As she sipped her coffee, her gaze drifted out into the rain-soaked streets. The darkness seemed to press in around her, making her skin crawl. She knew that Alexei's sacrifice had opened up new avenues of investigation, but it also meant she was now a target.
+
+Mara pulled out her phone and dialed HQ, hoping to get some backup. But as she waited for someone to answer, she couldn't shake the feeling that she was being watched.
+
+The voice on the other end of the line picked up, and Mara identified herself before launching into a quick summary of what had just happened. The silence on the other end made her stomach twist with anxiety.
+
+"Agent, we're patching you through to Director Lee," the voice said finally.
+
+Mara's eyes narrowed as she waited for the director to come online. She knew that Lee was a straight shooter, but there was something about this whole situation that didn't add up.
+
+As the line connected, Mara heard the director's familiar voice on the other end. "Agent, we've had some...developments," he said, his tone measured and controlled. "We need to discuss the parameters of your investigation."
+
+Mara felt a spark of unease ignite within her. What did they know that she didn't? And what exactly were they trying to hide?
+
+"Sir, I think you should know that Alexei Petrov is dead," Mara said, trying to keep her tone neutral.
+
+There was a pause on the other end of the line, and for a moment, Mara wondered if the connection had been lost. But then Lee spoke up again, his voice laced with an undercurrent of tension.
+
+"We're aware of that, Agent. We've received...information from a reliable source."
+
+Mara's eyes narrowed as she tried to process what was being said. Reliable source? What did that even mean?
+
+"What kind of information?" she asked, trying to keep her tone steady.
+
+But before the director could answer, Mara heard the unmistakable sound of shattering glass behind her. She turned to see a coffee shop window exploding outward, shards flying in all directions as a figure burst through the wreckage.
+
+The air seemed to compress around her as the figure emerged from the rain-soaked darkness, its eyes fixed intently on Mara. For an instant, they locked gazes, and Mara felt a jolt of recognition – but it was quickly extinguished by the sheer terror that took over.
+
+"Run!" someone screamed behind her, but Mara's legs seemed rooted to the spot as she stared into the face of...

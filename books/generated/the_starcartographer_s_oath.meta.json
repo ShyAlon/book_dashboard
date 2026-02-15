@@ -1,0 +1,10 @@
+{
+  "title": "The Starcartographer's Oath",
+  "genre": "fantasy",
+  "model": "llama3.1:8b",
+  "endpoint": "http://127.0.0.1:11434",
+  "total_words": 40968,
+  "target_min_words": 40000,
+  "book_file": "books/generated/the_starcartographer_s_oath.txt",
+  "generated_at": "2026-02-14T22:53:21.132423"
+}

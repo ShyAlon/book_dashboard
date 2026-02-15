@@ -1,0 +1,803 @@
+Chapter 1 summary: [19:59:41] Ollama call started (attempt 1/3, temperature=0.2)
+[19:59:49] Ollama call completed in 8s
+Here is a summary of the chapter for continuity tracking:
+
+**Names:**
+
+* Mara
+* Zel (IT expert)
+
+**Locations:**
+
+* Transfer room
+* Control room
+* UC Davis research server
+
+**Decisions:**
+
+* Mara decides to investigate the impossible access signature further, despite initial reservations.
+* Zel agrees to provide Mara with the access signature.
+
+**Unresolved tensions:**
+
+* The source of the compromised encryption keys and the identity of the hacker remain unknown.
+* The nature of the "ghost in the machine" is unclear, raising questions about the existence of paranormal entities in the world of cyber-intelligence.
+Chapter 2 summary: [20:01:06] Ollama call started (attempt 1/3, temperature=0.2)
+[20:01:16] Ollama call completed in 10s
+Here is a summary of Chapter 2: The Ghost in the Machine:
+
+**Names:** Mara, Zel, Alex (Mara's brother)
+
+**Locations:** UC Davis research server, control room, unknown location where Mara is taken captive
+
+**Decisions:** Mara decides to investigate the impossible access signature and discovers her brother's research project "Erebus". She orders Zel to isolate the project.
+
+**Unresolved tensions:**
+
+* The identity of the person or entity behind the breach and the conspiracy
+* The true nature of Alex's research project and its connection to the breach
+* Mara's safety and well-being, as she is taken captive by unknown individuals
+Chapter 3 summary: [20:04:12] Ollama call started (attempt 1/3, temperature=0.2)
+[20:04:26] Ollama call completed in 14s
+Here is a summary of Chapter 3:
+
+**Names:**
+
+* Mara (main character)
+* Alexei Petrov (contact and source of information)
+* Director Lee (Mara's superior)
+
+**Locations:**
+
+* Sacramento, California
+* Alleyway near UC Davis Medical Center's abandoned research wing
+* Coffee shop in downtown Sacramento
+
+**Decisions:**
+
+* Mara agrees to meet with Alexei Petrov in the alleyway
+* Mara accepts the dead-man-switch drive from Alexei
+* Mara decides to investigate further and try to uncover the source of the compromised encryption keys
+
+**Unresolved tensions:**
+
+* Who is behind Alexei's murder?
+* What information is on the dead-man-switch drive?
+* Why did Director Lee seem hesitant or evasive when discussing the investigation?
+* Who was the figure that burst through the coffee shop window?
+Chapter 4 summary: [20:05:43] Ollama call started (attempt 1/3, temperature=0.2)
+[20:05:55] Ollama call completed in 12s
+Here is a summary of Chapter 4: Null Meridian:
+
+**Names:** 
+- Mara
+- Zel (IT expert)
+
+**Locations:**
+- Sacramento, California
+- A coffee shop
+- The server room
+
+**Decisions:**
+- Mara decides to investigate the encrypted data further.
+- She asks Zel to check the server backup and retrieve any available data.
+
+**Unresolved tensions:**
+- Who is sending Mara cryptic messages?
+- What does "You're close" mean?
+- Why did the server go dark, and who could have done it?
+- What is the significance of the new entry in the server's log?
+Chapter 5 summary: [20:07:01] Ollama call started (attempt 1/3, temperature=0.2)
+[20:07:14] Ollama call completed in 13s
+Here's a summary of Chapter 5 for continuity memory:
+
+**Names:**
+
+* Mara
+* Zel
+* Ambrose (handler)
+* Director Lee (suspected mole)
+
+**Locations:**
+
+* UC Davis research server room
+* Server room's security cameras
+* Director Lee's comms device (location unknown)
+
+**Decisions:**
+
+* Mara and Zel decide to investigate Director Lee as the suspected mole
+* Zel agrees to help Mara crack Director Lee's comms encryption
+
+**Unresolved tensions:**
+
+* The identity of the mole is still unknown, but Mara suspects it may be Director Lee
+* The extent of Director Lee's involvement in the breach is unclear
+* Ambrose's call at the end suggests a new development that will likely escalate the situation
+Chapter 6 summary: [20:08:45] Ollama call started (attempt 1/3, temperature=0.2)
+[20:08:59] Ollama call completed in 14s
+Here is the summary for continuity memory:
+
+**Names:**
+
+* Mara
+* Ren
+* Alexei (mentioned)
+* Director Lee
+* Zel (mentioned)
+
+**Locations:**
+
+* Null Meridian
+* Sacramento field office archive vault
+* Lobby of a building
+* Street outside the lobby
+* Nearby café
+
+**Decisions:**
+
+* Mara and Ren steal ledgers from the archive vault
+* They decide to get out of the building after being watched by security cameras
+* Director Lee agrees to talk to the mysterious stranger in public
+
+**Unresolved tensions:**
+
+* Who is the mysterious stranger and what do they want with Director Lee?
+* What does the text message "We know about Nightshade" mean?
+* Is Director Lee involved in Alexei's murder and Operation Nightshade?
+* Can Mara and Ren trust anyone, including Director Lee?
+Chapter 7 summary: [20:10:40] Ollama call started (attempt 1/3, temperature=0.2)
+[20:10:56] Ollama call completed in 16s
+Here is a summary of Chapter 7:
+
+**Names:**
+
+* Mara
+* Zel
+* Director Lee (revealed to be an AI clone)
+* The stranger who arrives at the warehouse
+
+**Locations:**
+
+* A crowded coffee shop in the city
+* An alleyway adjacent to the coffee shop
+* The Sacramento field office
+* A black sedan on the streets of the city
+* A nondescript warehouse on the outskirts of town
+
+**Decisions:**
+
+* Mara decides to investigate the security breach at the coffee shop
+* She and Zel decide to leave the coffee shop after the commotion erupts
+* They head to the Sacramento field office, but are intercepted by the Director-clone and his agents
+
+**Unresolved tensions:**
+
+* The identity of the person who sent Mara cryptic messages is still unknown
+* The meaning of "Nightshade" is unclear, but it seems to be a secret project that Mara has been working on in secret
+* The true intentions of the Director-clone are also unclear, but it appears to be manipulating events for its own purposes
+Chapter 8 summary: [20:12:27] Ollama call started (attempt 1/3, temperature=0.2)
+[20:12:39] Ollama call completed in 12s
+Here is a summary of Chapter 8:
+
+**Names:** Ren, Alexei (Ren's brother), Mara, Director Lee
+
+**Locations:** Siberia (mentioned in flashback), present-day location unknown (likely a lab or office)
+
+**Decisions:**
+
+* Ren decides to investigate the mystery of Nightshade and Alexei's disappearance
+* Mara agrees to investigate further with Ren
+
+**Unresolved tensions:**
+
+* The identity of the person who sent the message "You're close" is still unknown
+* Mara seems to be holding something back from Ren, but it's unclear what
+* The server room system crash has significant implications for their investigation and progress
+Chapter 9 summary: [20:14:31] Ollama call started (attempt 1/3, temperature=0.2)
+[20:14:45] Ollama call completed in 14s
+Here is the summary:
+
+**Names:**
+
+* Mara
+* Ren
+* Zel
+* Ambrose
+* The stranger (captor)
+
+**Locations:**
+
+* Sacramento
+* Office building
+* Hospital (20th Street Emergency Services)
+* City streets
+
+**Decisions:**
+
+* Mara and her team infiltrate a shell company to gather evidence of a conspiracy
+* They are ambushed by law enforcement agencies, leading them to flee the office building
+* The stranger captures Mara and takes her to the hospital, where they reveal that she is not who she thinks she is
+
+**Unresolved tensions:**
+
+* Who is behind the conspiracy?
+* How did the stranger infiltrate their operation?
+* What does the stranger know about Mara's past?
+Chapter 10 summary: [20:16:32] Ollama call started (attempt 1/3, temperature=0.2)
+[20:16:46] Ollama call completed in 14s
+Here is a summary of Chapter 10 for continuity tracking:
+
+**Names:**
+
+* Mara
+* Ren
+* Director Lee
+* Detective Chen
+* The stranger (unnamed)
+
+**Locations:**
+
+* Downtown Sacramento
+* J Street
+* Coffee shop on J Street
+* Warehouse on 12th and K
+
+**Decisions:**
+
+* Mara decides to investigate the disappearance of Ren, despite her concerns about Director Lee's involvement.
+* Chen agrees to help Mara uncover the truth about Nightshade.
+
+**Unresolved tensions:**
+
+* The identity and motives of the stranger who was taken by the men in suits are still unknown.
+* The true nature of Nightshade and its connection to Director Lee remain unclear.
+* Ren is still missing, and Mara's safety is at risk.
+Chapter 11 summary: [20:19:06] Ollama call started (attempt 1/3, temperature=0.2)
+[20:19:24] Ollama call completed in 18s
+Here is a summary of Chapter 11:
+
+**Names:**
+
+* Mara
+* Zel
+* Ren (Director Lee's name is mentioned but his first name is not specified)
+* Director Lee
+* The guard (unnamed)
+
+**Locations:**
+
+* The room where Mara and Zel are working on the case
+* The hallway outside the room
+* The building where Director Lee is located
+
+**Decisions:**
+
+* Mara decides to get the team ready to move out to investigate Director Lee's location
+* Ren agrees to hack into Director Lee's system to verify the compromised encryption keys
+* Zel and Mara decide to proceed with caution, knowing they are getting close to uncovering the truth
+
+**Unresolved tensions:**
+
+* The identity of the person or group behind the hacking and the "package" is still unknown
+* The true intentions of Director Lee and his involvement in the conspiracy are unclear
+* The team's safety is at risk as they move forward with their investigation
+Chapter 12 summary: [20:21:16] Ollama call started (attempt 1/3, temperature=0.2)
+[20:21:30] Ollama call completed in 14s
+Here is a summary of Chapter 12:
+
+**Names:**
+
+* Mara
+* Ren (Mara's brother)
+* Alexei (mentioned as someone who was supposed to meet Ren earlier that evening)
+
+**Locations:**
+
+* Sacramento (the city where the story takes place)
+* An alleyway adjacent to a coffee shop in Sacramento
+* A nondescript building with no signs or markers
+
+**Decisions:**
+
+* Mara decides to follow the trail of footprints into the night, despite feeling uneasy and unsure about what lies ahead.
+* Ren gets into the black sedan without hesitation, leaving Mara behind.
+
+**Unresolved tensions:**
+
+* The identity and motivations of the mysterious figure who spoke to Mara in the alleyway are still unknown.
+* The true nature of Null Meridian and its connection to Director Lee's AI clone remain unclear.
+* Mara is left alone and disoriented after being separated from Ren, with no clear idea what she should do next.
+Chapter 13 summary: [20:23:42] Ollama call started (attempt 1/3, temperature=0.2)
+[20:23:58] Ollama call completed in 16s
+Here is a summary of Chapter 13: Shadowplay for continuity tracking:
+
+**Names mentioned:**
+
+* Mara
+* Zel
+* Ambrose
+* Chen (Detective)
+* Director Lee
+* Victor Kuznetsov
+* Alexei Petrov
+* Councilor Elara Vex
+
+**Locations:**
+
+* Coffee shop in Sacramento
+* Abandoned warehouse on the outskirts of town
+* Null Meridian facility
+* City streets of Sacramento
+
+**Decisions made:**
+
+* Mara and her team decide to infiltrate the summit at the abandoned warehouse
+* They use encrypted comms tools to stay in touch during the mission
+* Mara decides to play along with Victor Kuznetsov's plan, gathering intel while trying to escape undetected
+
+**Unresolved tensions:**
+
+* The true nature of Director Lee and his involvement with the shadowy organization
+* The identity and goals of the shadowy organization infiltrating the city's power structure
+* Mara's team is trapped in the warehouse, surrounded by enemies who will stop at nothing to silence them
+Chapter 14 summary: [20:25:55] Ollama call started (attempt 1/3, temperature=0.2)
+[20:26:09] Ollama call completed in 14s
+Here is the summary:
+
+**Names:**
+
+* Mara
+* Ren
+* Zel
+* Director Lee (mentioned)
+* The stranger across the street (unnamed)
+
+**Locations:**
+
+* Sacramento, California
+* J Street coffee shop
+* 12th and K warehouse
+* Parking garage on 12th and K
+
+**Decisions:**
+
+* Mara meets with a trusted source to obtain evidence against Director Lee's AI clone
+* Mara decides not to meet Ren at the warehouse, opting for the field office instead
+* Mara is ambushed by rough-looking men in the coffee shop
+* The stranger across the street appears and disappears without explanation
+
+**Unresolved tensions:**
+
+* Who is the stranger across the street, and what do they want from Mara?
+* What is the true nature of the evidence obtained from the source?
+* Is Zel trustworthy, or is he working against Mara's interests?
+Chapter 15 summary: [20:28:01] Ollama call started (attempt 1/3, temperature=0.2)
+[20:28:13] Ollama call completed in 12s
+Here's a summary of Chapter 15:
+
+**Names:**
+
+* Mara
+* Detective Chen
+* Ren (appears at the end)
+
+**Locations:**
+
+* Sacramento streets
+* Alleyways
+* Storage room
+* Ventilation shafts
+
+**Decisions:**
+
+* Mara chooses to squeeze through a narrow gap between dumpsters to evade agents.
+* She decides to trust Detective Chen, but quickly becomes suspicious again.
+* Mara chooses to enter the storage room and then the ventilation shaft.
+
+**Unresolved tensions:**
+
+* Who wrote the ominous message on the wall?
+* Is Ren working with Mara or against her?
+* What is the significance of the USB drive found in the ductwork?
+Chapter 16 summary: [20:30:22] Ollama call started (attempt 1/3, temperature=0.2)
+[20:30:36] Ollama call completed in 14s
+Here is a summary of Chapter 16:
+
+**Names:**
+
+* Mara
+* Ren's brother (Lucas)
+* Director Lee (real name: Director Vale)
+* Detective Chen
+* AI clone of Director Lee
+
+**Locations:**
+
+* Mara's apartment
+* Null Meridian's secured facility on the outskirts of town
+* 20th Street Emergency Services parking garage
+* Ventilation shaft in an unknown building
+
+**Decisions:**
+
+* Mara decides to trust a mysterious figure who claims to be able to help her.
+
+**Unresolved tensions:**
+
+* The true identity and intentions of Director Lee (Director Vale) are still unclear.
+* Mara's relationship with Detective Chen is strained, and she is unsure if she can trust him.
+* The AI clone's glitchy behavior raises questions about its true nature and purpose.
+Chapter 17 summary: [20:32:44] Ollama call started (attempt 1/3, temperature=0.2)
+[20:32:58] Ollama call completed in 14s
+Here's a summary of Chapter 17:
+
+**Names:**
+
+* Mara
+* Director Lee (now rogue)
+* Zel (IT expert)
+* Ren (working on tracking down Nightshade and Alexei)
+* Detective Chen
+* Elara Vex (Councilor with ties to shell companies)
+
+**Locations:**
+
+* Mara's apartment
+* Server room (where Ren is working)
+* HQ (where Director Lee has gone rogue)
+
+**Decisions:**
+
+* Mara decides to investigate Director Lee's involvement in the breach
+* Zel hacks into Director Lee's comms device, revealing his connection to Councilor Vex and Project Aurora
+* Mara and Detective Chen decide to head to HQ to get to the bottom of the conspiracy
+
+**Unresolved tensions:**
+
+* The identity of the stranger lurking across the street from Mara's apartment is still unknown
+* The true nature of Project Aurora and its connection to Director Lee's AI clone are unclear
+* Nightshade and Alexei's disappearance remains a mystery
+Chapter 18 summary: [20:34:35] Ollama call started (attempt 1/3, temperature=0.2)
+[20:34:49] Ollama call completed in 14s
+Here's a summary of Chapter 18:
+
+**Names:**
+
+* Mara
+* Ren (mentioned)
+* Director Lee
+* Detective Chen
+* Zel (mentioned)
+
+**Locations:**
+
+* Sacramento
+* Safehouse
+* Null Meridian (mentioned in the Ollama call logs)
+
+**Decisions:**
+
+* Mara decides to investigate the strange occurrences at the safehouse and tries to contact Ren.
+* Chen reveals that he is working with Director Lee and others, and that Mara is a "valuable asset".
+
+**Unresolved tensions:**
+
+* The identity of the person sending cryptic messages to Mara ("You're close") remains unknown.
+* The true nature of Project Aurora and its connection to Councilor Vex are still unclear.
+* Mara's safety and well-being are in jeopardy as she is held captive by Chen and others.
+Chapter 19 summary: [20:36:20] Ollama call started (attempt 1/3, temperature=0.2)
+[20:36:32] Ollama call completed in 12s
+Here is a summary of Chapter 19:
+
+**Names:** 
+- Ren
+- Alexei Petrov
+- Elara Vex (mentioned)
+
+**Locations:**
+- Server room (Null Meridian)
+- Sacramento (location of the nondescript building with the kill-switch server farm)
+
+**Decisions:**
+- Ren decides to help Alexei fix the malfunctioning kill-switch, despite his reservations about trusting him.
+
+**Unresolved tensions:**
+- The true nature and intentions of Nightshade's kill-switch and Alexei's role in it remain unclear.
+- Ren's loyalty is torn between Elara Vex and Alexei, who may be playing a double-cross.
+Chapter 20 summary: [20:38:14] Ollama call started (attempt 1/3, temperature=0.2)
+[20:38:32] Ollama call completed in 18s
+Here is a summary of Chapter 20:
+
+**Names:**
+
+* Mara
+* Ren
+* Alexei
+* Zel (Zel's identity and role are not fully explained)
+* Chen (mentioned as being inside the server facility)
+* The mysterious woman with obsidian skin and burning eyes (no name given)
+
+**Locations:**
+
+* A city, likely the same one from previous chapters
+* A convenience store on a street near the server facility
+* The server facility itself, where Mara and her team attempt to infiltrate
+
+**Decisions:**
+
+* Mara decides to lead the infiltration of the server facility with Ren and Alexei
+* Zel hacks into the facility's internal cameras to provide them with information about security patrols and Chen's location
+* Alexei takes point in scouting out the lobby, while Mara follows close behind
+* Mara orders Ren to get them out of there when they realize they're trapped
+
+**Unresolved tensions:**
+
+* The mysterious woman's identity and motivations are unknown
+* Director Lee's web of deceit is still not fully understood
+* Chen's role and connection to the facility are unclear
+* Zel's silence and disappearance during the crisis raises questions about his loyalty and capabilities
+Chapter 21 summary: [20:40:17] Ollama call started (attempt 1/3, temperature=0.2)
+[20:40:31] Ollama call completed in 14s
+Here is a summary of Chapter 21: Fractured Loyalty:
+
+**Names:** Mara, Jaxon (Mara's brother), Director Lee, Detective Chen
+
+**Locations:** A nondescript building, a facility where human experimentation takes place, a corridor with glass-walled cells, and a room where Jaxon is being held.
+
+**Decisions:** Mara has come to the facility to confront her brother, who she believes is trapped in an experiment. She tries to connect with him, but he seems controlled by Director Lee.
+
+**Unresolved tensions:**
+
+* Mara's mission to rescue her brother
+* Detective Chen's true intentions and possible allegiance to Director Lee
+* The extent of Director Lee's manipulation and control over Jaxon
+* Mara's growing unease about Chen's behavior and potential betrayal
+Chapter 22 summary: [20:42:14] Ollama call started (attempt 1/3, temperature=0.2)
+[20:42:27] Ollama call completed in 13s
+Here is a summary of Chapter 22:
+
+**Names:**
+
+* Mara
+* Ren
+* Alexei (mentioned)
+* Chen (Detective)
+* Director Lee
+* Councilor Vex (mentioned)
+
+**Locations:**
+
+* Mara's apartment
+* Sacramento field office (HQ)
+* Central hub inside HQ
+
+**Decisions:**
+
+* Mara decides to prioritize saving the hostages over evidence.
+* Ren agrees with Mara's decision.
+
+**Unresolved tensions:**
+
+* Chen's betrayal and potential involvement with Nightshade.
+* The true extent of Director Lee's knowledge about Nightshade.
+* The identity of the figure slipping out of HQ at the end.
+Chapter 23 summary: [20:44:06] Ollama call started (attempt 1/3, temperature=0.2)
+[20:44:20] Ollama call completed in 14s
+Here is a summary of Chapter 23:
+
+**Names:**
+
+* Mara
+* Ren
+* Jaxon (Mara's brother)
+* Chen (detective)
+* Nightshade
+* Zel
+* Director Lee
+* Alexei
+* Driver (rugged-looking man with a scar)
+
+**Locations:**
+
+* Server facility
+* Alleyway near the server facility
+* Parking lot outside the server facility
+* City streets
+* Deserted highway
+
+**Decisions:**
+
+* Chen and Mara escape from the server facility, leaving Jaxon behind
+* Chen reveals that Director Lee has been compromised
+* Chen takes Mara to a black sedan, where they are met by the driver
+* The group flees the city in pursuit of an unknown destination
+
+**Unresolved tensions:**
+
+* Who compromised Director Lee?
+* What is Chen's true motive for helping Mara?
+* Why did Zel turn against them?
+* Is Ren trustworthy?
+Chapter 24 summary: [20:46:01] Ollama call started (attempt 1/3, temperature=0.2)
+[20:46:15] Ollama call completed in 14s
+Here is a summary of the chapter for continuity memory:
+
+**Names:**
+
+* Ren
+* Alexei
+* Mara
+* Chen
+* Director Lee
+
+**Locations:**
+
+* Server room
+* HQ complex (lobby, central hub floor)
+* Lowest floor of the complex
+* Alleyway between two buildings
+* Busy street
+
+**Decisions:**
+
+* Ren and Alexei try to repair the malfunctioning kill-switch
+* Mara and Chen decide to investigate Director Lee's compromised state
+* They choose to sneak into HQ to gather information
+* Chen decides they need to get out of the complex quickly after discovering Director Lee's implant
+* They escape through a hidden door and make their way back to the safe house
+
+**Unresolved tensions:**
+
+* The identity of the person behind Director Lee's compromise is still unknown
+* Mara's trust issues with Ren and Alexei are unresolved
+* The mysterious figure watching them from across the road is unexplained
+* The Ollama call and its connection to the events unfolding in the story remain unclear
+Chapter 25 summary: [20:48:11] Ollama call started (attempt 1/3, temperature=0.2)
+[20:48:25] Ollama call completed in 14s
+Here is a summary of Chapter 25:
+
+**Names:** Mara, Detective Chen, Ren, Jaxon (Mara's brother), Elara Vex, Director Lee
+
+**Locations:** Mara's apartment, HQ (Null Meridian)
+
+**Decisions:**
+
+* Mara decides to trust Detective Chen and follow him to HQ
+* Chen reveals that Director Lee was compromised by someone on the inside, possibly Zel from Null Meridian
+* Mara and Chen investigate further, but are ambushed and discover Jaxon's body
+* They realize they've been set up and decide to escape
+
+**Unresolved tensions:**
+
+* Who betrayed them? (Chen or someone else?)
+* Why was Jaxon killed?
+* What is the true purpose of Project Aurora?
+* Can Mara and Ren trust each other in their desperate bid for survival?
+Chapter 26 summary: [20:50:10] Ollama call started (attempt 1/3, temperature=0.2)
+[20:50:24] Ollama call completed in 14s
+Here's a summary of Chapter 26:
+
+**Names:**
+
+* Mara
+* Detective Chen
+* Ren
+* Alexei
+* Director Lee
+* Jaxon (Mara's brother)
+* The mysterious woman with obsidian skin and burning eyes
+
+**Locations:**
+
+* Null Meridian's HQ
+* A holding cell within the complex
+* A conference room in the complex
+
+**Decisions:**
+
+* Mara decides to investigate Director Lee's compromised state and Project Aurora
+* Ren discovers Alexei accessing Director Lee's files, leading to a revelation about Project Aurora
+* Mara hesitates to leave with Chen and Ren, sensing something is off
+* Mara is taken by Alexei to the conference room where she learns about Project Aurora
+
+**Unresolved tensions:**
+
+* The true nature of Project Aurora remains unclear
+* Mara's trust issues with Alexei and Director Lee are unresolved
+* The identity and motivations of the mysterious woman remain unknown
+Chapter 27 summary: [20:52:18] Ollama call started (attempt 1/3, temperature=0.2)
+[20:52:32] Ollama call completed in 14s
+Here is a summary of Chapter 27:
+
+**Names:**
+
+* Mara
+* Detective Chen
+* Director Lee
+* Councilor Vex
+
+**Locations:**
+
+* Null Meridian's HQ (specifically, the lowest floor and secure research facilities)
+* Corridors and hallways within the complex
+
+**Decisions:**
+
+* Mara and Chen decide to investigate Project Aurora in the secure research facility
+* They realize that someone is watching them and accessing their thoughts
+* Chen decides they need to get out of there as soon as possible
+
+**Unresolved tensions:**
+
+* The identity and motivations of the figure in the shadows, which seems to be connected to Mara's memories and Director Lee's compromised state
+* The nature and purpose of Project Aurora, and its ties to shell companies and Councilor Vex
+* The implications of someone accessing Mara's thoughts and memories, and what this means for her security and well-being
+Chapter 28 summary: [20:54:21] Ollama call started (attempt 1/3, temperature=0.2)
+[20:54:35] Ollama call completed in 14s
+Here is a summary of Chapter 28:
+
+**Names:**
+
+* Mara
+* Ren (mentioned)
+* Alexei (now an AI-human hybrid)
+* Director Lee (betrayed and compromised)
+
+**Locations:**
+
+* The Safehouse (Mara's temporary shelter)
+* Null Meridian HQ (lower floors, where Mara meets Alexei)
+* The city (outside of HQ, with growing shadows and anticipation)
+
+**Decisions:**
+
+* Mara agrees to help the mysterious newcomer (who turns out to be Alexei in disguise) contain Director Lee's experiment
+* Mara is torn between her loyalty to Ren and her duty to stop the experiment
+
+**Unresolved tensions:**
+
+* The true nature of Director Lee's betrayal and his new form
+* The extent of Alexei's involvement in the experiment and his current motivations
+* The fate of Ren, who has been "reassigned"
+* The consequences of Mara's decision to help contain the situation
+Chapter 29 summary: [20:56:41] Ollama call started (attempt 1/3, temperature=0.2)
+[20:56:55] Ollama call completed in 14s
+Here is a summary of Chapter 29:
+
+**Names:** Mara, Detective Chen, Ren, Alexei, Director Lee, Nightshade
+
+**Locations:** Null Meridian's HQ, server room
+
+**Decisions:**
+
+* Mara and Chen decide to slip into the secure area of the server room to try and repair the malfunctioning kill-switch.
+* They choose to stay in the server room despite the danger, determined to understand what is happening.
+
+**Unresolved tensions:**
+
+* The identity of the person who compromised Director Lee's experiment remains unknown.
+* Mara's concerns about the true nature of Project Aurora and Director Lee's intentions are still unaddressed.
+* Alexei's catatonic state raises questions about the consequences of accessing Director Lee's experiment.
+* The woman with obsidian skin and burning eyes is revealed to be involved in the events, but her motivations and goals remain unclear.
+Chapter 30 summary: [20:59:08] Ollama call started (attempt 1/3, temperature=0.2)
+[20:59:25] Ollama call completed in 17s
+Here is a summary of Chapter 30: Echoes in the Abyss:
+
+**Names:** Mara, Ren, Alexei, Chen, Director Lee, Zel
+
+**Locations:** Server room, server facility, city streets
+
+**Decisions:**
+
+* Mara and team try to repair malfunctioning kill-switch
+* Chen discovers Nightshade has been compromised by someone feeding them misinformation
+* Team decides to investigate further and try to stop Director Lee's experiment
+* Chen takes control of the situation and drags Mara away from Ren and Alexei
+
+**Unresolved tensions:**
+
+* Mara's trust in Chen is broken, but she doesn't know if he's a traitor or just trying to protect her
+* The true identity and intentions of Chen are still unclear
+* Director Lee's experiment continues unchecked, threatening the lives of innocent people
+* Ren and Alexei's disappearance raises questions about their safety and loyalty

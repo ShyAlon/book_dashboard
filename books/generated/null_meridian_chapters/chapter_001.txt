@@ -1,0 +1,36 @@
+[19:59:18] Ollama call started (attempt 1/3, temperature=0.8)
+[19:59:39] Ollama call still running... elapsed=21s (attempt 1/3)
+[19:59:41] Ollama call completed in 23s
+Chapter 1: The Shadow in the Grid
+
+The generators hummed to a stop, plunging the dimly lit transfer room into darkness. Mara felt the sudden loss of light like a punch to the gut. She stood frozen, her eyes straining to pierce the blackness.
+
+"Report!" she barked into her comms device, but only static replied.
+
+The backup generators kicked in with a soft whine, casting flickering shadows on the walls. Mara's gaze snapped towards the data terminals, where three screens displayed the transfer progress: cargo manifest, encryption keys, and tracking protocols. The screens remained eerily blank, their usual streams of code and numbers replaced by an unblinking error message:
+
+ACCESS DENIED.
+
+Mara's training kicked in, her mind racing with worst-case scenarios. She sprinted towards the control room, her footsteps echoing off the walls. Her comms device crackled to life as she entered the room, a voice barely above a whisper urging her to abort the transfer.
+
+"Mara, it's Zel. We've got a problem. The encryption keys are compromised. Our guy in IT is running diagnostics, but—"
+
+Mara cut him off, her eyes locked on the screens. "Get me the access signature."
+
+"Negative, Mara. It's... it doesn't make sense," Zel hesitated. "The timestamp is hours ago, but the activity is fresh. Like someone jumped into our system from a parallel universe or something."
+
+Mara's gut twisted with unease. An impossible access signature? That was what the experts called it when hackers managed to infiltrate even the most secure networks without leaving a digital footprint.
+
+She spun towards Zel, her voice low and urgent. "Get me that signature now. I need to see where this trail leads."
+
+Zel's pause stretched out, his words barely audible over the static. "Okay... okay, Mara. It looks like... it looks like they came in through the research server at UC Davis. But here's the thing: the timestamp is yesterday morning. And there are no records of anyone accessing our system from that location."
+
+Mara felt a shiver run down her spine as she stared at the screens. The error message still glared back at her, taunting her with its blankness.
+
+The research server at UC Davis? Yesterday morning?
+
+This wasn't just an impossible access signature – it was a ghost in the machine.
+
+And Mara knew that ghosts didn't exist in the world of cyber-intelligence.
+
+Or did they?

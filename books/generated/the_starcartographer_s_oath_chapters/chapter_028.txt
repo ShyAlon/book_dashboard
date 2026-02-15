@@ -1,0 +1,86 @@
+Chapter 28: Untitled
+
+[22:48:57] Ollama call started (attempt 1/3, temperature=0.75)
+[22:49:18] Ollama call still running... elapsed=21s (attempt 1/3)
+[22:49:34] Ollama call completed in 37s
+Chapter 28: The Cartographer's Lament
+
+The air was heavy with the scent of sandalwood and myrrh as Ilya navigated the narrow corridors of the Celestial Cartographers' Guild, her footsteps echoing off the polished stone floors. She had always felt a sense of reverence in this place, where ancient maps and celestial charts adorned the walls, whispering secrets to those who dared to listen.
+
+Behind her, Lyraea's pace was deliberate, her eyes scanning the rows of shelves as if searching for something specific. The weight of their quest hung between them like a physical force, drawing out the air from Ilya's lungs with each step.
+
+They had come seeking answers about the relic, but the Guildmaster, an elderly cartographer named Aethera, greeted them with a mixture of concern and curiosity. Her eyes, red-rimmed from lack of sleep, seemed to hold a thousand unspoken questions as she listened to Ilya's tale.
+
+"Ah, child," Aethera said, her voice barely above a whisper, "you've stumbled into a web of fate that spans centuries. The relic you speak of... it's a fragment of the celestial map itself. Its power is both magnificent and terrifying."
+
+Lyraea leaned forward, her eyes burning with an intensity Ilya couldn't quite read. "What do you mean? What kind of power?"
+
+Aethera hesitated, as if weighing the cost of knowledge against the potential damage it could cause. "The relic holds the key to rewriting the very fabric of our world. It's said that whoever possesses it can reshape reality itself."
+
+Ilya felt a shiver run down her spine as she grasped the implications. The Ollama calls, Lyraea's obsession, Kaelin's anxiety – all seemed to be connected to this relic in ways they couldn't yet comprehend.
+
+The Guildmaster leaned back in her chair, steepling her fingers together as if collecting her thoughts. "We've had... visions, of a great calamity impending. A convergence of celestial forces that will reshape the balance of our world. I fear it's tied to this relic and your quest."
+
+Ilya exchanged a troubled glance with Lyraea, who seemed undeterred by the warning. But as they left the Guild, the weight of their task felt more oppressive than ever.
+
+The night air was alive with whispers, the city's ancient magic stirring like a restless beast. Ilya couldn't shake the feeling that they were running out of time – and that Lyraea's grip on reality was beginning to slip.
+
+As they walked through the narrow streets, avoiding the curious glances of passersby, Ilya spotted Kaelin standing at the edge of the Plaza, his eyes fixed intently on some point in the distance. His expression was a mix of alarm and desperation, and for a moment, their gazes met across the crowded space.
+
+Ilya felt a jolt of concern as she quickened her pace to reach him, but Lyraea's grip on her arm held fast. "We can't trust anyone," Lyraea whispered urgently. "Not even ourselves."
+
+The words hung between them like a challenge, and Ilya's heart sank with the realization that their relationship – once built on trust and camaraderie – was now forged in the fire of doubt and suspicion.
+
+As they approached Kaelin, he beckoned them closer, his voice barely audible over the whispers of the city. "I've received a message," he said, his eyes scanning the rooftops as if searching for unseen observers. "From someone within the City Watch. They claim to have information about Erebus' journal... and your connection to it."
+
+Ilya's instincts screamed warning, but Lyraea's grip on her arm tightened, holding her in place. For a moment, their eyes locked, and Ilya saw a glimmer of something almost like hatred shining within the depths of Lyraea's gaze.
+
+Then, without another word, Kaelin took off into the night, leaving Ilya and Lyraea to navigate the treacherous landscape ahead – alone, and increasingly uncertain about who they could trust.
+
+[22:49:34] Ollama call started (attempt 1/3, temperature=0.7)
+[22:49:54] Ollama call still running... elapsed=20s (attempt 1/3)
+[22:50:14] Ollama call still running... elapsed=40s (attempt 1/3)
+[22:50:14] Ollama call completed in 40s
+Ilya's feet pounded the cobblestones as she chased after Kaelin, her heart racing with a mix of concern and unease. The city seemed to be growing darker by the minute, its whispers coalescing into a cacophony of fear and uncertainty. She quickened her pace, weaving through the crowded streets as Lyraea's grip on her arm remained firm, holding her back.
+
+"What is it, Kaelin?" Ilya called out, trying to keep him in sight amidst the throngs of people. "What kind of information?"
+
+Kaelin didn't respond, his strides long and purposeful as he vanished into the night. Ilya hesitated for a moment, torn between following him and staying with Lyraea, who seemed intent on keeping her back.
+
+"Come on," Lyraea said, tugging at Ilya's arm. "We can't lose him now. Not when we're so close."
+
+Ilya gritted her teeth, allowing herself to be pulled through the crowded streets as Lyraea expertly navigated them towards Kaelin's disappearing form. They finally caught up with him in a deserted alleyway, its walls looming above them like sentinels.
+
+"What did you learn?" Ilya demanded, her eyes narrowing at Kaelin's furtive expression. "Who is it within the City Watch that's willing to help us?"
+
+Kaelin glanced around nervously, his eyes darting between Lyraea and Ilya before settling on some invisible point in the distance. "I... I don't know if I should be saying this," he began, his voice barely above a whisper.
+
+"Tell us," Lyraea urged, her hand tightening on Ilya's arm as she leaned forward.
+
+Kaelin took a deep breath, his words tumbling out in a rush. "It was Vexar, one of the Nightwatchers. He claims to have information about Erebus' journal and our connection to it. But there's something else... something that might change everything."
+
+Ilya's curiosity spiked, but before she could press Kaelin for more details, Lyraea spoke up, her voice dripping with an unnerving intensity.
+
+"What is it?" Lyraea asked, her eyes glinting in the dim light of the alleyway. "Tell us, Kaelin."
+
+Kaelin's expression faltered, and Ilya sensed a moment of hesitation before he continued. "Vexar says... he says you're not who you think you are, Lyraea. That your memories are false, implanted to conceal something much darker."
+
+Ilya felt a jolt run through her like a spark of electricity as Lyraea's grip on her arm tightened into a vice-like grasp.
+
+"That's impossible," Lyraea spat, her face twisted in anger and hurt. "I remember everything. I know who I am."
+
+Kaelin took a step back, his eyes wide with fear. "That's exactly what Vexar said – that you do. But he claims there's more to the story... something about your true identity, and how it might be connected to the relic."
+
+The air in the alleyway seemed to vibrate with tension as Ilya felt Lyraea's emotions shift from anger to something almost like despair. For a moment, she saw a glimmer of the person Lyraea had been before – the one who'd laughed and joked and shared stories around campfires.
+
+But that person was gone now, replaced by someone cold and calculating. And as Ilya watched in horror, Lyraea's grip on her arm tightened into a deadly hold.
+
+"I think it's time we took a closer look at our memories," Lyraea said, her voice dripping with menace. "Don't you agree, Ilya?"
+
+Ilya felt a shiver run down her spine as she realized the truth – that Lyraea was no longer the person she thought she knew. The question now was: what had happened to the real Lyraea? And how far would this new, sinister version of herself go to keep their secrets buried?
+
+"We have to get out of here," Ilya whispered urgently, trying to break free from Lyraea's grasp.
+
+Lyraea's grip only tightened. "Oh, we're just getting started," she said with a cold smile, her eyes glinting in the darkness like stars on a moonless night.
+
+And as they vanished into the city's labyrinthine streets, Ilya couldn't shake the feeling that their quest had just become far more sinister – and personal – than they could have ever imagined.

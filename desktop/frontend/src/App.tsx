@@ -5,7 +5,7 @@ import { EventsOn } from "../wailsjs/runtime/runtime";
 import { AnalysisForms } from "./components/AnalysisForms";
 import { HeaderMetrics } from "./components/HeaderMetrics";
 import { LiveConsole } from "./components/LiveConsole";
-import { HealthTab } from "./tabs/HealthTab";
+import { AITab } from "./tabs/AITab";
 import { LanguageTab } from "./tabs/LanguageTab";
 import { MarketTab } from "./tabs/MarketTab";
 import { StructureTab } from "./tabs/StructureTab";
@@ -24,9 +24,30 @@ function normalizeDashboard(input: unknown): DashboardData {
   const next = (input ?? {}) as Partial<DashboardData>;
   const system = (next.system ?? {}) as Partial<DashboardData["system"]>;
   const runStats = (next.runStats ?? {}) as Partial<DashboardData["runStats"]>;
+  const slopReport = (next.slopReport ?? {}) as Partial<DashboardData["slopReport"]>;
+  const aiReport = (next.aiReport ?? {}) as Partial<DashboardData["aiReport"]>;
+  const language = (next.language ?? {}) as Partial<DashboardData["language"]>;
   return {
     ...emptyData,
     ...next,
+    aiReport: {
+      ...emptyData.aiReport,
+      ...aiReport,
+      flags: Array.isArray(aiReport.flags) ? aiReport.flags : [],
+      errors: Array.isArray(aiReport.errors) ? aiReport.errors : [],
+      traces: Array.isArray(aiReport.traces) ? aiReport.traces : [],
+      windows: Array.isArray(aiReport.windows) ? aiReport.windows : [],
+    },
+    slopReport: {
+      ...emptyData.slopReport,
+      ...slopReport,
+      Flags: Array.isArray(slopReport.Flags) ? slopReport.Flags : [],
+    },
+    language: {
+      ...emptyData.language,
+      ...language,
+      notes: Array.isArray(language.notes) ? language.notes : [],
+    },
     system: {
       ...emptyData.system,
       ...system,
@@ -79,10 +100,10 @@ function formatClock(totalSeconds: number): string {
 }
 
 function App() {
-  const overallStartedAtRef = useRef<number>(Date.now());
+  const analysisStartedAtRef = useRef<number>(0);
   const phaseStartedAtRef = useRef<number>(Date.now());
   const startupConsoleRef = useRef<HTMLDivElement>(null);
-  const [tab, setTab] = useState<TabName>("health");
+  const [tab, setTab] = useState<TabName>("ai");
   const [data, setData] = useState<DashboardData>(emptyData);
   const [initComplete, setInitComplete] = useState(false);
   const [startupLogs, setStartupLogs] = useState<LogLine[]>([
@@ -103,7 +124,6 @@ function App() {
   const [liveProgressLogs, setLiveProgressLogs] = useState<LogLine[]>([]);
   const [chapterSubtasks, setChapterSubtasks] = useState<string[]>([]);
   const [progress, setProgress] = useState({ percent: 0, stage: "IDLE", detail: "" });
-  const [selectedIssue, setSelectedIssue] = useState<number>(-1);
   const [phaseElapsedSeconds, setPhaseElapsedSeconds] = useState(0);
   const [overallElapsedSeconds, setOverallElapsedSeconds] = useState(0);
   const [installingDeps, setInstallingDeps] = useState(false);
@@ -112,7 +132,11 @@ function App() {
   useEffect(() => {
     const id = window.setInterval(() => {
       setPhaseElapsedSeconds(Math.floor((Date.now() - phaseStartedAtRef.current) / 1000));
-      setOverallElapsedSeconds(Math.floor((Date.now() - overallStartedAtRef.current) / 1000));
+      if (analysisStartedAtRef.current > 0) {
+        setOverallElapsedSeconds(Math.floor((Date.now() - analysisStartedAtRef.current) / 1000));
+      } else {
+        setOverallElapsedSeconds(0);
+      }
     }, 1000);
     return () => {
       window.clearInterval(id);
@@ -254,6 +278,11 @@ function App() {
 
   const onAnalyzeExcerpt = async (e: FormEvent) => {
     e.preventDefault();
+    const now = Date.now();
+    analysisStartedAtRef.current = now;
+    phaseStartedAtRef.current = now;
+    setOverallElapsedSeconds(0);
+    setPhaseElapsedSeconds(0);
     setLiveProgressLogs([]);
     setChapterSubtasks([]);
     setProgress({ percent: 0, stage: "ANALYSIS", detail: "Starting excerpt analysis..." });
@@ -261,7 +290,6 @@ function App() {
     try {
       const next = await AnalyzeExcerpt(excerpt);
       setData(next as unknown as DashboardData);
-      setSelectedIssue(-1);
     } finally {
       setLoading(false);
     }
@@ -269,6 +297,11 @@ function App() {
 
   const onAnalyzeFile = async (e: FormEvent) => {
     e.preventDefault();
+    const now = Date.now();
+    analysisStartedAtRef.current = now;
+    phaseStartedAtRef.current = now;
+    setOverallElapsedSeconds(0);
+    setPhaseElapsedSeconds(0);
     setLiveProgressLogs([]);
     setChapterSubtasks([]);
     setProgress({ percent: 0, stage: "ANALYSIS", detail: "Starting file analysis..." });
@@ -276,13 +309,17 @@ function App() {
     try {
       const next = await AnalyzeFile(filePath);
       setData(next as unknown as DashboardData);
-      setSelectedIssue(-1);
     } finally {
       setLoading(false);
     }
   };
 
   const onPickAndAnalyze = async () => {
+    const now = Date.now();
+    analysisStartedAtRef.current = now;
+    phaseStartedAtRef.current = now;
+    setOverallElapsedSeconds(0);
+    setPhaseElapsedSeconds(0);
     setLiveProgressLogs([]);
     setChapterSubtasks([]);
     setProgress({ percent: 0, stage: "ANALYSIS", detail: "Opening file picker..." });
@@ -290,7 +327,6 @@ function App() {
     try {
       const next = await PickAndAnalyzeFile();
       setData(next as unknown as DashboardData);
-      setSelectedIssue(-1);
     } finally {
       setLoading(false);
     }
@@ -322,9 +358,12 @@ function App() {
   }, [loading, progress.detail, progress.stage, data.runStats.lastAction]);
 
   useEffect(() => {
+    if (initComplete && !loading) {
+      return;
+    }
     phaseStartedAtRef.current = Date.now();
     setPhaseElapsedSeconds(0);
-  }, [centerPhase]);
+  }, [centerSubphase, initComplete, loading]);
 
   const missingStatuses = useMemo(() => {
     return [data.system.ollama, data.system.languageTool].filter((s) => s.missing);
@@ -433,14 +472,14 @@ function App() {
           ) : null}
 
           <nav className="tabs">
-            <button className={tab === "health" ? "active" : ""} onClick={() => setTab("health")}>Health</button>
+            <button className={tab === "ai" ? "active" : ""} onClick={() => setTab("ai")}>AI Detection</button>
             <button className={tab === "structure" ? "active" : ""} onClick={() => setTab("structure")}>Structure</button>
             <button className={tab === "market" ? "active" : ""} onClick={() => setTab("market")}>Market</button>
             <button className={tab === "language" ? "active" : ""} onClick={() => setTab("language")}>Language</button>
             <button className={tab === "dictionary" ? "active" : ""} onClick={() => setTab("dictionary")}>Dictionary</button>
           </nav>
 
-          {tab === "health" && <HealthTab data={data} selectedIssue={selectedIssue} setSelectedIssue={setSelectedIssue} />}
+          {tab === "ai" && <AITab data={data} />}
           {tab === "structure" && <StructureTab data={data} />}
           {tab === "market" && <MarketTab data={data} />}
           {tab === "language" && <LanguageTab data={data} />}

@@ -1,0 +1,88 @@
+Chapter 3: Untitled
+
+[21:59:13] Ollama call started (attempt 1/3, temperature=0.75)
+[21:59:33] Ollama call still running... elapsed=20s (attempt 1/3)
+[21:59:50] Ollama call completed in 37s
+The Starcartographer's Oath
+
+Chapter 3: Cartographers and Fools
+
+The city of Cygnus sprawled before Ilya like an unfurled tapestry, its alleys and canals weaving a maze that seemed to shift with every step. She had been walking for what felt like hours, her feet carrying her on autopilot as she struggled to make sense of the events of the past few days. Lyraea's enigmatic smile still lingered in her mind, but the mysterious stranger was nowhere to be found.
+
+As she turned a corner into a narrow street, Ilya spotted a pair of familiar figures huddled in deep conversation near a tavern. Rowan and Tamsin, the eccentric cartographers who had taken her under their wing, were discussing something with animated gestures. Their words trailed off as they caught sight of her approaching.
+
+"Ah, Ilya! We've been looking for you," Rowan said, beckoning her over. His bushy beard was flecked with dust from their latest expedition, and a smudge on his cheekbone hinted at a recent bout of mapping. Tamsin, ever the perfectionist, adjusted her gloves as if preparing to tackle a particularly tricky task.
+
+Ilya hesitated for a moment before joining them. She had more questions about Lyraea and the celestial map than she could possibly answer. But something in Rowan's eyes told her that these cartographers held a secret – one that might just lead her closer to unraveling the mystery of the Hollow Crown.
+
+"What is it?" Ilya asked, dropping into the seat beside them as if they were an old trio of friends sharing tales by the fire.
+
+"We've heard rumors," Tamsin began, her voice barely above a whisper. "About a relic... said to have the power to remake our world."
+
+Ilya's mind reeled at the thought. Remake their world? It sounded like something from an ancient myth, but she knew that in the world of cartography, legends often held hidden truths.
+
+"What makes you think this relic is real?" Rowan asked, his eyes narrowing as he scrutinized Ilya's reaction.
+
+Tamsin leaned forward, her expression intense. "We've spoken to a few... characters who claim to have seen it. A First Compass, they call it – an artifact with the power to reshape reality itself."
+
+Ilya felt a shiver run down her spine. The Ollama calls still lingered in her mind like a whispered promise, their purpose unclear but their presence undeniable.
+
+"You think this relic is connected to the celestial map?" she asked, her words spilling out in a rush of excitement.
+
+Tamsin nodded, her eyes shining with a mixture of trepidation and curiosity. "If it's real... we might be the only ones who can find it."
+
+Rowan's expression turned grim. "And we'll need all our skills to survive what's coming. The city is full of whispers about the relic – but also about those seeking to claim it for themselves."
+
+Ilya felt a surge of determination course through her veins. She had always been drawn to the cartographer's art, pouring over maps and charts with a sense of wonder that bordered on reverence. But now, as she faced this new challenge alongside her friends, she realized that their quest was about more than just charting unknown lands.
+
+"We'll need to move quickly," Rowan said, standing up as if the decision had been made. "We have maps to study and a compass to find – before those who seek to misuse its power catch up with us."
+
+As they set off into the city's winding streets, Ilya felt Lyraea's enigmatic smile lingering in her mind like a ghostly presence. She knew that she was being drawn into a world of ancient secrets and hidden truths – but was she ready for what lay ahead?
+
+The trio turned a corner, their footsteps echoing through the night as they vanished into the shadows. But Ilya noticed something else lurking just out of sight: a figure watching from the rooftops above, eyes fixed intently on her.
+
+And in that moment, Ilya felt a shiver run down her spine – for she knew that she was not alone in this quest, and that the true cartographer's oath was about to be tested in ways she could hardly imagine.
+
+[21:59:50] Ollama call started (attempt 1/3, temperature=0.7)
+[22:00:10] Ollama call still running... elapsed=20s (attempt 1/3)
+[22:00:30] Ollama call still running... elapsed=40s (attempt 1/3)
+[22:00:32] Ollama call completed in 42s
+The figure on the rooftop remained motionless, its gaze locked onto Ilya as if weighing the worth of its secret. For a moment, it seemed as though time itself had frozen, the only sound being the distant hum of Ollama calls echoing through the night air.
+
+Ilya's instincts kicked in, and she felt an urge to glance over her shoulder, but Rowan's hand on her arm held her back. "Don't look," he whispered, his voice low and urgent. "We can't afford to draw attention now."
+
+Tamsin nodded in agreement, her eyes scanning the rooftops with a practiced air of caution. "There's one out there, all right. We need to move – quietly."
+
+The trio fell into step, their footsteps light as they navigated the narrow alleys and streets. Ilya felt a thrill of excitement mixed with trepidation as she realized that they were being watched by an unseen presence.
+
+As they walked, Rowan briefed her on their plan. "We need to get back to our workshop, study the maps we've gathered so far, and see if there are any connections between them. If this relic exists, it'll likely be hidden in a location that's not easily accessible – at least, not without some insider knowledge."
+
+Ilya nodded, her mind racing with possibilities. She had always known that cartography was an art of discovery, but now she saw the world through different eyes. The stakes were higher than ever before, and the line between truth and myth grew increasingly blurred.
+
+Their workshop lay in a secluded part of town, nestled between two rows of ancient buildings that seemed to lean inward as if sharing secrets. As they approached, Ilya noticed a faint glow emanating from within – a soft blue light that cast an otherworldly ambiance over the streets.
+
+"Welcome home," Rowan said with a smile, pushing open the door to reveal a space filled with maps, charts, and half-finished projects in various stages of completion. The air was thick with the scent of ink, parchment, and a hint of something else – something that smelled like ozone on a stormy night.
+
+Tamsin led Ilya to a large table near the window, where a sprawling map of Cygnus stretched across its surface. "This is our starting point," Tamsin explained, her voice filled with excitement. "We've been analyzing the Ollama calls, trying to pinpoint their source and see if there's any connection between them."
+
+Ilya felt a shiver run down her spine as she gazed upon the map. The Ollama calls seemed to have created a web of energy across the city, pulsating with an otherworldly power that drew her in like a moth to flame.
+
+As they began their study, Ilya noticed something peculiar – a faint symbol etched into the corner of the map, seemingly unrelated to any known cartographic notation. It looked like a cross between a hieroglyph and a mathematical equation, its meaning shrouded in mystery.
+
+"What's this?" she asked, pointing to the symbol with her finger.
+
+Rowan's eyes narrowed as he examined it more closely. "I've never seen anything like that before," he admitted. "But I think it might be connected to our search... perhaps even a clue left by those who came before us."
+
+Tamsin leaned in, her voice barely above a whisper. "If this symbol is indeed related to the relic, we may have found something more than just a cartographer's quirk. This could be the key to unlocking the secrets of the Hollow Crown – and our place within it."
+
+Ilya felt her heart skip a beat as she stared at the symbol, her mind racing with possibilities. She knew that they were walking on thin ice now, navigating treacherous waters where myth and reality blurred.
+
+And then, without warning, the lights in the workshop flickered and died, plunging them into darkness. The silence was oppressive, punctuated only by the sound of Ilya's own ragged breathing.
+
+"What's happening?" she whispered, her voice trembling with a mix of fear and anticipation.
+
+Rowan's response was barely audible over the creaks and groans of the workshop settling back into place. "I don't know... but I think we've got unwanted visitors."
+
+As they waited in the darkness, Ilya felt the weight of their quest settle onto her shoulders – a burden that seemed to grow heavier with each passing moment.
+
+And then, without warning, the lights flickered back to life, illuminating a figure standing just beyond the edge of the workshop. Its presence filled the room like an unspoken promise, its eyes fixed intently upon Ilya as if waiting for her response...

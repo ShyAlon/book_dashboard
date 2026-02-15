@@ -529,6 +529,10 @@
   color: var(--risk);
 }
 
+.text-good {
+  color: var(--healthy);
+}
+
 .text-warn {
   color: #f59e0b;
 }

@@ -72,6 +72,43 @@ func TestAnalyzeBooksPDF_ChapterizationOnly(t *testing.T) {
 	)
 }
 
+func TestAnalyzeBooksDOCX_AISlopDetection(t *testing.T) {
+	home := t.TempDir()
+	t.Setenv("HOME", home)
+
+	booksDir := filepath.Join("..", "books")
+	docxPath := filepath.Join(booksDir, "THE IDUN PROTOCOL (AI Slop).docx")
+	if _, err := os.Stat(docxPath); err != nil {
+		t.Fatalf("required fixture missing: %s (%v)", docxPath, err)
+	}
+
+	app := NewApp()
+	data := app.AnalyzeFile(docxPath)
+	if data.AIReport.PAIDoc == nil || data.AIReport.AICoverageEst == nil || data.AIReport.PAIMax == nil {
+		t.Fatalf("expected ai report probabilities for %s, got %+v", docxPath, data.AIReport)
+	}
+	if *data.AIReport.PAIDoc < 0.65 {
+		t.Fatalf("expected high document AI probability for %s, got %.3f", docxPath, *data.AIReport.PAIDoc)
+	}
+	if *data.AIReport.PAIMax < 0.85 {
+		t.Fatalf(
+			"expected high max window AI signal for %s, got p_ai_max=%.3f",
+			docxPath,
+			*data.AIReport.PAIMax,
+		)
+	}
+	if *data.AIReport.AICoverageEst < 0.10 {
+		t.Fatalf("expected non-trivial AI coverage for %s, got %.3f", docxPath, *data.AIReport.AICoverageEst)
+	}
+	if data.MHDScore >= 80 {
+		t.Fatalf("expected AI-likelihood score penalty for %s, got MHD score %d", docxPath, data.MHDScore)
+	}
+	flagText := strings.ToLower(strings.Join(data.AIReport.Flags, " | "))
+	if !strings.Contains(flagText, "ai_chunk_detected") && !strings.Contains(flagText, "possible_stitching") {
+		t.Fatalf("expected AI duplication/stitching flags for %s, got %v", docxPath, data.AIReport.Flags)
+	}
+}
+
 var chapterHeadingPattern = regexp.MustCompile(`(?im)^\s*(chapter|ch\.?)\s+([0-9ivxlcdm]+)\b`)
 
 func estimateChapterHeadings(text string) int {
@@ -203,6 +240,16 @@ func assertRichReportJSON(t *testing.T, reportPath string) {
 	}
 	if beats, ok := analysis["beats"].([]any); !ok || len(beats) == 0 {
 		t.Fatalf("analysis missing beats")
+	}
+	if aiReport, ok := analysis["ai_report"].(map[string]any); !ok {
+		t.Fatalf("analysis missing ai_report")
+	} else {
+		if _, ok := aiReport["p_ai_doc"]; !ok {
+			t.Fatalf("analysis.ai_report missing p_ai_doc")
+		}
+		if windows, ok := aiReport["windows"].([]any); !ok || len(windows) == 0 {
+			t.Fatalf("analysis.ai_report missing windows")
+		}
 	}
 
 	if chapterSummaries, ok := analysis["chapter_summaries"].([]any); !ok || len(chapterSummaries) == 0 {

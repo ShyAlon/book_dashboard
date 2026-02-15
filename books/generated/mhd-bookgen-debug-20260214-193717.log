@@ -1,0 +1,13 @@
+[19:37:17] startup endpoint=http://127.0.0.1:11434 model=llama3.1:8b output_dir=books/generated min_words=40000 target_chapter_words=1800 max_chapters=32
+[19:37:17] ollama call start attempt=1 temp=0.75 prompt_chars=608
+[19:37:50] ollama call failed attempt=1 elapsed=33s stderr=Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'true' is not defined. Did you mean: 'True'? stdout_snippet=
+[19:37:52] ollama call start attempt=2 temp=0.75 prompt_chars=608
+[19:38:16] ollama call failed attempt=2 elapsed=24s stderr=Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'true' is not defined. Did you mean: 'True'? stdout_snippet=
+[19:38:20] ollama call start attempt=3 temp=0.75 prompt_chars=608
+[19:38:48] ollama call failed attempt=3 elapsed=28s stderr=Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'true' is not defined. Did you mean: 'True'? stdout_snippet=

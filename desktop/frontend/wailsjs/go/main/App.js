@@ -10,6 +10,10 @@ export function AnalyzeFile(arg1) {
   return window['go']['main']['App']['AnalyzeFile'](arg1);
 }
 
+export function ExportLogPackageDialog() {
+  return window['go']['main']['App']['ExportLogPackageDialog']();
+}
+
 export function ExtractTimelineMarkers(arg1) {
   return window['go']['main']['App']['ExtractTimelineMarkers'](arg1);
 }
@@ -28,4 +32,12 @@ export function InstallMissingDependencies() {
 
 export function PickAndAnalyzeFile() {
   return window['go']['main']['App']['PickAndAnalyzeFile']();
+}
+
+export function Quit() {
+  return window['go']['main']['App']['Quit']();
+}
+
+export function ReportClientError(arg1, arg2, arg3) {
+  return window['go']['main']['App']['ReportClientError'](arg1, arg2, arg3);
 }

@@ -40,10 +40,9 @@ export function HealthTab({ data, selectedIssue, setSelectedIssue }: Props) {
         ) : (
           <p>Select a contradiction from the list to inspect details.</p>
         )}
-        <h2>AI Slop Score</h2>
-        <p>Sentence SD: {data.slopReport.SentenceLengthSD.toFixed(2)}</p>
-        <p>Bad Word Density: {(data.slopReport.BadWordDensity * 100).toFixed(2)}%</p>
-        <p>Low Originality: {data.slopReport.LowOriginality ? "Yes" : "No"}</p>
+        <h2>Summary</h2>
+        <p>Health focuses on contradiction and consistency checks.</p>
+        <p>Use the <strong>AI Detection</strong> tab for AI-likelihood signals and flags.</p>
       </article>
     </section>
   );

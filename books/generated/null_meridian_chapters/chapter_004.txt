@@ -1,0 +1,73 @@
+Chapter 4: Untitled
+
+[20:04:40] Ollama call started (attempt 1/3, temperature=0.75)
+[20:05:00] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:05:12] Ollama call completed in 32s
+Chapter 4: Null Meridian
+
+Mara's eyes scanned the lines of code streaming across her laptop screen, her mind racing to keep pace. She had been staring at this particular sequence for what felt like hours, trying to make sense of it. The partially decrypted data revealed a private network, but it was encrypted in a way that defied all her experience.
+
+She rubbed her eyes, feeling the fatigue creeping up on her. It had been days since she'd slept properly, and the coffee shop's aroma wasn't doing much to revive her. She leaned back in her chair, letting out a low sigh. The hiss of steam from the espresso machine seemed to mock her, a cruel reminder that even in the midst of crisis, life went on.
+
+Mara refocused on the screen, her gaze dropping to the lines of code as she tried to pinpoint the anomaly. It was here somewhere – the key to unlocking this puzzle. Her eyes narrowed as she spotted something: an IP address, buried deep within a nested layer of encryption. She recognized the prefix – it belonged to one of the largest financial institutions in the world.
+
+She sat up straight, her heart rate spiking. This could be the break she needed. Mara's fingers flew across the keyboard, calling up the corresponding records and beginning the painstaking process of correlating the encrypted data with the IP address. The minutes ticked by like hours as she worked, her mind numbed by the repetition.
+
+And then, just as suddenly as it had begun, everything went still. The files stopped loading, the cursor froze on the screen. Mara's breath caught in her throat as she felt a presence behind her. She didn't need to look up to know who it was – the weight of their eyes upon her skin was unmistakable.
+
+"Zel," she said softly, without turning around.
+
+"Hey." The IT expert slid into the chair beside her, his voice low and cautious. "I think we have a problem."
+
+Mara's gaze flickered towards him, a spark of unease dancing across her face. "What is it?"
+
+"The server...it just went dark," Zel said, his words trailing off as Mara's eyes snapped back to the screen.
+
+The laptop was dead, the power cord yanked loose from the socket. The silence that followed was oppressive, heavy with unspoken questions. Who could have done this? And why?
+
+Mara's mind reeled, but she knew one thing for certain – she couldn't afford to think about it right now. She needed to get moving, fast. She scribbled a note on the edge of her napkin: "Check server backup. Get me everything." Then, without a word, she slid out from behind the table and strode towards the door.
+
+"You okay?" Zel called after her, but Mara just shook her head, already gone. The chill outside was a welcome relief as she stepped into the Sacramento air, the city's hum of activity wrapping around her like a shroud.
+
+She knew that somewhere out there, someone was watching – waiting for her to make another move. And when they did, it would be time to end this game once and for all.
+
+Mara's phone beeped in her pocket as she navigated the crowded sidewalks. She hesitated for a moment before pulling it out, her eyes scanning the screen. The message was from an unknown number: "You're close."
+
+A shiver ran down her spine. Who could have sent this? And what did they mean by "close"?
+
+The text vanished as quickly as it appeared, leaving Mara staring at a blank screen. But she knew one thing for sure – she was running out of time.
+
+As she pushed through the crowded streets, Mara's thoughts were consumed by the same haunting question: Who's next?
+
+[20:05:12] Ollama call started (attempt 1/3, temperature=0.7)
+[20:05:32] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:05:43] Ollama call completed in 31s
+Her feet carried her on autopilot, weaving in and out of pedestrians as she tried to process the cryptic message. She had been so focused on cracking the encryption that she hadn't noticed anything unusual around her. But now, with the unknown sender's words echoing in her mind, every face seemed to take on a sinister tone.
+
+Mara quickened her pace, her heart rate spiking as she pushed through the crowds. She had to get back to the server room, see if Zel had managed to retrieve any data from the backup. The thought of losing that information was unbearable – it could be her only lead in unraveling the mystery.
+
+As she turned a corner onto 6th Street, Mara spotted a small café. She ducked inside, hoping to lose herself among the patrons for a few minutes. The aroma of freshly brewed coffee enveloped her, and for an instant, she felt a sense of calm wash over her. But it was short-lived.
+
+Her phone beeped again in her pocket, this time with a text from Zel: "Got something from backup. Meet me at the server room ASAP." Mara's eyes scanned the café, but all she saw were familiar faces – students typing away on their laptops, couples sipping coffee, and a group of rowdy teenagers laughing together.
+
+She slid out of the café, her mind racing with possibilities. What could Zel have found? And what did it mean for her investigation?
+
+The sun was setting over Sacramento, casting long shadows across the city streets. Mara picked up speed, her feet pounding against the pavement as she made her way back to the server room. She had a feeling that time was running out – and not just because of the mysterious text.
+
+As she approached the server room, Mara's eyes locked onto Zel, who was huddled over the main console. His face was bathed in the soft glow of the screens, his brow furrowed in concentration.
+
+"What've you got?" Mara asked, her voice barely above a whisper as she slipped into the room behind him.
+
+Zel looked up, a mixture of excitement and caution on his face. "I managed to recover some data from the backup," he said, his words spilling out in a rush. "It's encrypted, but I think I can crack it – if we work together."
+
+Mara felt a surge of hope rise within her. This could be it – the break she needed to unravel the mystery.
+
+But as she leaned in closer to Zel, her eyes scanning the lines of code streaming across his screen, Mara noticed something that made her heart skip a beat. A new entry had been added to the server's log – one that seemed out of place among the others.
+
+"What's this?" Mara asked, her finger hovering over the timestamp as she pointed to the new entry.
+
+Zel followed her gaze, his face paling as he took in the date and time stamp. "It can't be," he whispered, his voice trembling.
+
+Mara's eyes locked onto Zel's, a sense of foreboding creeping up her spine. "What is it?" she asked, her voice barely above a whisper.
+
+The answer came like a punch to the gut – one that left Mara reeling and questioning everything she thought she knew about this case.

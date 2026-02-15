@@ -1,0 +1,77 @@
+Chapter 15: Untitled
+
+[20:26:54] Ollama call started (attempt 1/3, temperature=0.75)
+[20:27:14] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:27:30] Ollama call completed in 36s
+Null Meridian
+
+Chapter 15: Shadow Play
+
+The rain-soaked streets of Sacramento glistened like polished obsidian, reflecting the dim glow of streetlights that seemed to flicker in time with Mara's racing heart. She quickened her pace, dodging pedestrians and weaving through the crowded sidewalks as if trying to outrun her own thoughts. The sound of footsteps echoed behind her – not just any footsteps, but the deliberate, heavy tread of a group of agents closing in.
+
+Mara glanced over her shoulder, catching glimpses of her pursuers: stern-faced men in black suits, their eyes fixed intently on her. She didn't need to see the badges or the ID cards to know they were from Internal Affairs – the same department that had been dogging her every move since she stumbled upon the impossible access signature.
+
+She ducked into a narrow alleyway between two towering buildings, the sound of rainwater dripping from the awnings above her creating a soothing melody. For a moment, Mara let herself get lost in the rhythmic patter, trying to calm her racing thoughts and find a way out of this mess.
+
+But it was short-lived. The agents burst into the alleyway behind her, their flashlights casting eerie shadows on the walls as they fanned out to surround Mara.
+
+"Freeze!" one of them shouted, his voice amplified by some unseen device.
+
+Mara didn't need to be told twice. She sprinted down the alleyway, dodging trash cans and leaping over puddles with an agility that belied her exhaustion. The agents gave chase, their footsteps pounding the pavement as they closed in.
+
+She spotted a narrow gap between two dumpsters and made a split-second decision to squeeze through it. The agents followed, their larger frames causing them to hesitate for a fraction of a second – just enough time for Mara to gain some distance.
+
+As she emerged on the other side, she found herself back in the crowded streets, weaving through pedestrians with an ease born from desperation. The rain pounded down around her, blinding and disorienting, but Mara's eyes adjusted quickly as she scanned the sea of faces for a way out.
+
+A hand grabbed her arm, spinning her around to face... Detective Chen?
+
+"What are you doing here?" Mara demanded, her voice husky with fear.
+
+"I was supposed to meet Ren," Chen said, his expression grim. "He never showed up. I found your contact info on his phone and thought maybe we could... coordinate."
+
+Mara didn't have time for this. She shook off Chen's grip and took off again, not noticing the subtle nod he gave her as she disappeared into the crowd.
+
+The agents closed in once more, their flashlights illuminating the darkened storefronts as they gave chase. Mara darted between parked cars, using them as cover to evade her pursuers.
+
+She spotted a narrow side alleyway and made for it, Chen's face still etched in her mind like a ghostly apparition. Had he been part of the setup all along?
+
+As she sprinted down the alleyway, Mara realized that this wasn't just about escaping custody – it was about survival. The stakes had escalated, and she was running out of options.
+
+The alleyway narrowed to a dead end, with a single door on either side. Mara chose one at random, bursting through it into a cramped storage room filled with dusty crates and discarded office equipment.
+
+She slammed the door shut behind her, leaning against it as if trying to barricade herself from the world outside. The agents pounded on the other side of the door, their voices muffled by the thin metal but still audible in Mara's mind like a countdown to catastrophe.
+
+She took a deep breath and let her eyes adjust to the dim light within the storage room. What she saw made her blood run cold – a single phrase scrawled across the wall in red paint: "You're close."
+
+[20:27:30] Ollama call started (attempt 1/3, temperature=0.7)
+[20:27:50] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:28:01] Ollama call completed in 31s
+Mara's heart sank as she stared at the ominous message, her mind racing with possibilities. Who had written this? Was it a warning or a taunt? The words seemed to sear themselves into her brain like a branding iron, leaving a trail of dread in their wake.
+
+She spun around, searching for any sign of who might have left the message, but the storage room was empty except for the crates and equipment. Mara's eyes landed on a nearby shelf, where a small notebook lay open, its pages fluttering as if disturbed recently.
+
+Without thinking, she snatched up the notebook and flipped through its pages. The handwriting was unfamiliar, but the scribbled notes seemed to be some kind of cryptic code. Mara's mind began to whirl with theories – was this some sort of clue left by a fellow researcher or a rival trying to send her a message?
+
+As she pored over the notebook, the sound of pounding on the door grew louder, more insistent. Mara knew it wouldn't be long before the agents broke through. She stuffed the notebook into her pocket and scanned the room for any means of escape.
+
+That's when she spotted it – a small ventilation grille high up on one wall, partially hidden by a stack of crates. Without hesitation, Mara sprinted towards the grille, yanking it open with a loud screech of metal.
+
+She hoisted herself up into the narrow ventilation shaft, her stomach dropping as she swung her legs over the edge and disappeared from view. The agents' shouting grew fainter as she crawled deeper into the ductwork, their footsteps echoing through the corridors below.
+
+Mara's breath came in ragged gasps as she made her way through the dark, cramped space. She had no idea where this would lead or how long it would take to reach a safe exit. All she knew was that she had to keep moving – for herself, and for whatever secrets lay hidden within these walls.
+
+As she crawled through the ductwork, Mara's fingers brushed against something unexpected – a small USB drive lodged in a narrow crevice of the metal wall. She plucked it out, feeling an inexplicable jolt of recognition. Where had this come from? Who could have left it for her?
+
+The questions swirled in her mind like a maelstrom as she pocketed the drive and continued to crawl through the ductwork. Mara's only thought was survival – but what lay ahead was about to change everything.
+
+She pushed forward, her hands and knees scraping against the metal floor as she navigated the twisting passages of the ventilation system. Every now and then, a faint hum or creaking noise would echo through the ductwork, making Mara freeze in place, listening for any sign of pursuit.
+
+As she rounded a particularly tight bend, Mara caught sight of a glimmer of light ahead – the end of the ductwork, perhaps? She picked up speed, her heart pounding with anticipation. What lay beyond this narrow tunnel?
+
+Just as she was about to emerge from the ventilation shaft, Mara heard the unmistakable sound of footsteps behind her – heavy, deliberate steps that echoed through the ductwork like a drumbeat.
+
+She spun around, but it wasn't an agent in hot pursuit. Instead, Mara saw a figure emerging from the shadows – a figure who looked eerily familiar.
+
+"Ren?" she whispered, her voice barely audible over the pounding of her heart.
+
+The figure didn't respond, its eyes fixed intently on Mara as it began to move closer...

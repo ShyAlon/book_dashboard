@@ -1,0 +1,117 @@
+Chapter 26: Untitled
+
+[20:48:59] Ollama call started (attempt 1/3, temperature=0.75)
+[20:49:20] Ollama call still running... elapsed=21s (attempt 1/3)
+[20:49:34] Ollama call completed in 35s
+Null Meridian
+
+Chapter 26: "Redemption's Price"
+
+The dimly lit corridors of Null Meridian's HQ seemed to stretch on forever, their sterile walls reflecting the faint glow of computer screens and fluorescent lights overhead. Mara navigated the labyrinthine passageways with a mix of determination and trepidation, her eyes scanning every corner for signs of Director Lee's compromised state.
+
+Detective Chen walked beside her, his expression grim and foreboding. "We need to be careful," he muttered, glancing over his shoulder as they turned down yet another anonymous-looking hallway. "If someone on the inside is working against us..."
+
+Mara's thoughts echoed his concerns, but she pushed them aside for now. She had to focus on uncovering the truth about Director Lee and Project Aurora. The stakes were too high, the consequences of failure too dire.
+
+They reached a security checkpoint, where two burly guards eyed them warily. "IDs, please," one of them growled, hand resting on his holstered gun.
+
+Mara produced her own ID, her fingers trembling slightly as she handed it over. Chen followed suit, and after a brief moment of scrutiny, the guards stepped aside. "Authorized personnel only past this point."
+
+As they passed through the checkpoint, Mara's gaze drifted to the wall-mounted screens displaying real-time feeds from various parts of the complex. The images flickered and distorted, but she caught glimpses of server rooms, data storage facilities, and even what looked like a small lab or experimentation area.
+
+Her heart sank as she recognized the location. This was where her brother Jaxon had been taken. She forced herself to keep moving, to stay focused on the task at hand.
+
+The corridor opened up into a large central hub, filled with rows of workstations and server equipment humming in the background. Mara spotted Ren hunched over one of the workstations, his eyes scanning lines of code streaming across his screen.
+
+"Ren!" she called out, striding towards him. He looked up, startled, as Chen approached from behind.
+
+"Mara," he said, his voice barely above a whisper. "I've been going over the server logs. I think I found something."
+
+Mara's heart skipped a beat. "What is it?"
+
+Ren hesitated before nodding towards the nearest screen. The feed displayed a grainy image of Director Lee's office, but what caught Mara's attention was the figure standing just out of frame.
+
+"It's Alexei," Ren said quietly. "He's been accessing Director Lee's files for weeks."
+
+Mara felt a chill run down her spine as she pieced together the implications. This explained why Director Lee had seemed hesitant or evasive during their conversation...
+
+"Alexei?" Chen repeated, his voice laced with incredulity. "What's going on here?"
+
+Ren's eyes darted between them both before landing on Mara. "I think I know what Alexei's after," he said slowly. "And it doesn't look good for any of us."
+
+Mara's grip on her gun tightened as she turned towards Chen, a silent question burning in her eyes. What did Ren mean? And how was this connected to Project Aurora?
+
+"Let's get out of here," Chen whispered urgently, gesturing for them to follow him.
+
+But Mara hesitated, her gaze drifting back to the screens displaying Director Lee's office. Something wasn't right...
+
+As she watched, the image flickered and distorted, revealing a new figure standing just behind Alexei. A woman with obsidian skin and burning eyes.
+
+Mara's world went cold. "No," she whispered, feeling the ground beneath her feet give way.
+
+The mysterious woman raised a hand, her fingers extending towards Director Lee...
+
+Everything went black.
+
+And in that darkness, Mara heard a single phrase echoing through her mind: "It's time to collect your brother."
+
+[20:49:34] Ollama call started (attempt 1/3, temperature=0.7)
+[20:49:54] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:50:10] Ollama call completed in 36s
+Mara's vision slowly returned, her eyes blinking open to find herself lying on the cold floor. She was disoriented and groggy, but as she struggled to sit up, a wave of pain washed over her. Her head throbbed, and she felt a sticky film coating her lips.
+
+She looked around, taking in the unfamiliar surroundings. They weren't in Null Meridian's HQ anymore – or at least, not in the same location. She was in some kind of holding cell, with steel bars covering one wall and a small cot in the corner.
+
+Detective Chen and Ren were nowhere to be seen. Panic set in as Mara scrambled to her feet, stumbling towards the door. It slid open with a hiss, revealing Alexei standing on the other side, his eyes fixed on hers.
+
+"Mara," he said, his voice low and measured. "We need to talk."
+
+She glared at him, her mind racing with questions. Where were Chen and Ren? What had happened to Director Lee?
+
+But before she could demand answers, Alexei beckoned her out of the cell. Mara hesitated for a moment, then stepped through the doorway into a dimly lit corridor.
+
+They walked in silence, their footsteps echoing off the walls. Mara's eyes scanned the area, searching for any sign of Chen or Ren. But they were alone – at least, as far as she could tell.
+
+The corridor eventually led them to a small conference room, filled with Director Lee and several other high-ranking officials from Null Meridian. They all looked up as Mara entered, their expressions grim.
+
+"Mara, we've been expecting you," Director Lee said, his voice laced with a hint of weariness. "Alexei here has... enlightened us to the situation."
+
+Mara's eyes narrowed, her grip on her gun tightening. What did they mean? What had happened while she was unconscious?
+
+"Explain," she snapped, trying to keep her temper in check.
+
+Director Lee sighed, his shoulders sagging beneath his jacket. "Project Aurora... it's not what we thought it was, Mara. It's a rescue mission."
+
+Mara's jaw dropped. A rescue mission? What were they talking about?
+
+"It's your brother, Jaxon," Director Lee continued. "He's been in a coma for months, ever since the incident on Mars. We've been trying to revive him using advanced technology... but it's not working."
+
+Mara felt like she'd been punched in the gut. A rescue mission? For Jaxon?
+
+"And what about Chen and Ren?" she demanded, her voice rising.
+
+Director Lee's expression softened, a hint of apology in his eyes. "They're safe, Mara. They were taken to protect them from... other interested parties."
+
+Mara's mind reeled as the implications sank in. Other interested parties? What did that mean?
+
+"Who are you working with?" she spat at Alexei, her anger boiling over.
+
+Alexei smiled, his eyes glinting with a knowing light. "You'll find out soon enough," he said. "But for now... let's just say we have a common goal."
+
+Mara seethed, her fists clenched. She didn't trust any of them – not after what she'd seen on the screens.
+
+"What's going to happen to me?" she asked Director Lee, trying to keep her voice steady.
+
+He hesitated before answering, his eyes darting towards Alexei. "You'll be part of the mission, Mara. We need your skills... and your connection to Jaxon."
+
+Mara felt a chill run down her spine as she processed their words. A rescue mission? With Alexei on board?
+
+She knew what she had to do.
+
+With a sudden burst of adrenaline, Mara made her move, pushing past Director Lee and the others towards the door. "I'm not going anywhere with you," she spat at Alexei.
+
+As she reached for her gun, a voice cut through the air – low and menacing, like a warning shot across the bow.
+
+"You're not in charge here, Mara," it said.
+
+Mara spun around to face the speaker, her heart sinking as she saw who stood behind Director Lee.

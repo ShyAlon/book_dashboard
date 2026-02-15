@@ -2,11 +2,13 @@ package backend
 
 import (
 	"fmt"
+	"math"
 	"os"
 	"strconv"
 	"strings"
 	"time"
 
+	"book_dashboard/internal/aidetect"
 	"book_dashboard/internal/chunk"
 	"book_dashboard/internal/slop"
 	"book_dashboard/internal/timeline"
@@ -135,6 +137,60 @@ func BuildDashboard(bookTitle, sourceName string, source []byte, text string, on
 	}
 	progress(onProgress, 56, "SLOP", "Statistical language pass complete")
 
+	aiCfg := aidetect.DefaultConfig()
+	aiReport := aidetect.Analyze(
+		aidetect.Input{
+			DocumentID: runID,
+			Text:       text,
+			Language:   "en",
+		},
+		aiCfg,
+		newAILanguageToolScorer(),
+		nil,
+		aiLogger{add: addLog},
+	)
+	for _, span := range aiReport.Traces {
+		addLog("ANALYSIS", "AI", "Trace span", fmt.Sprintf("%s duration_ms=%d status=%s", span.Name, span.DurationMs, span.Status))
+	}
+	if len(aiReport.Errors) > 0 {
+		type errAgg struct {
+			stage     string
+			kind      string
+			retryable bool
+			message   string
+			count     int
+		}
+		agg := map[string]*errAgg{}
+		order := []string{}
+		for _, aiErr := range aiReport.Errors {
+			key := aiErr.Stage + "|" + aiErr.Type + "|" + aiErr.Message
+			if item, ok := agg[key]; ok {
+				item.count++
+				continue
+			}
+			agg[key] = &errAgg{
+				stage:     aiErr.Stage,
+				kind:      aiErr.Type,
+				retryable: aiErr.Retryable,
+				message:   aiErr.Message,
+				count:     1,
+			}
+			order = append(order, key)
+		}
+		const maxErrorLogs = 8
+		for i, key := range order {
+			if i >= maxErrorLogs {
+				break
+			}
+			item := agg[key]
+			addLog("RISK", "AI", "Signal degraded", fmt.Sprintf("stage=%s type=%s retryable=%t count=%d message=%s", item.stage, item.kind, item.retryable, item.count, item.message))
+		}
+		if len(order) > maxErrorLogs {
+			addLog("RISK", "AI", "Additional AI signal errors suppressed", fmt.Sprintf("%d unique error groups omitted", len(order)-maxErrorLogs))
+		}
+	}
+	progress(onProgress, 62, "AI", "AI detection analysis complete")
+
 	contradictions := detectHeuristicContradictions(chapters)
 	healthIssues := buildHealthIssues(contradictions, chapterSummaryByID)
 	stats.ContradictionCount = len(healthIssues)
@@ -181,10 +237,28 @@ func BuildDashboard(bookTitle, sourceName string, source []byte, text string, on
 
 	compTitles := []CompTitle{{Title: "The Silent Patient", Tier: "Blockbuster"}, {Title: "The Maidens", Tier: "Blockbuster"}, {Title: "Wrong Place Wrong Time", Tier: "Mid-list"}, {Title: "Rock Paper Scissors", Tier: "Mid-list"}, {Title: "Unknown", Tier: "Unknown"}}
 
-	mhdScore := 100 - (len(healthIssues) * 10) - (len(slopReport.Flags) * 6) - ((100 - language.GrammarScore) / 5) - ((100 - language.SpellingScore) / 5)
+	aiPenalty := slopReport.AISuspicionScore / 5
+	if aiReport.PAIDoc != nil && aiReport.AICoverageEst != nil && aiReport.PAIMax != nil {
+		coverageExcess := math.Max(0, *aiReport.AICoverageEst-0.10)
+		aiPenalty = int(math.Round((*aiReport.PAIMax * 35.0) + (coverageExcess * 40.0)))
+		if *aiReport.PAIDoc >= 0.85 && (*aiReport.PAIMax >= 0.75 || *aiReport.AICoverageEst >= 0.25) {
+			aiPenalty += 8
+		}
+		if containsString(aiReport.Flags, "ai_chunk_detected") {
+			aiPenalty += 10
+		}
+		if containsString(aiReport.Flags, "widespread_ai_signal") {
+			aiPenalty += 15
+		}
+		if aiPenalty > 70 {
+			aiPenalty = 70
+		}
+	}
+	mhdScore := 100 - (len(healthIssues) * 10) - (len(slopReport.Flags) * 6) - ((100 - language.GrammarScore) / 5) - ((100 - language.SpellingScore) / 5) - aiPenalty
 	if mhdScore < 0 {
 		mhdScore = 0
 	}
+	addLog("INFO", "SCORING", "AI likelihood penalty applied", fmt.Sprintf("%d p_ai_doc=%.3f coverage=%.3f p_ai_max=%.3f flags=%d", aiPenalty, aiPtr(aiReport.PAIDoc), aiPtr(aiReport.AICoverageEst), aiPtr(aiReport.PAIMax), len(aiReport.Flags)))
 	addLog("INFO", "SCORING", "MHD score calculated", strconv.Itoa(mhdScore))
 
 	data := DashboardData{
@@ -194,6 +268,7 @@ func BuildDashboard(bookTitle, sourceName string, source []byte, text string, on
 		Logs:                logs,
 		Contradictions:      contradictions,
 		HealthIssues:        healthIssues,
+		AIReport:            aiReport,
 		SlopReport:          slopReport,
 		Timeline:            timelineEvents,
 		Beats:               beats,
@@ -237,6 +312,7 @@ func BuildDashboard(bookTitle, sourceName string, source []byte, text string, on
 				"timeline":             data.Timeline,
 				"beats":                data.Beats,
 				"plot_structure":       data.PlotStructure,
+				"ai_report":            data.AIReport,
 				"slop_report":          data.SlopReport,
 				"comp_titles":          data.CompTitles,
 				"project_location":     data.ProjectLocation,
@@ -257,4 +333,20 @@ func BuildDashboard(bookTitle, sourceName string, source []byte, text string, on
 
 func defaultTimeline() []timeline.Event {
 	return []timeline.Event{{TimeMarker: "Unknown", Event: "No explicit time markers detected."}}
+}
+
+func containsString(items []string, target string) bool {
+	for _, item := range items {
+		if strings.EqualFold(item, target) {
+			return true
+		}
+	}
+	return false
+}
+
+func aiPtr(v *float64) float64 {
+	if v == nil {
+		return 0
+	}
+	return *v
 }

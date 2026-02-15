@@ -6,6 +6,8 @@ export function AnalyzeExcerpt(arg1:string):Promise<backend.DashboardData>;
 
 export function AnalyzeFile(arg1:string):Promise<backend.DashboardData>;
 
+export function ExportLogPackageDialog():Promise<void>;
+
 export function ExtractTimelineMarkers(arg1:string):Promise<Array<string>>;
 
 export function GetDashboard():Promise<backend.DashboardData>;
@@ -15,3 +17,7 @@ export function GetServiceDiagnostics():Promise<backend.SystemDiagnostics>;
 export function InstallMissingDependencies():Promise<backend.SystemDiagnostics>;
 
 export function PickAndAnalyzeFile():Promise<backend.DashboardData>;
+
+export function Quit():Promise<void>;
+
+export function ReportClientError(arg1:string,arg2:string,arg3:string):Promise<void>;

@@ -2,6 +2,7 @@ import React from 'react'
 import {createRoot} from 'react-dom/client'
 import './style.css'
 import App from './App'
+import { LogError } from '../wailsjs/runtime/runtime'
 
 const bootScreen = document.getElementById("boot-screen");
 const bootAction = document.getElementById("boot-action");
@@ -34,6 +35,22 @@ function bootSetSubphase(subphase: string) {
   }
 }
 
+function reportClientError(source: string, message: string, detail: string) {
+  try {
+    const api = (window as unknown as {
+      go?: { main?: { App?: { ReportClientError?: (s: string, m: string, d: string) => Promise<void> } } }
+    }).go?.main?.App;
+    if (api?.ReportClientError) {
+      void api.ReportClientError(source, message, detail);
+    } else {
+      LogError(`[${source}] ${message} ${detail}`);
+    }
+  } catch (err) {
+    const fallback = err instanceof Error ? `${err.message}\n${err.stack || ""}` : String(err);
+    LogError(`[frontend-report-failed] ${fallback}`);
+  }
+}
+
 window.setInterval(() => {
   if (bootTime) {
     bootTime.textContent = `${Math.floor((Date.now() - bootStartedAt) / 1000)}s`;
@@ -43,14 +60,19 @@ window.setInterval(() => {
 bootAppend("Frontend bootstrap started");
 window.addEventListener("error", (e) => {
   const msg = e.error?.message || e.message || "Unknown error";
+  const stack = e.error?.stack ? String(e.error.stack) : "";
+  const detail = [e.filename ? `file=${e.filename}` : "", Number.isFinite(e.lineno) ? `line=${e.lineno}` : "", Number.isFinite(e.colno) ? `col=${e.colno}` : "", stack].filter(Boolean).join("\n");
   bootSetAction("startup error");
   bootSetSubphase("javascript runtime error");
   bootAppend(`ERROR: ${msg}`);
+  reportClientError("window.error", msg, detail);
 });
 window.addEventListener("unhandledrejection", (e) => {
+  const reason = e.reason instanceof Error ? `${e.reason.message}\n${e.reason.stack || ""}` : String(e.reason);
   bootSetAction("startup error");
   bootSetSubphase("promise rejection");
-  bootAppend(`PROMISE: ${String(e.reason)}`);
+  bootAppend(`PROMISE: ${reason}`);
+  reportClientError("window.unhandledrejection", "Unhandled promise rejection", reason);
 });
 
 const container = document.getElementById('root')
@@ -66,9 +88,11 @@ try {
   )
 } catch (e) {
   const message = e instanceof Error ? e.message : String(e);
+  const stack = e instanceof Error ? e.stack || "" : "";
   bootSetAction("startup error");
   bootSetSubphase("react render failure");
   bootAppend(`RENDER: ${message}`);
+  reportClientError("react.render", message, stack);
 }
 
 if (bootScreen) {

@@ -1,0 +1,99 @@
+Chapter 13: Untitled
+
+[20:22:10] Ollama call started (attempt 1/3, temperature=0.75)
+[20:22:31] Ollama call still running... elapsed=21s (attempt 1/3)
+[20:22:51] Ollama call still running... elapsed=41s (attempt 1/3)
+[20:22:55] Ollama call completed in 45s
+Chapter 13: Shadowplay
+
+Mara's eyes scanned the crowded coffee shop, her gaze drifting over the sea of faces as she searched for any sign of her team. The air was thick with the aroma of freshly brewed coffee and the muted hum of conversation. She spotted Zel hunched over a laptop in the corner, his brow furrowed in concentration.
+
+She made her way through the throng, weaving between patrons who were oblivious to the danger lurking beneath the surface. Mara's senses remained on high alert, her mind racing with the implications of Director Lee's true nature. The revelation had sent shockwaves through the team, and she knew they all shared one question: what else was he hiding?
+
+As she reached Zel's table, she spotted Ambrose slipping in unnoticed, a look of quiet intensity etched on his face. He slid into the chair beside her, his eyes locking onto Mara's as he mouthed a single word: "Ready."
+
+Mara nodded, her mind already racing with the plan they'd hatched. The summit was scheduled to take place at an abandoned warehouse on the outskirts of town, a location chosen for its anonymity and proximity to the Null Meridian facility.
+
+Their intel suggested that the meeting would be attended by some of the most powerful players in the city's underworld, all united by a desire to further their own interests. Mara knew they had to infiltrate the summit, gather evidence of the conspiracy, and get out before they were discovered.
+
+Zel finished typing on his laptop, his fingers flying across the keyboard with a speed that bordered on reckless. He handed Mara a small earpiece, which she tucked discreetly into her ear.
+
+"Connected," Zel mouthed, his eyes flicking toward Ambrose.
+
+Ambrose nodded, a hint of a smile playing on his lips as he pulled out a small device from his pocket. It was an encrypted comms tool, one that would allow them to stay in touch with each other during the mission.
+
+Mara felt a surge of adrenaline course through her veins as she stood up, her eyes locking onto Zel's. "Time to put on a show," she whispered, a sly grin spreading across her face.
+
+The three of them made their way out of the coffee shop, blending seamlessly into the crowded streets of Sacramento. They walked for several blocks, their pace steady and deliberate, until they reached the alleyway adjacent to the warehouse.
+
+Mara's eyes scanned the rooftops, her heart pounding in anticipation as she spotted a figure perched atop the building across from them. It was Chen, his face illuminated by the faint glow of a smartphone screen.
+
+Ambrose nodded toward the figure, his voice low and urgent. "Chen's got our six."
+
+Mara felt a rush of gratitude toward the detective, who had risked everything to help them. She turned her attention back to the warehouse, her eyes narrowing as she spotted a group of men lingering near the entrance.
+
+Their faces were obscured by shadows, but Mara knew that their presence was no accident. They were here to provide security for the summit, and she suspected they wouldn't take kindly to unwanted visitors.
+
+As she watched, a black sedan pulled up beside the warehouse, its tinted windows reflecting the faint glow of the surrounding streetlights. The doors slid open with a soft whoosh, revealing a group of men in tailored suits, their faces set in determined expressions.
+
+Mara's eyes locked onto the lead figure, her mind racing with recognition. It was a name she'd heard before, one that sent shivers down her spine: Victor Kuznetsov.
+
+"Looks like our host has arrived," Zel whispered, his voice barely audible over the hum of the sedan's engine.
+
+Mara felt a cold sweat break out across her forehead as she realized they were running out of time. The summit was about to begin, and she knew that their window for infiltration was rapidly closing.
+
+"Let's get moving," Ambrose whispered, his eyes scanning the surrounding area with a practiced intensity.
+
+As one, the four of them slipped into the shadows, their movements fluid and deliberate as they made their way toward the warehouse. Mara felt her heart pounding in anticipation, her senses on high alert as she prepared to infiltrate the lair of the city's power brokers.
+
+And then, just as they reached the entrance, a figure emerged from the darkness, his eyes locked onto Mara with an unnerving intensity.
+
+"Welcome, Agent," he said, his voice dripping with malice. "I've been expecting you."
+
+Mara felt a jolt of fear run through her veins as she realized that their mission had just taken a deadly turn. The stranger's words hung in the air like a challenge, and Mara knew that they were about to walk into the heart of danger.
+
+But it was too late now. With a deep breath, Mara pushed open the door, and stepped into the shadowy world beyond.
+
+[20:22:55] Ollama call started (attempt 1/3, temperature=0.7)
+[20:23:15] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:23:35] Ollama call still running... elapsed=40s (attempt 1/3)
+[20:23:41] Ollama call completed in 46s
+The man's eyes seemed to bore into her soul as he stepped aside, allowing them to enter the warehouse. Mara felt a shiver run down her spine as she caught sight of the dimly lit interior, the air thick with tension. The scent of stale cigarettes and old sweat hung heavy over the crowd, mingling with the faint tang of fear.
+
+As they moved deeper into the warehouse, Mara spotted Victor Kuznetsov standing at the center of a makeshift podium, his eyes scanning the room with an unnerving intensity. He was flanked by two burly men in black suits, their faces expressionless as they watched the crowd with an air of calculated menace.
+
+Mara's gaze swept across the room, taking in the assortment of city officials, business leaders, and underworld figures gathered here tonight. She spotted a few familiar faces, including Councilor Elara Vex, her eyes gleaming with a mixture of curiosity and calculation as she exchanged nods with Victor Kuznetsov.
+
+Ambrose nudged Mara forward, his hand brushing against hers in a subtle gesture of reassurance. Zel hung back, his eyes fixed on the security detail patrolling the perimeter of the room, while Chen slipped into the shadows, his smartphone at the ready.
+
+Mara's heart pounded in her chest as she made her way through the crowd, her eyes locked onto Victor Kuznetsov. She knew that they had to blend in, gather intel, and get out without being detected – easier said than done, given the array of security measures in place.
+
+As she approached the podium, Mara caught sight of a small table off to one side, where several men in tailored suits were huddled in intense conversation. One of them looked up, his eyes locking onto hers with an unmistakable spark of recognition: Alexei Petrov, Director Lee's right-hand man.
+
+Mara felt a shiver run down her spine as she realized that they had walked into a hornet's nest, and that the stakes were higher than she could have ever imagined. The room seemed to grow darker, the air thickening with an almost palpable sense of menace.
+
+"Welcome, Agent," Victor Kuznetsov boomed, his voice carrying across the room as he raised a hand in greeting. "I trust you're here to participate in our little discussion?"
+
+Mara forced a smile onto her face, playing along as she took a seat beside Councilor Vex. The woman leaned over, her voice barely audible above the din of conversation. "Be careful, Agent," she whispered. "These people are not what they seem."
+
+As Mara nodded, her eyes locked onto Victor Kuznetsov's, she knew that their mission had just become a whole lot more complicated.
+
+The discussion began in earnest, the room erupting into a cacophony of voices and agendas as the attendees presented their proposals for the city's future. Mara listened intently, her mind racing with the implications of what was being discussed – plans to exploit the Null Meridian facility, to tap into its energy reserves and reshape the city according to their own design.
+
+But as she delved deeper into the conversation, Mara realized that there was more at play here than met the eye. There were whispers of a shadowy organization, one that had infiltrated every level of the city's power structure – and it seemed that they had all been brought together for one reason: to further their own interests.
+
+Mara's eyes narrowed as she watched Victor Kuznetsov, his expression growing more and more intense as he spoke. She sensed a thread of desperation running beneath the surface, a sense of urgency that couldn't be ignored.
+
+As the meeting drew to a close, Mara knew that they were running out of time – and that their window for escape was rapidly closing. The air seemed to grow thicker, heavier with an almost palpable sense of danger as Victor Kuznetsov raised his voice above the din, his words hanging in the air like a challenge:
+
+"Let us get down to business," he boomed. "The future of this city is at stake – and I believe we can all agree that it's time for drastic measures."
+
+As the room erupted into cheers and applause, Mara felt her heart sink. They were trapped, surrounded by enemies who would stop at nothing to see them silenced.
+
+But she knew they couldn't give up now. With a deep breath, Mara steeled herself for what lay ahead – knowing that their mission had just become a matter of life and death.
+
+And as the room began to disperse, Mara felt a hand brush against hers in the darkness, sending a shiver down her spine. She turned to see Ambrose's face inches from hers, his eyes locked onto hers with an unmistakable message:
+
+"We're not out of this yet."
+
+The words hung in the air like a promise – and as Mara nodded, she knew that their fight was far from over.

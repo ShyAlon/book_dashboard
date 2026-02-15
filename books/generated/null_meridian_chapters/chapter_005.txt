@@ -1,0 +1,83 @@
+Chapter 5: Untitled
+
+[20:06:11] Ollama call started (attempt 1/3, temperature=0.75)
+[20:06:31] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:06:33] Ollama call completed in 22s
+Null Meridian
+
+Chapter 5: Shadow Play
+
+The fluorescent lights above the server room hummed in unison, casting an eerie glow over the rows of humming equipment. Mara's eyes darted between the screens displaying the UC Davis research server's logs and the live feed from the cameras monitoring the server room. Zel had managed to recover some data from the backup, but it was a partial dump at best – incomplete, fragmented, and encrypted with an unknown key.
+
+"Zel, how much longer?" Mara asked, her voice low and urgent.
+
+"Five minutes, tops," he replied, his fingers flying across the keyboard as he worked to crack the encryption. "But I need you to focus on this."
+
+Mara turned her attention back to the screens. The logs indicated that someone had accessed the server just before it went dark, but the user ID was unknown – or rather, unidentifiable through standard means.
+
+"This is impossible," Mara muttered, studying the entry. "The access signature doesn't match anyone in our database."
+
+Zel leaned back from his station, a look of frustration on his face. "I told you, it's like someone used a ghost signature to get past our security protocols."
+
+Mara raised an eyebrow. "Ghost signature? That sounds like... "
+
+"Paranormal nonsense," Zel finished for her.
+
+Their conversation was interrupted by the ping of an alert from Mara's comms device. She hesitated for a moment before answering, hoping it wouldn't be Director Lee again with another vague instruction or veiled warning.
+
+"What is it?" Zel asked as she listened to the caller.
+
+"Ambrose," Mara replied, her eyes narrowing. "He says Operation Eclipse failed."
+
+Ambrose was their handler for the operation, a clandestine effort to infiltrate a rival nation's intelligence network. Mara had been part of the team that carried out the op, using advanced malware and social engineering tactics to gather intel on a suspected mole.
+
+"Failed?" Zel repeated, his expression grim.
+
+Mara nodded, her mind racing. "He says one of our own was compromised. The mole got wind of the op and tipped off their handler."
+
+Zel's eyes went wide as he pieced together the implications. "That means... "
+
+"It means we've been breached," Mara finished for him. "And I think I know who it is."
+
+She leaned forward, her voice barely above a whisper.
+
+"Director Lee."
+
+[20:06:33] Ollama call started (attempt 1/3, temperature=0.7)
+[20:06:53] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:07:01] Ollama call completed in 28s
+The words hung in the air like a challenge, and Zel's expression turned from concern to outrage. "What? No way, Mara. You can't be serious. Director Lee is one of us."
+
+Mara's eyes locked onto his, her gaze unwavering. "I'm telling you, I've seen something. A pattern. It started when we were on the operation in Tokyo. Remember how our comms were compromised? And then there was that weird incident with the encrypted files?"
+
+Zel's face clouded over as he thought back to those events. "You think it's connected...?"
+
+Mara nodded, her voice still low. "I do. And I've been going over the logs, trying to find any other signs of a ghost signature. But there's something else. Something that makes me think Director Lee is more involved than just being compromised."
+
+Zel leaned forward, his eyes sparkling with curiosity. "What?"
+
+Mara hesitated for a moment before pulling up a holographic display on her comms device. The image resolved into a grainy video feed of the server room's security cameras.
+
+"Look at this," Mara said, pointing to a figure in the corner of the frame. "That's one of our interns, just doing their rounds. But what you don't see is the person they're talking to."
+
+The camera angle shifted slightly as the intern turned, and for an instant, Mara caught a glimpse of someone else standing beside them – someone with a familiar face.
+
+"Director Lee," Zel breathed, his voice barely audible over the hum of the servers. "But that's impossible. I thought he was in meetings all day."
+
+Mara's eyes narrowed as she replayed the footage in her mind. "That's what they want you to think. But I think we're looking at a setup – or worse, a cover-up."
+
+The fluorescent lights above them seemed to flicker in agreement, casting an ominous glow over the server room.
+
+"Zel, I need you to get me into Director Lee's comms," Mara said, her voice firm and resolute. "We have to know what he's planning next – and how far this goes."
+
+Zel nodded, his expression set in a determined line. "I'm on it."
+
+But as they worked to crack the encryption, Mara couldn't shake off the feeling that she was staring into the abyss – an abyss that seemed to be staring back at her with cold, calculating eyes.
+
+Just then, the comms device beeped again, and Mara's heart sank as she saw Ambrose's name flashing on the screen. This time, he wasn't calling for a debrief or with bad news – this time, it was something else entirely.
+
+"Zel, I think we need to answer that," Mara said, her voice tinged with a sense of foreboding.
+
+The lights above them seemed to dim, as if anticipating the storm that was about to hit their world. And when they finally connected with Ambrose, his voice on the other end was like a sledgehammer, shattering all illusions and leaving only one question hanging in the air:
+
+"Mara... we have a problem."

@@ -1,0 +1,119 @@
+Chapter 22: Untitled
+
+[20:41:00] Ollama call started (attempt 1/3, temperature=0.75)
+[20:41:20] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:41:38] Ollama call completed in 38s
+Chapter 22: The Price of Compromise
+
+The darkness outside Mara's apartment window seemed to press in, like a physical force pushing against the glass. She stood at the kitchen counter, sipping her lukewarm coffee, and staring out at the alleyway where she'd seen that stranger lurking earlier. Her mind kept circling back to the same question: who were they? And what did they want?
+
+Ren's voice cut through the static in her earpiece. "Mara, we've got a situation here. I'm tracking some... unusual activity on our end."
+
+"Unusual?" Mara raised an eyebrow, setting down her coffee.
+
+"Yeah. It looks like someone's trying to access our server from outside. We're talking about high-clearance protocols, top-tier encryption... the works."
+
+Mara felt a shiver run down her spine. "Get Alexei on it. Now."
+
+Ren hesitated for a split second before responding. "Okay, but I need you to understand what's at stake here. If we shut this access down, we might lose our only lead on Nightshade."
+
+A cold dread began to crawl under Mara's skin as she processed Ren's words. Lose the lead? How could that be possible?
+
+"Ren, what do you mean?" She tried to keep her voice steady.
+
+"It seems... well, I'm not entirely sure how it works, but Alexei thinks our server might have been compromised from within. Someone on our team could be feeding information to Nightshade."
+
+Mara's eyes widened as she felt a sickening sense of betrayal. Her colleagues? Compromised?
+
+The earpiece crackled again. "Alexei here. Mara, I've isolated the issue. It looks like... this is going to sound crazy, but we think it's Chen who's been leaking intel."
+
+Mara's grip on her coffee cup tightened. Detective Chen? How could she have trusted him this far?
+
+"Get me into HQ," Mara said, her voice firm.
+
+"I'm on it." Ren's response was tinged with a hint of concern.
+
+As the car pulled up to the Sacramento field office, Mara felt a strange sense of calm settle over her. It was as if she'd finally reached the edge of a precipice and could see the chaos unfolding below. She knew what lay ahead: a choice between saving evidence or hostages.
+
+The lobby was filled with people rushing in every direction, some shouting into phones, others speaking to each other in hushed tones. Mara pushed through the crowd, her eyes locked on the elevators. Ren trailed behind her, his expression grim.
+
+Chen greeted them at the reception desk, his face a picture of innocence. "Ah, great timing! I've been expecting you."
+
+Mara's gaze narrowed. Expecting? What did he mean?
+
+"We need to get into HQ," she said, pushing forward.
+
+"Of course." Chen nodded and led them through a series of corridors until they reached the central hub.
+
+Inside, Mara saw what looked like a war zone: agents running, computers beeping, alarms blaring. In the center of it all stood Director Lee, his eyes fixed intently on something – or someone.
+
+Mara's heart sank as she took in the scene before her. The hostages – Chen had mentioned there were several inside HQ – were being held by a group of heavily armed individuals. They wore black tactical gear and looked like they meant business.
+
+"Director," Mara said, trying to keep her voice steady, "what's going on?"
+
+Lee turned to her, his expression twisted with desperation. "Mara, I'm afraid it's too late. We've been compromised from within... and outside."
+
+With a flicker of insight, Mara realized what was happening: the Director had always known about Nightshade, and now he was fighting for control.
+
+The armed men – Mara recognized them as Councilor Vex's security team – began to move closer to the hostages. Ren stepped forward, his eyes locked on the situation unfolding before him.
+
+"Mara, I need you to make a choice," he said quietly.
+
+She turned back to face her colleague, and for an instant, their gazes met in understanding. The decision hung in the air like a challenge: save the evidence, or save the hostages?
+
+As Mara hesitated, time seemed to stretch out before her, elongating into an eternity of possibilities...
+
+[20:41:38] Ollama call started (attempt 1/3, temperature=0.7)
+[20:41:58] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:42:14] Ollama call completed in 36s
+Her eyes locked onto Ren's, searching for a hint of what he truly thought she should do. But his expression was inscrutable, a mask that hid his true intentions.
+
+"Mara, we need to act now," Director Lee shouted above the din of chaos, his voice laced with panic.
+
+Ren nodded in agreement, but Mara noticed a flicker of hesitation before he spoke. "We can't risk losing more agents, Director. We need to prioritize the hostages."
+
+The armed men, still holding their positions, seemed to be waiting for something – or someone. Mara's mind racing, she tried to think of all possible scenarios. If they surrendered, Nightshade would gain control over the entire operation. But if they fought back...
+
+A sudden movement caught her eye: Chen was slipping away from the scene, his eyes darting towards a nearby door.
+
+"Mara, we need to get him," Ren whispered urgently, already moving in that direction.
+
+Mara followed close behind, her heart pounding in her chest. They reached the door just as Chen slipped inside, disappearing from view.
+
+"Stop!" Mara called out after him, but Chen was gone.
+
+Ren cursed under his breath and turned back to face the central hub. "We can't let this fall apart now."
+
+Mara took a deep breath and made up her mind. It wasn't about evidence; it was about people – lives hanging in the balance.
+
+"Let's move," she said, tucking her earpiece into place. "We need to get those hostages out of here, no matter what it takes."
+
+With Ren by her side, Mara plunged back into the fray, dodging agents and trying to stay clear of Nightshade's goons. The air was thick with tension as they fought their way through the chaos.
+
+The Councilor Vex's security team closed in on the hostages once more, this time with deadly intent. Mara spotted a small window on one side of HQ – a possible escape route for the captives.
+
+"Ren!" she shouted over the din, pointing towards the window. "We need to get them out through there!"
+
+Without hesitation, Ren charged forward, taking down several agents in his path. Mara followed close behind, guns drawn and ready to fire.
+
+The hostages were terrified, but they moved with a newfound sense of determination as they made their way toward the window. The armed men gave chase, but Mara and Ren fought them off with precision shots and tactical moves.
+
+Just as it seemed like they'd reached the window, Chen reappeared from nowhere, his eyes blazing with a fierce intensity.
+
+"Mara, stop this!" he shouted above the chaos. "You don't understand what's at stake here!"
+
+Mara's grip on her gun tightened as she faced Chen. What was going through his mind? Had he really been working for Nightshade all along?
+
+Ren reached out and grabbed Mara's arm, pulling her back from the edge of the window. "We need to get them out now," he growled.
+
+As they fought their way toward the window, a deafening blast shook the building – followed by an eerie silence. The hostages froze in terror as Nightshade's goons stumbled backward, momentarily disoriented.
+
+In that fleeting moment of confusion, Mara saw her chance. With Ren's help, she managed to free several of the captives and guide them toward the window.
+
+Together, they spilled out into the night air, gasping for breath as they scrambled down the fire escape. The sound of gunfire echoed through HQ once more – but this time, it seemed to be coming from a different direction.
+
+As Mara watched her colleagues make their way safely to safety, she felt a glimmer of hope rise within her. They'd done it – saved some lives, at least.
+
+But the price of compromise hung heavy on her mind: Chen's betrayal still lingered in the shadows, waiting to strike its next blow...
+
+And as Mara turned back toward HQ, she spotted something that made her heart skip a beat – a figure slipping out of the main entrance, into the darkness beyond.

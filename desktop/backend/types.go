@@ -1,6 +1,7 @@
 package backend
 
 import (
+	"book_dashboard/internal/aidetect"
 	"book_dashboard/internal/forensics"
 	"book_dashboard/internal/slop"
 	"book_dashboard/internal/timeline"
@@ -13,6 +14,7 @@ type DashboardData struct {
 	Logs                []LogLine                 `json:"logs"`
 	Contradictions      []forensics.Contradiction `json:"contradictions"`
 	HealthIssues        []HealthIssue             `json:"healthIssues"`
+	AIReport            aidetect.Report           `json:"aiReport"`
 	SlopReport          slop.Report               `json:"slopReport"`
 	Timeline            []timeline.Event          `json:"timeline"`
 	Beats               []BeatResult              `json:"beats"`

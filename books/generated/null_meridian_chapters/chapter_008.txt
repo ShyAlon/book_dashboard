@@ -1,0 +1,69 @@
+Chapter 8: Untitled
+
+[20:11:25] Ollama call started (attempt 1/3, temperature=0.75)
+[20:11:45] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:11:59] Ollama call completed in 34s
+Chapter 8: Echoes of Nightshade
+
+The last time Ren had seen his brother, Alexei, was during their final mission together. It was a cold winter morning in Siberia, and they were on assignment to infiltrate a Russian oligarch's estate. Their target was a high-stakes cyber-heist, and the payoff was too great to resist.
+
+Ren remembered the look of intensity in his brother's eyes as he prepared for the op. He was always focused, but this time there was something different – a sense of trepidation that Ren couldn't quite place. They had worked together countless times, sharing a bond forged from years of training and camaraderie, yet Ren sensed a newfound wariness in his brother's demeanor.
+
+Their extraction team had been compromised, and Alexei had taken point to ensure their safe egress. As they navigated the oligarch's labyrinthine security systems, Ren caught glimpses of his brother's skillful handiwork – a swift keyboard entry here, a cleverly placed bug there. It was as if Alexei had an innate understanding of the digital realm, one that allowed him to anticipate and counter every move their adversaries made.
+
+The mission was going according to plan until they stumbled upon an encrypted folder labeled "Nightshade." Ren's curiosity piqued, he decided to take a closer look, but Alexei vetoed the idea, his voice low and urgent. "We don't have time for this, brother," he whispered over their comms channel. "Let's focus on getting out."
+
+The memory of that moment still lingered in Ren's mind like an open wound. What was Nightshade? And why had Alexei been so adamant about leaving it alone? These questions haunted him now, as much as they had back then.
+
+Fast-forward to the present, and Mara's investigation into Director Lee had led her down a rabbit hole of deceit and corruption. It seemed that Alexei's disappearance might be more than just a coincidence – perhaps even connected to the events unfolding before them.
+
+Ren's thoughts were interrupted by the soft hum of his comms device. A new message from an unknown sender flashed on the screen: "You're close." Mara's instincts screamed warning, but he couldn't shake off the feeling that this might be their chance to uncover the truth about Alexei and Nightshade.
+
+He leaned back in his chair, eyes narrowing as he pondered the possibilities. Maybe it was time to revisit those encrypted files, to follow the thread of Nightshade into the very heart of the conspiracy. But first, he needed to bring Mara up to speed – and fast.
+
+Just then, a faint ping echoed from the server room, followed by an eerie silence. It was as if the system itself had gone dark, plunging them into an unsettling void. Ren's gut told him this wasn't just a minor glitch; something much more sinister was unfolding.
+
+With a newfound sense of urgency, he reached for his phone and dialed Mara's number. She answered on the first ring, her voice husky from lack of sleep. "Ren, what's happening?" she asked, as if sensing the gravity of their situation.
+
+"It's Alexei," Ren replied, his words tumbling out in a rush. "I think I know why he disappeared – and it might be connected to Director Lee."
+
+Mara's voice turned cold, detached. "Tell me more."
+
+Ren hesitated, unsure how much to reveal over an open line. But something in Mara's tone put him at ease. He took a deep breath, launching into the story of Nightshade, of the encrypted folder and Alexei's final mission.
+
+As he spoke, the server room's silence deepened, until it seemed like time itself had slowed down. Ren's words hung in the air like a challenge: "Mara, I think we're running out of time."
+
+[20:11:59] Ollama call started (attempt 1/3, temperature=0.7)
+[20:12:19] Ollama call still running... elapsed=20s (attempt 1/3)
+[20:12:27] Ollama call completed in 28s
+The line went dead, and Ren's eyes snapped back to the present as he realized Mara was no longer on the call. He tried calling her again, but it went straight to voicemail. A shiver ran down his spine; something was off.
+
+He leapt from his chair, pacing across the small apartment as he debated what to do next. The server room's silence still lingered in his mind, a palpable presence that made him feel like they were being watched. He couldn't shake the feeling that this was more than just a minor glitch – it was a warning sign, a signal that they were getting close to something.
+
+Ren's gaze drifted towards the comms device on his desk, where the message from the unknown sender still lingered: "You're close." Who was behind those words? And what did they mean by them?
+
+He felt a sudden urge to investigate further, to dig deeper into the mystery of Nightshade and Alexei's disappearance. But as he turned towards the door, Mara burst in, her face set in a determined expression.
+
+"What's going on?" she asked, barely above a whisper, as if she sensed the tension in the air.
+
+Ren filled her in on the call, his words spilling out quickly as he relayed the message and the strange silence from the server room. Mara listened intently, her eyes never leaving his face, until he finished speaking.
+
+She took a deep breath before responding, "We need to get back to the lab. Now."
+
+Ren nodded in agreement; they had to investigate this further, no matter what it meant. As they turned towards the door, he couldn't shake the feeling that they were being herded into a trap – one that would change everything.
+
+The apartment's corridors seemed longer than usual as they made their way back to the lab, the silence between them oppressive. They moved swiftly, but Ren sensed Mara was holding something back; there was an underlying tension in her movements that he couldn't quite place.
+
+As they burst into the server room, a flurry of lights illuminated the space, and the air was filled with the soft hum of machinery. But amidst the chaos, one thing stood out – the massive console at the center of the room, its screens dark and unresponsive.
+
+Ren's heart sank; this wasn't just a glitch – it was a full-blown system crash. The implications were dire: if they couldn't recover their data, all their progress would be lost. And in the midst of this crisis, he still had to confront Mara about her secrets...
+
+"Ren," she said, her voice barely audible over the din of machinery, "I need you to get out of here."
+
+He turned towards her, a protest forming on his lips, but something in her eyes stopped him cold. There was a flicker of fear there, one that sent shivers down his spine.
+
+"What's going on?" he asked, as if he didn't already know the answer.
+
+Mara took a step closer, her voice dropping to a whisper. "I think we've been compromised."
+
+In that moment, Ren knew they were staring into the abyss – and it was about to get very dark indeed.

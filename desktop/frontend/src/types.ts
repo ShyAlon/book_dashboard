@@ -58,6 +58,33 @@ export type CharacterEntry = {
   chapters: CharacterChapterRecord[];
 };
 
+export type AIDetectionReport = {
+  document_id: string;
+  p_ai_doc: number | null;
+  ai_coverage_est: number | null;
+  p_ai_max: number | null;
+  confidence_doc: number | null;
+  flags: string[];
+  errors: Array<{ stage: string; message: string; type: string; retryable: boolean }>;
+  traces: Array<{ name: string; duration_ms: number; status: string }>;
+  windows: Array<{
+    window_id: string;
+    start_word: number;
+    end_word: number;
+    p_ai: number;
+    confidence: number;
+    signals: {
+      duplication: { score: number | null; evidence: Array<{ type: string; summary: string; spans: Array<{ start: number; end: number }> }> };
+      lm_smoothness: { score: number | null };
+      style_uniformity: { score: number | null };
+      polish_cliche: { score: number | null };
+      language_tool: { score: number | null };
+    };
+    top_evidence: Array<{ type: string; summary: string; spans: Array<{ start: number; end: number }> }>;
+  }>;
+  word_count: number;
+};
+
 export type DashboardData = {
   bookTitle: string;
   wordCount: number;
@@ -65,12 +92,23 @@ export type DashboardData = {
   logs: LogLine[];
   contradictions: Contradiction[];
   healthIssues: HealthIssue[];
+  aiReport: AIDetectionReport;
   slopReport: {
     Monotone: boolean;
     MeanSentenceLength: number;
     SentenceLengthSD: number;
     BadWordDensity: number;
     LowOriginality: boolean;
+    RepeatedBlockCount: number;
+    MaxBlockRepeat: number;
+    VerbatimDuplicationCoverage: number;
+    RepeatedPhraseCoverage: number;
+    DramaticDensity: number;
+    DramaticDensitySD: number;
+    ExpansionMarkerCount: number;
+    OptimizationMarkerCount: number;
+    AISuspicionScore: number;
+    LikelyAIGenerated: boolean;
     Flags: string[];
   };
   timeline: Array<{ time_marker: string; event: string }>;
@@ -119,7 +157,7 @@ export type DashboardData = {
   };
 };
 
-export type TabName = "health" | "structure" | "market" | "language" | "dictionary";
+export type TabName = "ai" | "structure" | "market" | "language" | "dictionary";
 export type LogFilter = "ALL" | "INFO" | "ANALYSIS" | "RISK";
 
 export const emptyData: DashboardData = {
@@ -129,12 +167,34 @@ export const emptyData: DashboardData = {
   logs: [],
   contradictions: [],
   healthIssues: [],
+  aiReport: {
+    document_id: "",
+    p_ai_doc: null,
+    ai_coverage_est: null,
+    p_ai_max: null,
+    confidence_doc: null,
+    flags: [],
+    errors: [],
+    traces: [],
+    windows: [],
+    word_count: 0,
+  },
   slopReport: {
     Monotone: false,
     MeanSentenceLength: 0,
     SentenceLengthSD: 0,
     BadWordDensity: 0,
     LowOriginality: false,
+    RepeatedBlockCount: 0,
+    MaxBlockRepeat: 0,
+    VerbatimDuplicationCoverage: 0,
+    RepeatedPhraseCoverage: 0,
+    DramaticDensity: 0,
+    DramaticDensitySD: 0,
+    ExpansionMarkerCount: 0,
+    OptimizationMarkerCount: 0,
+    AISuspicionScore: 0,
+    LikelyAIGenerated: false,
     Flags: [],
   },
   timeline: [],

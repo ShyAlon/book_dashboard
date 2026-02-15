@@ -1,0 +1,88 @@
+Chapter 5: Untitled
+
+[22:03:06] Ollama call started (attempt 1/3, temperature=0.75)
+[22:03:26] Ollama call still running... elapsed=20s (attempt 1/3)
+[22:03:46] Ollama call still running... elapsed=40s (attempt 1/3)
+[22:03:48] Ollama call completed in 42s
+The Starcartographer's Oath
+
+Chapter 5: Celestial Convergence
+
+As Ilya navigated the narrow streets of Cygnus, her cartomancer's instincts screamed at her to hurry. She sensed a disturbance in the celestial balance, like the gentle hum of a harp string plucked out of tune. The city's inhabitants bustled around her, their mundane routines starkly contrasting with the ominous feeling that had taken hold.
+
+She had been walking for what felt like hours, following Lyraea through winding alleys and across grand boulevards. They moved unseen, weaving past market stalls and vendors hawking their wares to the crowds. The moon cast its silvery glow over the city, casting long shadows behind them as they walked.
+
+Ilya's thoughts were consumed by the strange sensation building inside her. It was like a whispered secret, one that only she could hear. She had experienced it before, in fleeting moments when the world seemed to bend and warp around her. This felt different, though – more intense, more urgent.
+
+A sudden shout echoed through the night air as a group of sky-raiders descended upon a nearby square. Their aeromancer's magic sent wispy tendrils of air swirling about them, their eyes blazing with an otherworldly energy. Ilya recognized the signs; she had studied the movements of these raiders in her cartography work.
+
+Without hesitation, Lyraea drew her blade and sprinted toward the fray. "Come!" she shouted over the din, beckoning Ilya to follow. The young mapmaker hesitated for a moment before dashing after Lyraea, their footsteps pounding out a staccato rhythm against the cobblestones.
+
+The battle raged on, its chaos unfolding with dizzying speed. Ilya saw glimpses of Rowan and Tamsin in the distance, their own blades flashing as they fought to hold off the raiders' initial wave. But Lyraea led her straight into the heart of the melee, dodging between combatants with an uncanny ease.
+
+As they charged forward, Ilya stumbled upon a small, intricately carved box on the ground. Its surface shimmered like moonlit water, and she felt an inexplicable pull toward it. The symbol etched onto its lid – a stylized representation of celestial bodies in conjunction – seemed to sear itself into her mind.
+
+Lyraea's battle cry echoed through her ears as Ilya opened the box. A puff of glittering dust spilled out, carrying with it the scent of starlight and forgotten memories. The world around her began to blur, colors bleeding together like watercolors on wet paper.
+
+The sky-raiders' magic intensified, whipping up a frenzy of swirling winds and lightning-lit skies. Ilya's vision swam as she raised her hands, feeling an unfamiliar power coursing through her veins. She sensed the threads of fate weaving themselves into a tapestry of possibility – a celestial convergence that threatened to shatter the balance of their world.
+
+And then, in the midst of this chaos, something within Ilya shifted. A spark ignited within her, casting its radiance across the battle-scarred landscape. The sky-raiders' magic faltered as she reached out with an unsteady hand, touching the symbol on the box's lid.
+
+The world went dark.
+
+When Ilya came to, she found herself standing amidst a silent, moonlit expanse – her back against the stone wall of an ancient building, the box still clutched in her hand. Lyraea knelt beside her, their eyes locked in a moment of quiet understanding.
+
+"You have it," Lyraea whispered, voice barely audible over the pounding of Ilya's heart. "The gift of cartomancy."
+
+As Ilya struggled to sit up, the world around them began to change once more – colors bleeding back into focus like watercolors drying on paper. The silence was shattered by a sound unlike any other: the soft, ethereal whisper of celestial bodies aligning in a pattern that had not been seen for centuries.
+
+Ilya's eyes met Lyraea's, and she felt a jolt of recognition run through her veins. "What does it mean?" she asked, voice barely above a whisper.
+
+Lyraea's gaze turned toward the horizon as if drawn by some unseen force. "The celestial map is unfolding," they said, their words carrying an air of both wonder and foreboding. "And with this power, we may yet change the course of our world."
+
+As Ilya watched, Lyraea vanished into the darkness, leaving her to ponder the weight of those words – and the secrets that still lay hidden within the celestial map.
+
+In the shadows, a lone figure observed their parting, eyes aglow with an otherworldly energy. The air seemed to ripple around them as they spoke a single word: "Begin."
+
+[22:03:48] Ollama call started (attempt 1/3, temperature=0.7)
+[22:04:09] Ollama call still running... elapsed=21s (attempt 1/3)
+[22:04:27] Ollama call completed in 39s
+The figure's voice was like a whisper on the wind, barely audible over the distant hum of magic. As it faded away, the world around Ilya began to stir once more. The sky-raiders' battle-scarred bodies lay scattered across the square, their aeromancer's magic dissipating as quickly as it had appeared.
+
+Ilya's gaze wandered back to Lyraea's vanishing form, her mind reeling with the implications of what had just transpired. She felt a strange connection to the box and its symbol, like a part of her was now inextricably linked to the celestial map.
+
+As she stood up, brushing off her tattered clothes, Ilya noticed Rowan and Tamsin approaching cautiously through the shadows. Their faces were etched with concern, their eyes scanning the scene for any signs of danger.
+
+"What happened?" Rowan asked, falling into step beside Ilya as they walked away from the square. "We saw you... doing something."
+
+Ilya hesitated, unsure how to explain the events that had transpired. Lyraea's words still lingered in her mind – the celestial map unfolding, and their world on the brink of change.
+
+"It's complicated," she said finally, glancing at Tamsin, who was watching her with a keen eye. "I think I've tapped into something... big."
+
+Tamsin's expression turned thoughtful, but Rowan's face clouded over with worry. "You're not going to be able to control it, are you?" he asked, his voice tinged with concern.
+
+Ilya shook her head, feeling a sense of trepidation wash over her. She had no idea what she was capable of, or how to harness this newfound power. The symbol on the box seemed to sear itself into her mind once more, and she knew that she would have to confront its secrets head-on.
+
+"I don't think I'll be able to choose," she said softly, the words barely above a whisper. "I feel like it's choosing me."
+
+The trio walked in silence for a moment, their footsteps echoing through the deserted streets as they navigated the winding alleys of Cygnus. The city seemed to slumber around them, its inhabitants lost in their own private struggles and triumphs.
+
+As they turned a corner onto a grand boulevard, Ilya spotted a figure standing atop a nearby rooftop – Lyraea's silhouette stark against the moonlit sky. They seemed to be watching something in the distance, their gaze fixed intently on some unseen point beyond the city's horizon.
+
+"What are we going to do?" Rowan asked again, his voice laced with anxiety.
+
+Ilya glanced at Tamsin, who raised an eyebrow as if urging her to take charge. But Ilya felt lost and uncertain, like a ship without anchor or rudder in a stormy sea.
+
+"We'll follow Lyraea," she said finally, the decision made on instinct rather than reason. "She seems to know what's going on."
+
+As they continued their way through the city's labyrinthine streets, Ilya couldn't shake off the feeling that they were being drawn into something much larger – a celestial convergence that would change the course of their world forever.
+
+The moon hung low in the sky, casting long shadows across the rooftops and alleyways. Lyraea's figure remained stationary atop the rooftop, a beacon of enigmatic purpose in the darkness.
+
+And then, without warning, they vanished into thin air – leaving behind only the faintest whisper of magic on the wind, like the soft lapping of waves against a distant shore.
+
+Ilya felt a shiver run down her spine as she gazed up at the empty rooftop. "What just happened?" Rowan whispered, his voice barely audible over the beating of their hearts.
+
+Tamsin's eyes locked onto hers, and Ilya saw a glimmer of understanding there – a spark that seemed to ignite within her own chest like a match struck against flint.
+
+"We're about to find out," she said softly, her voice carrying on the wind as they vanished into the darkness, following Lyraea into the unknown.

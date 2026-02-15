@@ -1,0 +1,392 @@
+AI Prose Detection Module Spec (Long-Form Prose, Raw Text Only)
+
+Purpose
+
+Add a decision-support module that analyzes a long-form English manuscript (4k–120k words) and returns:
+	•	A document-level probability that some portion of the prose was AI-generated (words drafted by an LLM).
+	•	A coverage estimate (approx. fraction of text likely AI-drafted).
+	•	A section/window-level probability heatmap (for internal use + existing UI integration).
+	•	Evidence + flags that explain why a section scored high.
+
+This module is optimized for detecting raw LLM output pasted into manuscripts.
+
+⸻
+
+1) Definitions
+
+1.1 What “AI-generated” means
+
+AI-generated = the prose (the actual words) appears to have been drafted by an LLM.
+Plotting/outlining/edit suggestions are out of scope.
+
+1.2 Output probabilities
+	•	p_ai_doc ∈ [0,1]: Probability the document contains a non-trivial amount of AI-generated prose.
+	•	ai_coverage_est ∈ [0,1]: Estimated fraction of the document likely AI-generated (rough estimate).
+	•	Per-window:
+	•	p_ai_window ∈ [0,1]
+	•	confidence_window ∈ [0,1]
+
+1.3 “Non-trivial” threshold
+	•	coverage_trigger = 0.03 (3% of tokens/words).
+If the model estimates AI content ≥ 3%, this should push p_ai_doc up.
+
+⸻
+
+2) Integration Requirements
+	•	Must integrate into the existing UI (no UI spec here).
+	•	Must work on raw text only (no metadata, no revision history).
+	•	English only.
+
+⸻
+
+3) Module Architecture
+
+Implement as a backend service/module (library or microservice is fine) with 4 layers:
+	1.	Ingestion & Normalization
+	2.	Segmentation
+	3.	Feature Extraction
+	4.	Scoring + Report Assembly
+
+⸻
+
+4) Input / Output
+
+4.1 Input
+
+{
+  "document_id": "string",
+  "text": "string",
+  "language": "en"
+}
+
+4.2 Output
+
+{
+  "document_id": "string",
+  "p_ai_doc": 0.0,
+  "ai_coverage_est": 0.0,
+  "p_ai_max": 0.0,
+  "confidence_doc": 0.0,
+  "flags": ["string"],
+  "windows": [
+    {
+      "window_id": "string",
+      "start_word": 0,
+      "end_word": 0,
+      "p_ai": 0.0,
+      "confidence": 0.0,
+      "signals": {
+        "duplication": {"score": 0.0, "evidence": []},
+        "lm_smoothness": {"score": 0.0},
+        "style_uniformity": {"score": 0.0},
+        "polish_cliche": {"score": 0.0},
+        "language_tool": {"score": 0.0}
+      },
+      "top_evidence": [
+        {"type": "duplication", "summary": "string", "spans": [{"start":0,"end":0}]}
+      ]
+    }
+  ],
+  "errors": []
+}
+
+
+⸻
+
+5) Segmentation Spec (Windows)
+
+5.1 Word-window segmentation
+	•	window_words = 900
+	•	stride_words = 450 (50% overlap)
+
+Steps:
+	1.	Split text into words (whitespace split is OK).
+	2.	Create windows:
+	•	window 0: words 0–899
+	•	window 1: words 450–1349
+	•	…
+	3.	Each window keeps:
+	•	start_word, end_word
+	•	window_text
+	4.	If document < 900 words:
+	•	create one window for all text.
+
+⸻
+
+6) Feature Extraction
+
+Compute these per window.
+
+6.1 Duplication & Near-Duplication (High Priority)
+
+Goal: detect pasted/repeated blocks and restart-like duplication.
+
+Inputs
+	•	Whole-document normalized text
+	•	Window text
+
+Normalization
+	•	lower-case
+	•	collapse whitespace
+	•	strip punctuation except .?! (optional)
+
+Exact duplication (paragraph hashes)
+	•	Split into paragraphs by blank lines.
+	•	Hash each paragraph (e.g., SHA-1).
+	•	Flag if same paragraph hash appears more than once in distant locations.
+
+Near-duplication (n-gram hashing)
+	•	dup_ngram_n = 10 (word 10-grams)
+	•	For each window:
+	•	build set of hashed 10-grams
+	•	For window pairs where distance ≥ 2 windows:
+	•	compute Jaccard overlap
+	•	near_dup_threshold = 0.18 (tune later)
+
+Per-window output
+	•	dup_score ∈ [0,1]:
+	•	scale based on:
+	•	count of duplicated paragraphs in this window
+	•	max Jaccard overlap with any distant window
+	•	length of repeated spans
+	•	dup_evidence:
+	•	list of:
+	•	matched window id
+	•	approximate word-span ranges
+
+Override rule
+
+If repeated span length ≥ 250 words:
+	•	force p_ai_window >= 0.90
+	•	set confidence_window >= 0.80
+	•	add flag: "long_duplicate_span"
+
+⸻
+
+6.2 LM Smoothness (Optional but Recommended with Ollama)
+
+Goal: detect raw LLM “smooth” uniform prose.
+
+If token logprobs are not accessible in your current Ollama setup, skip this feature and set its score to null and confidence impact accordingly.
+
+What to compute (if available)
+
+Per sentence:
+	•	surprisal/logprob per token
+Then per window:
+	•	mean_surprisal
+	•	surprisal_std
+	•	burstiness = surprisal_std / mean_surprisal
+
+Map to lm_smoothness_score ∈ [0,1]:
+	•	lower burstiness ⇒ higher AI-likelihood score
+
+⸻
+
+6.3 Style Uniformity
+
+Compute per window:
+	•	Sentence length mean + std
+	•	Punctuation rates (commas, em-dashes, semicolons)
+	•	MATTR (moving-average type-token ratio; choose a small internal window like 200 words)
+
+Score:
+	•	overly consistent sentence length + low variance ⇒ higher AI-likelihood
+
+Output:
+	•	style_uniformity_score ∈ [0,1]
+
+⸻
+
+6.4 Polish/Cliché Lexicon (Low/Medium Weight)
+
+Maintain a small lexicon file in repo:
+	•	intensifiers list
+	•	stock rhetorical frames patterns (regex)
+	•	“cinematic descriptor” list (start small, expand later)
+
+Compute per window:
+	•	intensifier_density (per 1k words)
+	•	stock_frame_rate (per 1k sentences)
+Map to polish_cliche_score ∈ [0,1].
+
+⸻
+
+6.5 LanguageTool Profile (Low Weight)
+
+Use LanguageTool on window text:
+	•	grammar/spelling issues per 1k words
+	•	style suggestions per 1k words (if available)
+Map to lt_cleanliness_score ∈ [0,1]:
+	•	fewer issues ⇒ slightly higher AI-likelihood
+	•	keep low weight to avoid false positives on clean human prose
+
+Performance note:
+	•	Run LanguageTool per window OR batch windows in chunks of 2–3 to reduce overhead.
+
+⸻
+
+7) Scoring
+
+7.1 Window-level probability
+
+Compute normalized score_i ∈ [0,1] for each signal.
+
+Initial weights (raw LLM optimized):
+	•	duplication: 0.35
+	•	lm_smoothness: 0.30 (or redistribute if unavailable)
+	•	style_uniformity: 0.20
+	•	polish_cliche: 0.10
+	•	language_tool: 0.05
+
+If lm_smoothness is unavailable:
+	•	redistribute 0.30 to:
+	•	duplication +0.15
+	•	style_uniformity +0.10
+	•	polish_cliche +0.05
+
+Compute:
+	•	z = Σ(w_i * score_i) + bias
+	•	p_ai_window = sigmoid(z)
+
+Bias (initial):
+	•	bias = -0.20 (slightly conservative; tune later)
+
+Apply duplication override rule (Section 6.1).
+
+7.2 Window confidence
+
+Compute confidence_window ∈ [0,1]:
+	•	start at 0.6
+	•	+0.15 if duplication evidence exists
+	•	+0.10 if ≥3 signals agree (all above 0.6)
+	•	-0.20 if lm_smoothness missing
+	•	-0.10 if window < 600 words (rare)
+
+Clamp to [0,1].
+
+7.3 Document-level probability
+
+You want “AI exists somewhere”.
+
+Compute:
+	•	p_ai_doc = 1 - Π (1 - p_ai_window_weighted)
+Where p_ai_window_weighted = p_ai_window * confidence_window
+
+Compute:
+	•	ai_coverage_est = weighted_mean(p_ai_window) (length-weighted; confidence-weighted)
+	•	p_ai_max = max(p_ai_window)
+
+Doc confidence:
+	•	average of top 10 windows by p_ai_window, weighted by their confidence.
+
+Flags:
+	•	"ai_chunk_detected" if p_ai_max >= 0.85
+	•	"widespread_ai_signal" if ai_coverage_est >= 0.35
+	•	"possible_stitching" if duplication flags exist
+
+⸻
+
+8) Logging, Tracing, Error Handling
+
+8.1 Structured logging (required)
+
+Every run logs:
+	•	document_id
+	•	word count
+	•	number of windows
+	•	per-stage duration (ms)
+	•	model/tool availability (Ollama ok? LanguageTool ok?)
+	•	counts of warnings/errors
+	•	final outputs: p_ai_doc, ai_coverage_est, p_ai_max (no raw text)
+
+Do not log manuscript text.
+Log only:
+	•	spans (start/end indices)
+	•	hashes for duplication evidence
+
+8.2 Tracing (required)
+
+Add trace spans for:
+	•	normalize_text
+	•	segment_windows
+	•	duplication_scan
+	•	language_tool_run
+	•	lm_scoring_run (if present)
+	•	score_windows
+	•	aggregate_document
+
+Include timing + error status per span.
+
+8.3 Error handling (required)
+
+The module must degrade gracefully:
+	•	If LanguageTool fails:
+	•	set lt_cleanliness_score = null
+	•	reduce confidence
+	•	add error entry in errors[]
+	•	continue
+	•	If Ollama LM scoring fails/unavailable:
+	•	set lm_smoothness_score = null
+	•	redistribute weights as specified
+	•	add error entry
+	•	continue
+	•	If segmentation fails (shouldn’t):
+	•	return an error with p_ai_doc = null and errors[] populated
+
+Errors schema:
+
+{
+  "stage": "string",
+  "message": "string",
+  "type": "timeout|tool_unavailable|exception|bad_input",
+  "retryable": true
+}
+
+Timeouts:
+	•	LanguageTool window analysis timeout: 3s per window (or per batch)
+	•	Ollama scoring timeout: 5s per window (if used)
+If timeouts occur, skip that signal and proceed.
+
+⸻
+
+9) Configuration
+
+Expose config (env or config file):
+	•	window_words
+	•	stride_words
+	•	weights + bias
+	•	thresholds: near_dup_threshold, dup_override_min_words
+	•	coverage_trigger
+	•	tool toggles: enable_language_tool, enable_lm_scoring
+
+⸻
+
+10) Testing Plan (minimum)
+
+10.1 Unit tests
+	•	window segmentation boundaries
+	•	n-gram hashing deterministic
+	•	duplication detection:
+	•	exact duplicate paragraphs
+	•	near-duplicate blocks
+	•	no false positives on small repeats
+
+10.2 Integration tests
+	•	LanguageTool failure simulation → still produces output
+	•	Ollama failure simulation → weights redistributed and output produced
+
+10.3 Behavioral tests (you can create these now)
+
+Create synthetic documents:
+	1.	Fully human text (from your corpus)
+	2.	Human text with 2–3 AI windows inserted
+	3.	Fully AI-generated long-form (generate via Ollama in chapters)
+	4.	AI text with repeated restart artifact (force duplicate chapter)
+
+Validate:
+	•	inserted AI windows should spike p_ai_window
+	•	fully AI should yield high ai_coverage_est
+	•	duplication artifact should trigger override + flags
+
+⸻

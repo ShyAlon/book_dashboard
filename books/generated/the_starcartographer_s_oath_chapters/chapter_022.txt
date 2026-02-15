@@ -1,0 +1,91 @@
+Chapter 22: Untitled
+
+[22:36:42] Ollama call started (attempt 1/3, temperature=0.75)
+[22:37:03] Ollama call still running... elapsed=21s (attempt 1/3)
+[22:37:19] Ollama call completed in 37s
+The Starcartographer's Oath
+Chapter 22: Fractured Alliances
+
+As Ilya and Lyraea emerged from the hidden doorway, they were met with an unrelenting chaos that threatened to consume everything in its path. The once-familiar streets of Cygnus now twisted and curved like a madman's canvas, their usual rhythms disrupted by an unseen force. It began with small tremors – faint tremors at first, like the quiet hum of a harp string – but these grew into violent convulsions that shattered windows and sent terrified citizens running for cover.
+
+Lyraea clutched Ilya's arm, her grip tight enough to leave bruises on tender skin. "We have to keep moving," she shouted above the din, her voice like a whip cracking through the air. "They're coming!"
+
+Ilya didn't need to ask who 'they' were. The abyss breach had created a chasm in reality itself, and whatever horrors lurked beyond its edges now threatened to spill into their world. She shook off Lyraea's grip, her eyes scanning the horizon for any sign of Rowan or Tamsin.
+
+"We have to find them!" Ilya yelled back, but Lyraea merely tugged harder on her arm.
+
+"Not now! We can't afford to be separated. Come!"
+
+Ilya hesitated, torn between her loyalty to her friends and the desperate need to escape the city's crumbling foundations. But Lyraea's determination was infectious – or perhaps it was something more insidious? Ilya's memories of their past encounters still felt like a jumble of half-remembered dreams, but one thing remained constant: Lyraea's unwavering focus on finding the relic.
+
+As they navigated through the narrow streets, the very earth itself seemed to writhe and twist around them. Cracks opened up in the pavement, revealing glimpses of ancient tunnels that lay hidden beneath the city. Ilya stumbled upon a piece of stone that had broken off from one such fissure – it was smooth to the touch, but etched with symbols that pulsed with an otherworldly energy.
+
+"Lyraea!" she cried out, waving the stone in her hand.
+
+Her companion paused for an instant, then yanked Ilya onward. "We can't stop now! Not when—"
+
+But something caught Lyraea's attention – a figure stumbling into the plaza, face pale with terror. The newcomer stumbled towards them, shouting warnings about 'them' coming for them, but before he could reveal more, Lyraea clamped her hands on his shoulders and extracted the truth.
+
+Ilya felt a shiver run down her spine as she watched Lyraea's eyes turn into two dark pools of power. "What do you know?" Lyraea hissed, her grip like a vice on the poor man's skin.
+
+The stranger's words spilled out in a panicked rush – something about 'Erebus' lost journal', the relic's location hidden within an ancient text, and the darkness that would befall their world if it fell into the wrong hands. Ilya's ears reeled as Lyraea extracted every last detail from the man's quivering lips.
+
+And then, just as they were about to flee, a new warning scrawled across the stone beneath their feet: an otherworldly sigil that blazed like a beacon in the darkness, its light calling out to Ilya with a voice that spoke directly to her soul. She felt it resonating within her – a siren's call that beckoned her toward the unknown.
+
+"It's time," Lyraea declared, her eyes blazing with an unholy intensity. "We run."
+
+Ilya's heart caught in her throat as she gazed upon the glowing sigil, its secrets waiting to be unlocked. Together, they plunged into the chaos, their footsteps echoing through the shattered streets of Cygnus like a death knell for all that remained.
+
+But little did Ilya know, their desperate dash was only just beginning – for in the shadows, unseen eyes watched their every move, and the true meaning behind the Ollama calls would soon be revealed.
+
+[22:37:19] Ollama call started (attempt 1/3, temperature=0.7)
+[22:37:39] Ollama call still running... elapsed=20s (attempt 1/3)
+[22:37:59] Ollama call still running... elapsed=40s (attempt 1/3)
+[22:38:03] Ollama call completed in 44s
+As they burst into a dead sprint, the city's chaos intensified around them. Glass shattered, buildings creaked, and the very fabric of reality seemed to unravel before their eyes. Ilya stumbled, her foot catching on a loose paving stone, but Lyraea yanked her upright with an iron grip.
+
+"Don't look back!" Lyraea shouted over the din. "We can't afford to lose our momentum!"
+
+Ilya didn't need to be told twice. She fixed her gaze on the figure in front of them – the same stranger who had stumbled into their midst, his eyes wide with terror as he struggled to keep pace.
+
+"What's your name?" Ilya called out to him, her voice barely audible above the howling wind.
+
+"Kael... Kaelin," the man gasped between breaths. "I... I was a scholar at the Cygnus University. Studied the ancient texts –"
+
+Lyraea cut him off with a curt nod. "We don't have time for explanations. Tell us about Erebus' journal."
+
+Kaelin stumbled, his eyes darting wildly around as if searching for an escape from the nightmare unfolding around them. "It's... it's hidden within the Celestial Atlas," he stammered. "Erebus wrote of a secret text – a cipher that only reveals its true meaning when aligned with the celestial bodies."
+
+Ilya's mind reeled at the mention of the Atlas, an ancient tome rumored to contain secrets of the cosmos itself. If Lyraea was after it... But before she could ask any questions, Kaelin's words were cut short by a deafening roar.
+
+A massive crack tore through the air as a nearby building crumbled into dust and rubble. The impact sent Ilya stumbling, her vision blurring as debris rained down around them. When she looked up, Lyraea was nowhere to be seen – only Kaelin's terrified form flailing about in mid-air.
+
+Ilya rushed towards him, her heart racing with fear, but just as she reached out to grab his arm, Lyraea materialized beside her, a fierce glint in her eye. Together, they hauled Kaelin to safety, shielding him from the falling debris as he cowered beneath their protection.
+
+As the dust settled, Ilya spotted the figure – the one who had been watching them with an unseen gaze. Tall and imposing, its presence seemed woven into the very fabric of reality itself. The air around it rippled like water, creating miniature whirlpools that danced in the surrounding air.
+
+"It can't be," Lyraea breathed, her voice barely audible above a whisper. "He's... he's one of them."
+
+Ilya followed her gaze to the newcomer – and froze. For an instant, their eyes locked in a silent understanding. Then, without warning, the stranger vanished into thin air, leaving behind only the faintest echo of its presence.
+
+"What just happened?" Ilya asked, her voice shaking with unease.
+
+Lyraea's face twisted into a grimace. "We've got company – and it's not going to be pleasant."
+
+Their route had changed in an instant. They now sprinted towards the city's eastern gate, the one that led directly into the abyssal breach itself. Ilya's heart sank as she realized their plan: Lyraea intended to plunge headfirst into the unknown.
+
+"We can't go there," Ilya protested, her voice rising above a desperate whisper. "It's madness!"
+
+Lyraea didn't respond – merely kept pounding down the street with an unyielding determination that sent shivers down Ilya's spine. As they burst through the city gates, the very walls of reality seemed to begin unraveling around them.
+
+A chasm yawned open before their eyes – a gash in the fabric of existence so vast and terrible that it defied comprehension. The sound of screaming souls echoed from beyond its edges, a cacophony of despair that threatened to consume everything within reach.
+
+Ilya stumbled, her vision blurring as the world around her began to distort and writhe like a living thing. And in the heart of this maelstrom, Lyraea stood poised – ready to leap into the void with an unholy grin spreading across her face.
+
+"We're running out of time," she shouted back over the howling wind. "The relic is waiting – and I'll get it, no matter what."
+
+As Ilya's heart screamed in protest, Lyraea launched herself forward, vanishing into the abyssal breach with a reckless abandon that left Ilya stumbling after her, lost and alone in a world on the brink of collapse.
+
+But just as all hope seemed lost – just when Ilya thought she'd never catch up to Lyraea's maddening pace – a faint hum began to reverberate through the air. It started with a whisper, growing louder by the second until it became an earsplitting shriek that shook the very foundations of reality.
+
+The Ollama calls had begun in earnest – and Ilya knew their world would never be the same again...
